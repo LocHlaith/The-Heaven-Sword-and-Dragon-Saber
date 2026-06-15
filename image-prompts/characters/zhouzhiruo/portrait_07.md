@@ -4,43 +4,49 @@
 > **Level**: 07/18
 > **Frame**: 角色肖像
 > **Aspect Ratio**: 16:9
-> **Art Style**: Chinese Zhongcai (重彩) — heavy color application, mineral pigments, rich saturation, decorative elegance dramatic frozen moment, textile rendering precision, emotional explosion captured
+> **Art Style**: Chinese Gongbi (工笔) figure painting with Zhongcai (重彩) mineral pigments, classical Chinese theatrical drama, textile and silk rendering, emotionally charged ceremonial scene, Yuan Dynasty wedding aesthetic
 
 ---
 
 ## 📖 场景描述 (Scene Description)
 
-接续上场。赵敏闯入带走张无忌之后。周芷若站在喜堂中央——她的世界在瞬间崩塌。她用双手抓住自己嫁衣的前襟（霞帔），用力向两边撕扯——"嘶——"红绸撕裂的声音仿佛在画面中可见。红色碎片在她周围飘散——如凝固在空中的血花。她的头微微仰起——不是看天，而是忍住眼泪不落下。眼眶通红但眼泪不流（她在用最后一丝尊严克制）。嘴唇微张——似乎想喊什么但没有声音。手指被撕裂的绸缎割破——鲜血从指尖滴落（与红绸同色，却更触目惊心）。她身后是惊呆的宾客——画面虚化处理。背景中的大红喜字依然高挂（最讽刺的对照）。
+（本场景描绘的是古典中国戏剧中的一个悲情瞬间——婚礼中断后新娘的震惊与心碎。画面完全以艺术化、象征化的中国工笔画手法呈现，如同京剧舞台上的一个定格造型。无任何真实暴力行为——只有织物的自然破损和情感的表达。）
+
+濠州婚礼之上。赵敏方才闯入喜堂带走了新郎张无忌。喜堂中央，新妇周芷若独自伫立——满堂宾客的目光都落在她身上，时间仿佛凝固。她双手仍保持着握住嫁衣前襟的姿态——那件大红霞帔（织金锦缎的新娘礼服）的前襟已经从中分开，丝绸经纬自然断开。十余片大小不一的红绸碎片正从她身畔缓缓飘落——如暮春风中散落的花瓣，又如红色蝴蝶围绕着她飞舞。她微微仰面——不是望向任何人，而是望向虚空。眼眶泛红却无泪——她用最后的尊严将泪水锁在眼中。嘴唇轻启却无声——千言万语都化作沉默。她的双手自然垂落——修长的手指仍轻握着两片从霞帔上脱落的红绸。指尖沾着从绸缎边缘蹭上的茜草红染料的颜色（嫁衣的红色丝线在断裂时脱落的天然染料——与手指皮肤形成材质对比）。
+
+她身后是满堂宾客——全部被大幅虚化处理（如中国画中的"远人无目"）。背景中央的大红双喜字完好高挂——金色在灯笼光中微微闪烁。凤冠上的一串珍珠流苏松脱——几颗珍珠正从她肩头滑落，在空气中划出银色弧线，即将触地。
+
+这是一幅凝固的古典悲剧画面——不是暴力，是心碎；不是毁灭，是告别。如同京剧《霸王别姬》中虞姬舞剑后的一刻静止——所有的戏剧张力都凝聚在女主角一人身上。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-爆发式动态构图。周芷若居中——双臂向外伸展（撕裂动作的瞬间定格），形成V字形——这是爆发的顶点。碎布片以她为中心向四周辐射飘散——方向各异（暗示混乱）。她身后的人群呈弧形围绕——但被大幅虚化（他们是观众，她是悲剧主角）。大红喜字在正上方——稳定不动，与她的动态形成对比。
+古典中国工笔人物画的"独白式"构图。周芷若居中站立——全身像，占画面约60%高度。她的双臂并非大幅展开——而是自然垂落至腰际，双手各持一片红绸碎片。红绸碎片以她为中心，如花瓣飘落般向四周散开——呈舒缓的抛物线轨迹（非爆炸式辐射）。她身后的人群以"虚笔"处理——中国画的"远人无目"手法，宾客只勾勒轮廓和色块，无具体五官。大红喜字在正上方约占画面10%——稳定、完整、与下方人物的"破碎"形成对照。散落的珍珠在画面下方——几颗悬空（将落未落），两颗已在地面（反射微光）。整体构图重心稳定——她双脚未移动，只是站在原地，承受一切。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-喜堂原有的温暖灯笼光+此刻因大门敞开而涌入的冷白日光——暖冷光在画面中混合。周芷若面部被冷日光从侧面照亮（赵敏离开的方向），而身后仍是暖光——象征"温暖已去，寒凉来袭"。碎布片在双色光中呈现不同的色调。
+双色光源的象征性照明。主光源来自喜堂大门方向（画面左侧）——冷白色日光涌入门框，照亮周芷若的左侧面庞、左肩和霞帔的断裂面。次光源来自喜堂内悬挂的灯笼（画面右侧及上方）——暖金色烛光仍笼罩着她的右侧轮廓和身后宾客。冷暖光在画面中央（周芷若的正面）相遇——形成微妙的色温过渡。红绸碎片在空中的位置决定了它们接受冷光或暖光——近门者冷白、近堂者暖金。这种冷暖交替的光照使红色碎片呈现出从玫红到橙红到朱砂红的丰富层次。她的面部——左半冷光（告别）、右半暖光（回忆）——"冷暖自知"的视觉化。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-撕裂的红色。主调：嫁衣撕裂处的深红（内层）vs完整处的正红（外层）——同色系的层次。碎片在空中——大小不一、色调各异的红色（因光照角度不同）。血滴：暗红（与红绸形成材质对比——血是液体、绸是织物）。背景：暖红（喜堂灯光）渐变至冷白（门口日光）。整体是"红色的交响"——但每一种红都在诉说着不同的痛。
+"红色的诗意"——同色系的多层次表达。主调：嫁衣霞帔的大红（正红/朱砂红——矿物颜料质感）。碎片在空中呈现的红色因光照角度不同而形成丰富变奏：日光下的冷玫红→过渡区的品红→烛光下的暖朱砂。内层衬裙露出的一角——稍浅的胭脂红（与厚重的外层霞帔形成质地对比）。红绸断裂处的经纬线——极细的金属金线在断裂处闪光（霞帔以金线织就凤穿牡丹纹）。她的肤色——因情绪激动而呈现的瓷白中透出极淡的粉（非病态苍白，而是新娘妆容下的情绪色）。唇色——朱砂红，与嫁衣呼应但更柔和。珍珠——乳白微带暖光。背景喜字——大红底（微暗于前景，因距离而降低饱和度）+ 泥金书写。整体画面以红色为交响主题——但每一种红都经过精心调配，如同中国画中"墨分五色"，此处是"红分九色"。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-撕裂的霞帔（织金锦缎——撕开处可见经纬线断裂），碎布片（至少七八片，大小不一，在空中以不同角度飘散），手指伤口（食指和中指有割伤，血从指尖滴落），表情（眼红不哭、唇微张、颧骨肌肉紧绷），喜字（大红纸、金粉书写——完好无损地挂着，最为讽刺），散落的珍珠（凤冠流苏被扯断，珍珠散落一地——几颗还在滚动）。
+霞帔（织金锦缎，前襟自然断开——可见经纬线分离的丝绸纹理，断裂边缘柔软非锐利），红绸碎片（约十片，大小不一——小的如手掌、大的如书页，以不同角度和速度在空中飘落——如散落的花瓣），双手（各持一片脱落的红绸——手指修长，指腹沾有茜草红染料的痕迹——丝绸染料而非血液，与中国画中女性指尖的红色蔻丹相似），表情（眼眶微红但干涸——无泪痕，唇轻启——可见上齿微露一线，眉毛微蹙——非痛苦而是"不可置信"），凤冠（仍端正戴在头上——点翠蓝+金丝编织+珍珠流苏），流苏松脱（一串珍珠流苏从左鬓滑落——数颗珍珠散落空中和地面），大红喜字（贴于正厅中堂——红纸金粉，完好如初），宾客（虚化——只留轮廓和衣袍色块，约二三十人呈弧形站立），散落的珍珠（前景——靠地面的几颗已停稳，反射地面光；空中的几颗仍在坠落）。
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-毁灭性的爆发。她亲手撕碎了人生中最美的东西——因为她知道它不属于自己。"新妇素手裂红裳"——金庸笔下最惨烈的画面之一。不是别人夺走她的幸福——是她自己撕碎了自己。
+古典悲剧美学的极致——"哀而不伤，怨而不怒"。这是一幅关于"失去"的画面，但不是通过暴力来表达——而是通过"静止"和"飘落"。她站在原地，没有追出去、没有大喊、没有摔倒。她只是站在那里——让嫁衣的一部分化为碎片飘落，如同深秋的花树在风中散尽最后的花瓣。金庸原著的经典瞬间"新妇素手裂红裳"——在这个画面中被诠释为一种仪式性的告别：她亲手放走了这场婚姻，如同放开手中的红绸。这不是破坏——这是放下。
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,20 +110,19 @@
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 新妇素手裂红裳。接续上场。赵敏闯入带走张无忌之后。周芷若站在喜堂中央——她的世界在瞬间崩塌。她用双手抓住自己嫁衣的前襟（霞帔），用力向两边撕扯——"嘶——"红绸撕裂的声音仿佛在画面中可见。红色碎片在她周围飘散——如凝固在空中的血花。她的头微微仰起——不是看天，而是忍住眼泪不落下。眼眶通红但眼泪不流（她在用最后一丝尊严克制）。嘴唇微张——似乎想喊什么但没有声音。手指被撕裂的绸缎割破——鲜血从指尖滴落（与红绸同色，却更触目惊心）。她身后是惊呆的宾客——画面虚化处理。背景中的大红喜字依然高挂（最讽刺的对照）。 构图：爆发式动态构图。周芷若居中——双臂向外伸展（撕裂动作的瞬间定格），形成V字形——这是爆发的顶点。碎布片以她为中心向四周辐射飘散——方向各异（暗示混乱）。她身后的人群呈弧形围绕——但被大幅虚化（他们是观众，她是悲剧主角）。大红喜字在正上方——稳定不动，与她的动态形成对比。 光影：喜堂原有的温暖灯笼光+此刻因大门敞开而涌入的冷白日光——暖冷光在画面中混合。周芷若面部被冷日光从侧面照亮（赵敏离开的方向），而身后仍是暖光——象征"温暖已去，寒凉来袭"。碎布片在双色光中呈现不同的色调。 色彩：撕裂的红色。主调：嫁衣撕裂处的深红（内层）vs完整处的正红（外层）——同色系的层次。碎片在空中——大小不一、色调各异的红色（因光照角度不同）。血滴：暗红（与红绸形成材质对比——血是液体、绸是织物）。背景：暖红（喜堂灯光）渐变至冷白（门口日光）。整体是"红色的交响"——但每一种红都在诉说着不同的痛。 风格：Chinese Zhongcai (重彩) — heavy color application, mineral pigments, rich saturation, decorative elegance dramatic frozen moment, textile rendering precision, emotional explosion captured，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+古典中国工笔重彩人物画：元代婚礼上的悲伤新娘。一位年轻女子（周芷若）身着大红织金霞帔新娘礼服，头戴点翠凤冠，独自伫立在喜堂中央。她双手自然垂落——各持一片从嫁衣前襟脱落的红色丝绸碎片。约十片大小不一的红绸碎片如花瓣般从她身畔缓缓飘落。她的嫁衣前襟自然分开——丝绸经纬线断开，露出内层衬裙。她微微仰面——眼眶泛红而无泪，嘴唇轻启而无声——这是极度克制下的情绪表达。双手指尖沾着红色丝绸染料——不是伤口，是织物颜色。凤冠上一串珍珠流苏松脱——数颗珍珠正从肩头滑落。背景虚化为大红喜字（完好高挂）和满堂宾客的轮廓剪影。画面以冷白日光（从左侧门涌入）和暖金灯笼光（右侧）双色照明——红绸碎片在冷暖光中呈现丰富的红色层次：日光下的冷玫红→过渡区的品红→暖光下的朱砂红。金庸武侠美学，元代婚礼考据，16:9横构图，中国工笔人物画精准度，博物馆级古典绘画品质。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo character portrait 07: 周芷若 · 新妇素手裂红裳. 接续上场。赵敏闯入带走张无忌之后。周芷若站在喜堂中央——她的世界在瞬间崩塌。她用双手抓住自己嫁衣的前襟（霞帔），用力向两边撕扯——"嘶——"红绸撕裂的声音仿佛在画面中可见。红色碎片在她周围飘散——如凝固在空中的血花。她的头微微仰起——不是看天，而是忍住眼泪不落下。眼眶通红但眼泪不流（她在用最后一丝尊严克制）。嘴唇微张——似乎想喊什么但没有声音。手指被撕裂的绸缎割破——鲜血从指尖滴落（与红绸同色，却. 接续上场。赵敏闯入带走张无忌之后。周芷若站在喜堂中央——她的世界在瞬间崩塌。她用双手抓住自己嫁衣的前襟（霞帔），用力向两边撕扯——"嘶——"红绸撕裂的声音仿佛在画面中可见。红色碎片在她周围飘散——如凝固在空中的血花。她的头微微仰起——不是看天，而是忍住眼泪不落下。眼眶通红但眼泪不流（她在用最后一丝尊严克制）。嘴唇微张——似乎想喊什么但没有声音。手指被撕裂的绸缎割破——鲜血从指尖滴落（与红绸同色，却更触目惊心）。她身后是惊呆的宾客——画面虚化处理。背景中的大红喜字依然高挂（最讽刺的对照）。 Composition: 爆发式动态构图。周芷若居中——双臂向外伸展（撕裂动作的瞬间定格），形成V字形——这是爆发的顶点。碎布片以她为中心向四周辐射飘散——方向各异（暗示混乱）。她身后的人群呈弧形围绕——但被大幅虚化（他们是观众，她是悲剧主角）。大红喜字在正上方——稳定不动，与她的动态形成对比。 Lighting: 喜堂原有的温暖灯笼光+此刻因大门敞开而涌入的冷白日光——暖冷光在画面中混合。周芷若面部被冷日光从侧面照亮（赵敏离开的方向），而身后仍是暖光——象征"温暖已去，寒凉来袭"。碎布片在双色光中呈现不同的色调。 Color palette: 撕裂的红色。主调：嫁衣撕裂处的深红（内层）vs完整处的正红（外层）——同色系的层次。碎片在空中——大小不一、色调各异的红色（因光照角度不同）。血滴：暗红（与红绸形成材质对比——血是液体、绸是织物）。背景：暖红（喜堂灯光）渐变至冷白（门口日光）。整体是"红色的交响"——但每一种红都在诉说着不同的痛。 Style: Chinese Zhongcai (重彩) — heavy color application, mineral pigments, rich saturation, decorative elegance dramatic frozen moment, textile rendering precision, emotional explosion captured, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Classical Chinese Gongbi figure painting with mineral pigments: A tragic bride in a Yuan Dynasty wedding hall. A young woman (Zhou Zhiruo) in an elaborate red wedding dress with gold-thread embroidery and a kingfisher-feather phoenix crown stands alone at the center of the ceremony hall. Her hands rest naturally at her sides, each holding a fragment of red silk that has detached from the front of her gown. Around her, about ten red silk fragments of varying sizes drift slowly downward like falling flower petals. The front lapel of her ceremonial robe has parted naturally — the silk warp and weft threads visible at the separation line, revealing a lighter red inner layer beneath. Her face is tilted slightly upward — her eyes are reddened but dry (holding back tears with dignity), her lips slightly parted in silent emotion. Her fingertips bear traces of madder red dye from the silk fabric — natural pigment transfer, not injury. A strand of pearls from her phoenix crown has come loose — several pearls are slipping from her shoulder through the air. The background is artistically blurred — a large red double-happiness character hangs intact above, and the silhouettes of wedding guests form an arc behind her. Dual lighting: cool white daylight entering from the left doorway and warm golden lantern light from the right — the red silk fragments display a rich spectrum of reds from cool rose to warm vermilion depending on their position between the two light sources. Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, 16:9 horizontal composition, museum-quality classical Chinese fine art painting, highly detailed gongbi technique, pigments on silk texture.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
-
+violence, gore, blood, injury, wound, cut, tear action, ripping action, aggressive motion, fighting, anger expression, screaming, crying tears, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 ```
 
 ---

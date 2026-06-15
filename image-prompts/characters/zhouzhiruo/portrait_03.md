@@ -4,43 +4,49 @@
 > **Level**: 03/18
 > **Frame**: 角色肖像
 > **Aspect Ratio**: 16:9
-> **Art Style**: Chinese Zhongcai (重彩) — heavy color application, mineral pigments, rich saturation, decorative elegance dramatic historical scene, Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figures, Caravaggio-meets-Chinese-painting intensity
+> **Art Style**: Chinese Gongbi (工笔) figure painting with dramatic lighting, classical Chinese historical drama, intense emotional confrontation, fire-lit interior scene, Yuan Dynasty martial arts aesthetic
 
 ---
 
 ## 📖 场景描述 (Scene Description)
 
-明教光明顶总坛大殿。六大门派围攻明教的决战时刻。周芷若（约十八岁）手持倚天剑——这柄传说中的古剑在她手中微微颤抖。剑尖抵在张无忌（跪在地上，因之前车轮战力竭）的胸口，刺入约半寸——鲜血从剑尖与肌肤接触处渗出，染红了张无忌的白衣。周芷若的表情是极致的痛苦——眉头紧锁、眼中含泪、嘴唇被自己咬出血。灭绝师太站在她身后不远处——厉声催促："刺下去！"大殿中火把熊熊燃烧，映照着在场所有人的脸——六大派高手的表情各异（有人期待、有人不忍、有人冷漠）。倚天剑的剑身反射火光，如一道血光。
+（本场景描绘的是古典中国戏剧中的一个道德困境瞬间——一位女剑客被师命所迫持剑指向自己所爱之人。画面完全以中国工笔重彩人物画手法呈现，如京剧舞台上的一个高张力定格。剑尖与人物之间的空间距离是画面的核心——这是一个"将刺未刺"的悬停时刻。）
+
+明教光明顶总坛大殿。火把环绕之中。周芷若（约十八岁，着峨眉派白色练功服）双手持倚天剑——这柄传说古剑的剑尖悬停在张无忌胸前约一寸之处。剑身因她的双手微颤而轻轻晃动——冷钢的剑面反射出跳动的火光。张无忌（因连番车轮战而力竭）单膝跪于她面前——他微微仰头，与周芷若四目相对。他的白衣因先前多场战斗已有多处尘污和磨损——但胸口尚完好。剑尖尚未触及——两人之间那一寸的距离，是整个画面最紧绷的空间。
+
+周芷若的表情——这是整个画面的灵魂：眉心拧紧、眼眶中泪水充盈但未落下、下唇有一道极细的牙印（她自己咬的——克制而非伤害）。灭绝师太立于周芷若身后约五步——她高举拂尘，嘴唇张开正在喝令。六大派高手散布于大殿阴影中——在火把的跳跃光线中时隐时现，表情各异。倚天剑的剑身在这一刻恰好反射出一道火光——如一道金线横贯剑脊。
+
+这不是一个杀戮的画面——这是一个"选择"的画面。剑悬停在那一寸之间——而在这一寸中，装着她的一生。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-戏剧性对角线构图。倚天剑从右下（剑柄在周芷若手中）指向左上（剑尖在张无忌胸口），形成45度紧张斜线。周芷若在右下（侧面），张无忌在左上（正面），灭绝师太在右上后景。三人的视线形成三角关系——周芷若看剑尖→张无忌眼看周芷若→灭绝看周芷若。
+古典戏剧性三角构图。倚天剑从右下（剑柄在周芷若手中）指向左上（剑尖悬停在张无忌胸前），形成45度紧张斜线——但剑尖并未接触人物，而是与胸口保留了一寸的可见间隙（这是构图的"呼吸空间"）。周芷若在右下（侧面，可看到全身），张无忌在左上（正面半身——可以看到他与她对视的眼神），灭绝师太在右上后景（站立，拂尘高举）。三人的视线形成封闭的三角——周芷若看张无忌→张无忌回看周芷若→灭绝师太盯着周芷若（她不在意张无忌——她只在意周芷若是否服从）。大殿石柱的垂直线在背景中提供稳定感——与前景的紧张斜线形成反衬。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-orange-red conflagration, dramatic backlighting, smoke diffusion, emergency atmosphere。大殿中多个火盆提供跳跃的火光——在人物脸上形成不稳定的光影（暗示内心的动荡）。倚天剑剑身在火光中折射出刺眼的高光。周芷若面部被来自右下方的火光照亮（under-lighting的变体），凸显她表情的痛苦。
+多火把的戏剧性火光照明——这是中国画中少见的强烈明暗对比手法（借鉴明代肖像画中的"波臣派"光影实验）。大殿四周约六到八支火把提供主光源——火光从多个方向跳跃闪烁，在人物面部形成不稳定但强烈的光影。倚天剑剑身作为反光面——在其表面可看到火光的扭曲反射。最关键的光影设计在周芷若的面部——她的脸被来自右下方的火光照亮（略似舞台脚光效果），使眼窝中未落的泪水获得微弱的反光——如两颗将坠未坠的星。张无忌面部被来自左上方的光照亮（来自另一支火把）——他的表情清晰可见：不是恐惧，是悲伤与理解。灭绝师太在暗处——只有面部下半部和举拂尘的手被照亮——凸显她"命令"的冷酷。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-主调：火光的暖橙 + 大殿石壁的深灰褐 + 倚天剑的冷钢蓝。人物：周芷若白衣（被火光照成暖黄）、张无忌白衣（胸口血渍鲜红）、灭绝灰袍。血色：剑尖处的鲜红——画面中唯一的纯红（视觉焦点）。
+火焰色与冷钢色的对峙。主调：大殿石壁的深灰褐（占画面约40%）+ 火光的暖橙金（占画面约30%）+ 倚天剑的冷钢蓝白（占画面约10%——但这是视觉焦点）。人物：周芷若白衣——在火光中呈现暖黄白，但在剑身反射的冷光一侧（她的右侧面部）泛着极淡的冷蓝色；张无忌白衣——因之前战斗而多处呈现灰白（尘污），但无任何红色；灭绝灰袍——几乎融入暗色石壁背景。倚天剑——剑身菱形暗纹在火光中若隐若现，剑格的云纹铜质在暖光中泛着暗金色。整体颜色以暖橙为基调——但倚天剑的那一道冷蓝反光是情绪上的"寒光"——暗示着"一念之间"的寒意。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-倚天剑（古剑，剑身有菱形暗纹，剑格为云纹铜质，剑柄缠深蓝丝绳），伤口（剑尖刺入约半寸，鲜血沿剑身缓缓流下），周芷若表情（眉心紧锁、眼眶含泪未落、下唇咬破有血丝），灭绝师太（身后，拂尘高举，口中在喊），张无忌（跪地，仰头看着周芷若——没有恨意，只有悲伤和不解），火把（大殿四周，火焰跳动）。
+倚天剑（古剑，剑身有菱形暗纹，剑格为云纹铜质，剑柄缠深蓝丝绳——双手握持，剑尖悬停距离张无忌胸口约一寸），周芷若表情（眉心紧锁、眼眶含泪未落、下唇有一道极细的牙印——不需红色，只需一道浅浅的凹陷线），张无忌（单膝跪地，白衣多处尘污磨损但胸口完好，仰头与周芷若四目相对——表情：没有恐惧、只有悲伤与理解），灭绝师太（五步外，灰袍，拂尘高举——她位于暗处，但手和拂尘被火光照亮），火把（六到八支，铁质，插在大殿石壁的环座中——火焰大小不一地跳动，产生不稳定的光影），大殿石柱（粗大方形石柱，表面粗糙——在火光中纹理分明），围观群雄（远景暗处——可见不同门派服饰的轮廓和部分被火光照亮的面孔）。
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-撕心裂肺的抉择。她的手在颤抖——剑也在颤抖。这一剑刺下去，不只刺穿了张无忌的胸膛，也刺穿了她自己的灵魂。
+道德深渊边缘的悬停。剑尖与胸口之间只有一寸——这一寸中悬着她对师父的忠诚、她对张无忌的情感、她对自己的认知。她的手在颤抖——不是犹豫，是濒临崩溃。这不是关于杀戮——这是关于一个人被逼到极限时，内心的那一声尖叫。中国古典戏剧的最高境界——"此时无声胜有声"。
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,20 +110,19 @@ orange-red conflagration, dramatic backlighting, smoke diffusion, emergency atmo
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 光明顶刺张无忌。明教光明顶总坛大殿。六大门派围攻明教的决战时刻。周芷若（约十八岁）手持倚天剑——这柄传说中的古剑在她手中微微颤抖。剑尖抵在张无忌（跪在地上，因之前车轮战力竭）的胸口，刺入约半寸——鲜血从剑尖与肌肤接触处渗出，染红了张无忌的白衣。周芷若的表情是极致的痛苦——眉头紧锁、眼中含泪、嘴唇被自己咬出血。灭绝师太站在她身后不远处——厉声催促："刺下去！"大殿中火把熊熊燃烧，映照着在场所有人的脸——六大派高手的表情各异（有人期待、有人不忍、有人冷漠）。倚天剑的剑身反射火光，如一道血光。 构图：戏剧性对角线构图。倚天剑从右下（剑柄在周芷若手中）指向左上（剑尖在张无忌胸口），形成45度紧张斜线。周芷若在右下（侧面），张无忌在左上（正面），灭绝师太在右上后景。三人的视线形成三角关系——周芷若看剑尖→张无忌眼看周芷若→灭绝看周芷若。 光影：orange-red conflagration, dramatic backlighting, smoke diffusion, emergency atmosphere。大殿中多个火盆提供跳跃的火光——在人物脸上形成不稳定的光影（暗示内心的动荡）。倚天剑剑身在火光中折射出刺眼的高光。周芷若面部被来自右下方的火光照亮（under-lighting的变体），凸显她表情的痛苦。 色彩：主调：火光的暖橙 + 大殿石壁的深灰褐 + 倚天剑的冷钢蓝。人物：周芷若白衣（被火光照成暖黄）、张无忌白衣（胸口血渍鲜红）、灭绝灰袍。血色：剑尖处的鲜红——画面中唯一的纯红（视觉焦点）。 风格：Chinese Zhongcai (重彩) — heavy color application, mineral pigments, rich saturation, decorative elegance dramatic historical scene, Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figures, Caravaggio-meets-Chinese-painting intensity，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+古典中国工笔重彩人物画——道德困境的悬停时刻。火把环绕的光明顶石殿中。一位白衣年轻女剑客（周芷若，约十八岁）双手持倚天古剑，剑尖悬停在跪于她面前的青年男子（张无忌）胸前约一寸处——并未触及。剑身因她微颤的双手而晃动，冷钢表面反射跳动的火光。她眉心紧锁、眼眶含泪未落、下唇有一道极细的牙印。张无忌单膝跪地仰头与她对视——白衣多处尘污但胸口完好，表情是悲伤与理解而非恐惧。一位灰袍老尼（灭绝师太）立于她身后约五步，高举拂尘喝令。大殿石壁环座中数支火把产生跳跃闪烁的光影。远景暗处可见六大派群雄的轮廓。倚天剑脊反射出一道金线般的火光。画面强调"将刺未刺"那一寸悬停的空间——这是关于选择的画面。金庸武侠美学，元代历史考据，16:9横构图，中国工笔人物画精准度，戏剧性明暗对比，博物馆级古典绘画品质。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo character portrait 03: 周芷若 · 光明顶刺张无忌. 明教光明顶总坛大殿。六大门派围攻明教的决战时刻。周芷若（约十八岁）手持倚天剑——这柄传说中的古剑在她手中微微颤抖。剑尖抵在张无忌（跪在地上，因之前车轮战力竭）的胸口，刺入约半寸——鲜血从剑尖与肌肤接触处渗出，染红了张无忌的白衣。周芷若的表情是极致的痛苦——眉头紧锁、眼中含泪、嘴唇被自己咬出血。灭绝师太站在她身后不远处——厉声催促："刺下去！"大殿中火把熊熊燃烧，映照着在场所有人的脸——六大派高手的. 明教光明顶总坛大殿。六大门派围攻明教的决战时刻。周芷若（约十八岁）手持倚天剑——这柄传说中的古剑在她手中微微颤抖。剑尖抵在张无忌（跪在地上，因之前车轮战力竭）的胸口，刺入约半寸——鲜血从剑尖与肌肤接触处渗出，染红了张无忌的白衣。周芷若的表情是极致的痛苦——眉头紧锁、眼中含泪、嘴唇被自己咬出血。灭绝师太站在她身后不远处——厉声催促："刺下去！"大殿中火把熊熊燃烧，映照着在场所有人的脸——六大派高手的表情各异（有人期待、有人不忍、有人冷漠）。倚天剑的剑身反射火光，如一道血光。 Composition: 戏剧性对角线构图。倚天剑从右下（剑柄在周芷若手中）指向左上（剑尖在张无忌胸口），形成45度紧张斜线。周芷若在右下（侧面），张无忌在左上（正面），灭绝师太在右上后景。三人的视线形成三角关系——周芷若看剑尖→张无忌眼看周芷若→灭绝看周芷若。 Lighting: orange-red conflagration, dramatic backlighting, smoke diffusion, emergency atmosphere。大殿中多个火盆提供跳跃的火光——在人物脸上形成不稳定的光影（暗示内心的动荡）。倚天剑剑身在火光中折射出刺眼的高光。周芷若面部被来自右下方的火光照亮（under-lighting的变体），凸显她表情的痛苦。 Color palette: 主调：火光的暖橙 + 大殿石壁的深灰褐 + 倚天剑的冷钢蓝。人物：周芷若白衣（被火光照成暖黄）、张无忌白衣（胸口血渍鲜红）、灭绝灰袍。血色：剑尖处的鲜红——画面中唯一的纯红（视觉焦点）。 Style: Chinese Zhongcai (重彩) — heavy color application, mineral pigments, rich saturation, decorative elegance dramatic historical scene, Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figures, Caravaggio-meets-Chinese-painting intensity, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Classical Chinese Gongbi figure painting with dramatic firelit chiaroscuro — a moment of moral suspension. In a torch-lit stone hall, a young woman in white martial arts attire (Zhou Zhiruo, 18) holds the ancient Yitian Sword with trembling hands — the blade tip hovers approximately one inch from the chest of a kneeling young man (Zhang Wuji), NOT touching. The sword trembles, its steel surface reflecting dancing flames. Her expression: brows tightly knit, tears welling but not falling, a faint tooth mark on her lower lip from self-restraint. Zhang Wuji kneels and looks up to meet her eyes — his white robe is dusty from earlier combat but his chest area is intact; his expression shows sorrow and understanding, not fear. An elderly nun in grey robes (Abbess Miejue) stands five paces behind, her fly-whisk raised, shouting commands. Multiple torches in iron holders along stone walls cast dramatic flickering illumination. In the shadowy background, silhouettes of martial artists from the six major sects watch silently. A streak of firelight glints along the sword's central ridge like a golden thread. The composition emphasizes the one-inch gap between blade tip and chest — this is a painting about CHOICE, not violence. Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, 16:9 horizontal composition, museum-quality classical Chinese fine art, highly detailed gongbi technique, dramatic chiaroscuro lighting.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
-
+blood, wound, stabbing, penetration, injury, gore, violence, piercing, cutting, bleeding, red stain, wounding, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 ```
 
 ---

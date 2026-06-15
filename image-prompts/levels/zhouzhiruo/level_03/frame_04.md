@@ -10,7 +10,7 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【张无忌·中剑】张无忌胸口被倚天剑刺入，鲜血染红衣襟。他望着周芷若，眼中没有恨意，只有不解与悲伤。16:9。工笔人物。
+【张无忌·中剑】张无忌胸口被倚天剑触及，浸染衣襟。他望着周芷若，眼中没有恨意，只有不解与悲伤。16:9。工笔人物。
 
 ---
 
@@ -34,7 +34,7 @@ bright overhead sun, strong contrast, vivid colors, sharp shadows
 
 ## 🔑 关键元素 (Key Elements)
 
-张无忌胸口被倚天剑刺入，鲜血染红衣襟、他望着周芷若，眼中没有恨意，只有不解与悲伤、
+张无忌胸口被倚天剑触及，浸染衣襟、他望着周芷若，眼中没有恨意，只有不解与悲伤、
 
 ---
 
@@ -104,19 +104,19 @@ dramatic confrontation, high stakes, emotional intensity
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第三拍光明一剑 · 帧4（人物表情）。【张无忌·中剑】张无忌胸口被倚天剑刺入，鲜血染红衣襟。他望着周芷若，眼中没有恨意，只有不解与悲伤。16:9。工笔人物。 构图：面部特写或上半身肖像。聚焦于角色的情感反应——表情、眼神、微妙的肌肉变化。面部占画面50-60%。眼睛必须在画面上三分之一线附近（黄金分割）。使用柔和的光影塑造面部体量感——避免平板照明。背景大幅虚化或极简——让表情成为唯一的焦点。注意：中国工笔人物画的表情以含蓄为美——情感通过眉梢眼角唇角的微小变化传达，而非大幅度的扭曲。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns intimate portrait，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+古典中国工笔人物画——道德困境中的面部特写。周芷若（约十八岁）的面部特写——她双手持倚天剑，但画面聚焦于她脸部的表情。眉心紧锁、眼眶中泪水充盈但未落下、下唇有一道极细的牙印——克制的痕迹。她的双眼微微向上看——在与跪于面前的张无忌对视。眼中是不舍、是挣扎、是濒临崩溃的克制。火把的光线从下方斜射在她脸上——在她的眼窝中投下微妙的阴影，使未落的泪水获得细微的反光。背景全部虚化为暗褐色的火把光和石壁纹理。这不仅是表情——是一个人在"服从"与"良心"之间的濒死挣扎。金庸武侠美学，元代考据，16:9横构图，中国工笔人物画的面部精准度，戏剧性光影。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第三拍光明一剑 - Frame 4: 【张无忌·中剑】张无忌胸口被倚天剑刺入，鲜血染红衣襟。他望着周芷若，眼中没有恨意，只有不解与悲伤。16:9。工笔人物。. 【张无忌·中剑】张无忌胸口被倚天剑刺入，鲜血染红衣襟。他望着周芷若，眼中没有恨意，只有不解与悲伤。16:9。工笔人物。 Composition: 面部特写或上半身肖像。聚焦于角色的情感反应——表情、眼神、微妙的肌肉变化。面部占画面50-60%。眼睛必须在画面上三分之一线附近（黄金分割）。使用柔和的光影塑造面部体量感——避免平板照明。背景大幅虚化或极简——让表情成为唯一的焦点。注意：中国工笔人物画的表情以含蓄为美——情感通过眉梢眼角唇角的微小变化传达，而非大幅度的扭曲。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns intimate portrait, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Classical Chinese Gongbi figure painting — facial close-up of moral anguish. Extreme close-up of Zhou Zhiruo (age 18) — her face fills the frame. She holds the Yitian Sword but the focus is entirely on her expression. Brows tightly knit, tears welling in her eyes but not falling, a faint tooth indentation on her lower lip — marks of extreme self-restraint. Her eyes gaze slightly upward — meeting the eyes of Zhang Wuji who kneels before her. In her eyes: reluctance, struggle, the edge of emotional collapse held back by sheer will. Torchlight illuminates her face from below — casting subtle shadows in her eye sockets that catch the glint of unshed tears. Background completely blurred into warm brown torchlight and stone wall texture. This is not just an expression — it is the silent scream of a person caught between obedience and conscience. Jin Yong wuxia aesthetic, Yuan Dynasty accuracy, 16:9 horizontal, Gongbi facial precision, dramatic lighting.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
+blood, wound, gore, injury, violence, stabbing, cutting, bleeding, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 
 ```
 

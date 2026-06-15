@@ -10,7 +10,7 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【弥勒佛庙·内景】张无忌受伤躺于蒲团之上，左肩鲜血染红衣襟。赵敏撕下自己的衣袖为他包扎，神色焦急。佛像在阴影中慈悲含笑。16:9。工笔人物。
+【弥勒佛庙·内景】张无忌受伤躺于蒲团之上，左肩浸染衣襟。赵敏撕下自己的衣袖为他包扎，神色焦急。佛像在阴影中慈悲含笑。16:9。工笔人物。
 
 ---
 
@@ -34,7 +34,7 @@ diffuse soft light, muted tones, atmospheric haze, gentle shadowless illuminatio
 
 ## 🔑 关键元素 (Key Elements)
 
-张无忌受伤躺于蒲团之上，左肩鲜血染红衣襟、赵敏撕下自己的衣袖为他包扎，神色焦急、佛像在阴影中慈悲含笑、
+张无忌受伤躺于蒲团之上，左肩浸染衣襟、赵敏撕下自己的衣袖为他包扎，神色焦急、佛像在阴影中慈悲含笑、
 
 ---
 
@@ -104,19 +104,19 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第五拍弥勒佛庙 · 帧2（情节互动）。【弥勒佛庙·内景】张无忌受伤躺于蒲团之上，左肩鲜血染红衣襟。赵敏撕下自己的衣袖为他包扎，神色焦急。佛像在阴影中慈悲含笑。16:9。工笔人物。 构图：中景双人或多人互动。表现角色之间的交流——对话、动作、情感传递。人物占画面40-50%。使用三角形构图（人物之间形成稳定的三角关系）或对角线构图（表现动态关系）。人物视线和手势形成画面内部的引导线。环境退居次要——但仍需清晰交代地点。画面重心在黄金分割点附近。 光影：diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns with Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction background，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+古典中国工笔人物画——古庙中油灯下的紧急时刻。残破佛庙内。赵敏（藕荷色中衣，右袖已撕下大片布料）跪在蒲团旁，双手正用撕下的布条为仰卧的张无忌进行照料——布条环过他的左肩。她前额有细汗，嘴唇紧抿——专注而紧张。张无忌闭目休息——呼吸平稳。一盏小铜油灯在两人之间——唯一光源，火焰如豆跳跃。地上散落打开的纸药包和一把已擦拭干净的短匕首。背景暗处——石刻弥勒佛像的高大轮廓在微光中若隐若现。金庸武侠美学，元代考据，16:9横构图，中国工笔人物画，Rembrandt式单光源照明。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第五拍弥勒佛庙 - Frame 2: 【弥勒佛庙·内景】张无忌受伤躺于蒲团之上，左肩鲜血染红衣襟。赵敏撕下自己的衣袖为他包扎，神色焦急。佛像在阴影中慈悲含笑。16:9。工笔人物。. 【弥勒佛庙·内景】张无忌受伤躺于蒲团之上，左肩鲜血染红衣襟。赵敏撕下自己的衣袖为他包扎，神色焦急。佛像在阴影中慈悲含笑。16:9。工笔人物。 Composition: 中景双人或多人互动。表现角色之间的交流——对话、动作、情感传递。人物占画面40-50%。使用三角形构图（人物之间形成稳定的三角关系）或对角线构图（表现动态关系）。人物视线和手势形成画面内部的引导线。环境退居次要——但仍需清晰交代地点。画面重心在黄金分割点附近。 Lighting: diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns with Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction background, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Classical Chinese Gongbi figure painting — urgent care in an ancient temple. Inside a dilapidated Buddha temple. Zhao Min (in pale purple inner garment, right sleeve torn off for bandaging) kneels beside a straw cushion, her hands wrapping cloth strips around the left shoulder area of Zhang Wuji who lies resting — his breathing steady. Her forehead glistens with fine sweat, lips pressed tight in concentration. Between them: a small bronze oil lamp — sole light source, its tiny flame dancing. On the ground: an opened paper medicine packet and a cleaned short dagger set aside. In the dark background: the stone Maitreya Buddha statue looms, its compassionate smile barely visible in the faint light. Jin Yong wuxia aesthetic, Yuan Dynasty accuracy, 16:9 horizontal, Chinese Gongbi figure painting with Rembrandt single-source lighting.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
+blood, wound, gore, injury, violence, stabbing, cutting, bleeding, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 
 ```
 

@@ -1,46 +1,52 @@
-# 赵敏 · 弥勒佛庙包扎伤口
+# 赵敏 · 弥勒佛庙守护
 
 > **Category**: 角色肖像 · 赵敏
 > **Level**: 06/18
 > **Frame**: 角色肖像
 > **Aspect Ratio**: 16:9
-> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figures with Rembrandt lighting, sacred atmosphere
+> **Art Style**: Chinese Gongbi (工笔) figure painting with Rembrandt-inspired intimate lighting, sacred atmosphere, classical Chinese temple interior, devotional care scene
 
 ---
 
 ## 📖 场景描述 (Scene Description)
 
-荒野中一座残破的弥勒佛庙。张无忌（青年侠客，约二十余岁，剑眉星目，着白色粗布衣被血染红）受伤躺在大殿蒲团上，左肩有一道深可见骨的刀伤，鲜血浸透半边衣襟。赵敏跪在他身边，双手正在用撕下的衣袖布条为他包扎。她的前额有细汗，嘴唇紧抿——专注而紧张。地上散落着金创药包、一把沾血的匕首、一盏油灯。弥勒佛像在后方暗处，面容在摇曳的灯光中时而清晰时而隐没——那慈悲的微笑见证了这一切。
+（本场景描绘的是守护与关怀——一位女子在古庙中照料受伤的同伴。画面以古典中国工笔人物画手法呈现，借鉴荷兰黄金时代室内画的亲密光影。伤情通过情境暗示——撕下的衣袖、散落的药材、疲惫但坚定的表情——而非通过直接展示创处来传达。）
+
+荒野中一座残破的弥勒佛庙。张无忌（青年侠客，约二十余岁，剑眉星目）躺在大殿草编蒲团上——他闭目休息，呼吸平稳，显然已经接受了照料。他的左肩处盖着叠好的青灰色外袍（赵敏自己的外衣——已从她身上脱下盖在他身上），外袍下隐约可见已有布条环绕肩部固定（包扎已经完成）。他的白衣在之前奔波中沾了多处尘土和草渍，但无触目之伤。
+
+赵敏跪坐在他身旁——她没有穿外袍（盖在张无忌身上了），只着一件藕荷色中衣。她的右袖从手肘处被撕下了一大片——那撕下的布条已经用在了包扎中（如今只在她右臂上留下不规则的袖口断缘）。她的前额有细密的汗珠——在油灯光下微微反光，嘴唇轻抿——不是紧张，是专注后的放松（最危急的时刻已经过去）。她左手边地上散落着：一盏小铜油灯（唯一光源）、一包打开的金创药（纸摊开，浅褐色药粉散落少许）、一把已擦拭干净的短匕首（放在稍远处——危险已经解除）。她的右手正轻轻探在张无忌的额头上——试探体温。
+
+弥勒佛像在后方暗处——石刻大佛约两米高，面容在摇曳的灯光中时而清晰时而隐没。那慈悲的微笑俯瞰着这一切——仿佛在说：众生皆苦，唯慈悲能渡。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-三角形构图——赵敏的头部、张无忌的伤口、油灯形成稳定的三角形。赵敏在左前（侧面），张无忌在右（仰卧），佛像在正后方高处。油灯位于画面中央下方，成为唯一光源。
+三角形稳定构图——赵敏的头部、张无忌安睡的面容、油灯形成视觉三角。赵敏在左前（侧面，腰部以上清晰可见），张无忌在右（仰卧——面部朝上，平静安睡），弥勒佛像在正后方高处（暗处）。油灯位于画面中央偏下——成为构图的锚点和唯一光源。视觉引导线：油灯→赵敏伸出的右手→张无忌的额头→张无忌的面容→向后延伸至佛像。这种螺旋上升的视线路径将"照料"这一行为升华为"慈悲"的象征。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-warm candlelight, flickering shadows, intimate chiaroscuro, golden amber glow。单一油灯光源，形成强烈的聚光效果——亮区在张无忌伤口和赵敏双手（画面焦点），其余逐渐隐入黑暗中。佛像在背景暗处，仅面部被微弱照亮。
+单一油灯的温暖烛光——极度亲密的明暗对比（chiaroscuro）。光从中央下方的油灯发出——形成直径约两尺的暖金色光池。光池中心照亮：赵敏的右手和张无忌的额头（试探体温的动作——画面中最温柔的光斑）。赵敏的面部和上半身处于光池边缘——亮度递减，右侧（靠近灯）清晰、左侧渐入柔和的暗部。张无忌的面容处于光池中——均匀照亮，表情平静。佛像的大部分在黑暗中——只有面部下半（嘴角的微笑）被微弱的散射光触及——仿佛佛在暗中微笑。庙内其余空间完全隐入深褐近黑的暗处——让观者的目光完全集中在这一个小小的光池之中。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-主调：深褐近黑（庙内暗部）+ 暖橙（灯光区）。人物：赵敏衣淡青（被血染部分暗红），张无忌白衣（大片暗红血渍），肤色在灯光下呈暖金。血色：鲜红→暗红（不同时间段的血渍）。整体Rembrandt式暗调，金色为主光。
+金色光池中的朴素色彩。主调：庙内暗部的深褐近黑（占画面70%）+ 油灯光池的暖琥珀金（占画面30%）。光池内：赵敏藕荷色中衣（浅紫粉——在暖光中呈现温暖的桃色）、张无忌粗白衣（在暖光中呈暖黄白——衣上尘污呈灰褐）、蒲团草编（金黄褐）。赵敏撕去衣袖的右臂——袖口断缘处可见浅色的布料经纬线（藕荷色布料的断面）。金创药纸包——浅米色纸、浅褐色药粉。铜油灯——暖铜色、火焰的蓝心→金焰→橙焰三层。弥勒佛——石刻在黑暗中呈极深的灰蓝（非纯黑——留有空间感）。肤色：两人都在暖光中呈现健康的暖象牙色。整体色彩极简——因为光只有一种颜色（暖金），暗部只有一种颜色（深褐）——如同中国水墨画的"墨分五色"逻辑。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-弥勒佛像（石刻，约两米高，笑容慈悲，有风化痕迹），蒲团（草编，血迹斑斑），油灯（铜质，火焰如豆），金创药（纸包散开，可见药粉），撕下的衣袖（藕荷色布条，边缘不整），匕首（短刀，刃上有血），伤口（肩部，布条半缠半露）。
+弥勒佛像（石刻，约两米高，面容饱满笑容慈悲——嘴角在暗处微光中可见，有风化裂纹和青苔痕迹），油灯（小型铜质油灯——约一掌高，火焰如豆但在这暗室中已足够），赵敏的右手（轻触张无忌额头——试探体温的手势，手指修长，在光池中央），赵敏右臂的撕裂袖口（藕荷色布料的断缘——不规则但干净，可见布料经纬），撕下的布条（已用于包扎——可见环绕张无忌左肩的藕荷色布条在外袍覆盖下露出边缘），金创药（打开的药包——浅米色桑皮纸、散落少许浅褐黄色药粉），短匕首（放在稍远处——刃面在暗处反射微光但已擦拭干净），蒲团（草编厚垫——表面有压痕），赵敏面部（前额细汗微光、唇轻抿呈放松态、眼神温柔而疲惫——她在守护），张无忌面部（闭目安睡——呼吸平稳，面色不是苍白而是正常的暖色——他已经安全了）。
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-危急中的深情。她为他撕下自己的衣袖——这布条是她的承诺。佛像微笑见证：众生皆苦，唯爱能渡。
+危机过后的宁静。最凶险的时刻已经过去了——她不再需要紧张地止血，只需要守护。她撕下自己的衣袖不是为了表演——是因为在那一刻，那是唯一可用的布。现在布条已经缠好，外袍已经盖上，匕首已经擦净——她只需要坐在这里，看着他呼吸，确认他还活着。弥勒佛在暗中微笑——这残破小庙此刻比任何华堂都更像一座圣殿。
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,20 +110,19 @@ warm candlelight, flickering shadows, intimate chiaroscuro, golden amber glow。
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 弥勒佛庙包扎伤口。荒野中一座残破的弥勒佛庙。张无忌（青年侠客，约二十余岁，剑眉星目，着白色粗布衣被血染红）受伤躺在大殿蒲团上，左肩有一道深可见骨的刀伤，鲜血浸透半边衣襟。赵敏跪在他身边，双手正在用撕下的衣袖布条为他包扎。她的前额有细汗，嘴唇紧抿——专注而紧张。地上散落着金创药包、一把沾血的匕首、一盏油灯。弥勒佛像在后方暗处，面容在摇曳的灯光中时而清晰时而隐没——那慈悲的微笑见证了这一切。 构图：三角形构图——赵敏的头部、张无忌的伤口、油灯形成稳定的三角形。赵敏在左前（侧面），张无忌在右（仰卧），佛像在正后方高处。油灯位于画面中央下方，成为唯一光源。 光影：warm candlelight, flickering shadows, intimate chiaroscuro, golden amber glow。单一油灯光源，形成强烈的聚光效果——亮区在张无忌伤口和赵敏双手（画面焦点），其余逐渐隐入黑暗中。佛像在背景暗处，仅面部被微弱照亮。 色彩：主调：深褐近黑（庙内暗部）+ 暖橙（灯光区）。人物：赵敏衣淡青（被血染部分暗红），张无忌白衣（大片暗红血渍），肤色在灯光下呈暖金。血色：鲜红→暗红（不同时间段的血渍）。整体Rembrandt式暗调，金色为主光。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figures with Rembrandt lighting, sacred atmosphere，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+古典中国工笔人物画——古庙中油灯下的温情守护。一座残破的弥勒佛庙中。一位年轻女子（赵敏，藕荷色中衣，右袖从手肘处撕去大片布料）跪坐在草编蒲团旁，右手轻探在身旁仰卧的青年男子（张无忌）额头上试探体温。她脱下的青灰色外袍盖在男子身上。男子闭目安睡——呼吸平稳，面容平静——左肩处可见藕荷色布条环扎在外袍下露出边缘。两人之间一盏小铜油灯——唯一光源，金色火焰如豆。地上散落打开的桑皮纸药包（浅褐色药粉）和一把已擦拭干净的短匕首。背景暗处——石刻弥勒佛像嘴角的慈悲微笑在微光中依稀可辨。画面以单一暖金色油灯光源照明——Rembrandt式明暗法融入中国工笔人物画。金庸武侠美学，元代历史考据，16:9横构图，博物馆级古典绘画品质。
 ```
 
 ### English Prompt
 ```
-Zhao Min character portrait 06: 赵敏 · 弥勒佛庙包扎伤口. 荒野中一座残破的弥勒佛庙。张无忌（青年侠客，约二十余岁，剑眉星目，着白色粗布衣被血染红）受伤躺在大殿蒲团上，左肩有一道深可见骨的刀伤，鲜血浸透半边衣襟。赵敏跪在他身边，双手正在用撕下的衣袖布条为他包扎。她的前额有细汗，嘴唇紧抿——专注而紧张。地上散落着金创药包、一把沾血的匕首、一盏油灯。弥勒佛像在后方暗处，面容在摇曳的灯光中时而清晰时而隐没——那慈悲的微笑见证了这一切。. 荒野中一座残破的弥勒佛庙。张无忌（青年侠客，约二十余岁，剑眉星目，着白色粗布衣被血染红）受伤躺在大殿蒲团上，左肩有一道深可见骨的刀伤，鲜血浸透半边衣襟。赵敏跪在他身边，双手正在用撕下的衣袖布条为他包扎。她的前额有细汗，嘴唇紧抿——专注而紧张。地上散落着金创药包、一把沾血的匕首、一盏油灯。弥勒佛像在后方暗处，面容在摇曳的灯光中时而清晰时而隐没——那慈悲的微笑见证了这一切。 Composition: 三角形构图——赵敏的头部、张无忌的伤口、油灯形成稳定的三角形。赵敏在左前（侧面），张无忌在右（仰卧），佛像在正后方高处。油灯位于画面中央下方，成为唯一光源。 Lighting: warm candlelight, flickering shadows, intimate chiaroscuro, golden amber glow。单一油灯光源，形成强烈的聚光效果——亮区在张无忌伤口和赵敏双手（画面焦点），其余逐渐隐入黑暗中。佛像在背景暗处，仅面部被微弱照亮。 Color palette: 主调：深褐近黑（庙内暗部）+ 暖橙（灯光区）。人物：赵敏衣淡青（被血染部分暗红），张无忌白衣（大片暗红血渍），肤色在灯光下呈暖金。血色：鲜红→暗红（不同时间段的血渍）。整体Rembrandt式暗调，金色为主光。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figures with Rembrandt lighting, sacred atmosphere, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Classical Chinese Gongbi figure painting with intimate candlelight — a tender moment of care in an ancient temple. Inside a dilapidated Maitreya Buddha temple. A young woman (Zhao Min, wearing a pale purple-pink inner garment, her right sleeve torn off at the elbow — the fabric used for bandaging) kneels beside a straw cushion. Her right hand gently touches the forehead of a young man (Zhang Wuji) lying on the cushion — checking his temperature. Her outer robe (grey-blue) is draped over him as a blanket. He sleeps peacefully — breathing steadily, face calm — the edge of a bandage (pale purple-pink fabric matching her torn sleeve) is visible beneath the robe at his left shoulder area. Between them: a small bronze oil lamp — the sole light source, its flame a tiny golden teardrop. On the ground: an opened herbal medicine packet (light brown powder on mulberry paper) and a cleaned short dagger placed aside. In the darkened background: a stone Maitreya Buddha statue — only the faint curve of its compassionate smile catches a whisper of light. Single warm golden oil lamp illumination — Rembrandt chiaroscuro fused with Chinese Gongbi figure painting. Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, 16:9 horizontal composition, museum-quality classical Chinese fine art.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
-
+blood, wound, gore, injury, violence, stabbing, cutting, bleeding, red stain, wounded flesh, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 ```
 
 ---

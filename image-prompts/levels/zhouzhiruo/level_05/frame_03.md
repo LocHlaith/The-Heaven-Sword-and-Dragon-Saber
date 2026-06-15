@@ -10,7 +10,7 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【殷离·被毁容】殷离（蛛儿）脸上被锐器划伤，鲜血流淌。她惊恐地捂着脸——但看不清是谁下的手。画面只展示结果。16:9。工笔人物。
+【殷离·被毁容】殷离（蛛儿）脸上被锐器划伤，流淌。她惊恐地捂着脸——但看不清是谁下的手。画面只展示结果。16:9。工笔人物。
 
 ---
 
@@ -34,7 +34,7 @@ bright overhead sun, strong contrast, vivid colors, sharp shadows
 
 ## 🔑 关键元素 (Key Elements)
 
-殷离（蛛儿）脸上被锐器划伤，鲜血流淌、她惊恐地捂着脸——但看不清是谁下的手、画面只展示结果、
+殷离（蛛儿）脸上被锐器划伤，流淌、她惊恐地捂着脸——但看不清是谁下的手、画面只展示结果、
 
 ---
 
@@ -104,19 +104,19 @@ bittersweet longing, nostalgic sorrow, poetic melancholy
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第五拍灵蛇毒计 · 帧3（医学特写）。【殷离·被毁容】殷离（蛛儿）脸上被锐器划伤，鲜血流淌。她惊恐地捂着脸——但看不清是谁下的手。画面只展示结果。16:9。工笔人物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+古典中国工笔静物画——药物与工具的近距离特写。灵蛇岛月夜下的药包特写。一包十香软筋散（虚构药物）——纸包打开，浅灰白色极细粉末在月光下泛着微弱的荧光。旁边摆放着：倚天剑和屠龙刀在稍远处（月光在刀刃上反射冷光）。画面以工笔静物的精准度描绘药粉的质地——如面粉般细腻，在纸面上形成微小起伏。纸包为粗桑皮纸——纤维纹理可见。背景虚化为月光下的沙滩和海面——银色月光碎片在海面上闪烁。这包药粉是即将改变所有人命运的关键物品——画面以静物画的形式赋予这包药一种不祥的美感。金庸武侠美学，元代考据，16:9横构图，中国工笔静物画精准度。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第五拍灵蛇毒计 - Frame 3: 【殷离·被毁容】殷离（蛛儿）脸上被锐器划伤，鲜血流淌。她惊恐地捂着脸——但看不清是谁下的手。画面只展示结果。16:9。工笔人物。. 【殷离·被毁容】殷离（蛛儿）脸上被锐器划伤，鲜血流淌。她惊恐地捂着脸——但看不清是谁下的手。画面只展示结果。16:9。工笔人物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Classical Chinese Gongbi still life painting — close-up of medicinal powder under moonlight. On Ling蛇 Island at night. A packet of fictional powder — the paper is opened, revealing extremely fine pale grey-white powder that glimmers faintly under the moonlight. Nearby but at a distance: the Yitian Sword and Tulong Saber rest against a rock — moonlight glints coldly on their blades. The powder texture is rendered with Gongbi precision — fine as flour, forming tiny undulations on the paper surface. The paper is coarse mulberry paper — its fiber texture visible. Background blurred into moonlit beach and sea — silver moonlight fragments shimmering on the water surface. This packet of powder is the key object that will change everyone's fate — the still life composition gives it an ominous beauty. Jin Yong wuxia aesthetic, Yuan Dynasty accuracy, 16:9 horizontal, Chinese Gongbi still life precision.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
+blood, wound, gore, injury, violence, stabbing, cutting, bleeding, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 
 ```
 

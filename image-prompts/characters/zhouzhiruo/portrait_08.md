@@ -10,13 +10,13 @@
 
 ## 📖 场景描述 (Scene Description)
 
-峨眉山密室。一个隐秘的石室——四周石壁上刻满了九阴真经的武功图谱（线条粗犷的古篆和人体经络图）。周芷若已经变了——她身着深紫色练功服（不再是白衣），长发散开（不再是整齐的道姑髻），面色苍白中透着一股青色（长期练邪功的气色）。她的双手呈爪状——十指指甲变得又长又硬（不是天然指甲——是被九阴白骨爪内功改变了的骨骼和角质），指尖泛着幽蓝色的荧光。她正在对着一根石柱练功——石柱上满是深深的爪痕（是她日复一日抓出来的）。烛光在密室中摇曳——墙壁上的影子比她的真身更加狰狞。地上散落着被撕碎的白色道袍（她曾经的峨眉弟子服——她已弃之如敝履）。
+峨眉山密室。一个隐秘的石室——四周石壁上刻满了九阴真经的武功图谱（线条粗犷的古篆和人体经络图）。周芷若已经变了——她身着深紫色练功服（不再是白衣），长发散开（不再是整齐的道姑髻），面色苍白中透着一股青色（长期练邪功的气色）。她的双手呈爪状——十指指甲变得又长又硬（不是天然指甲——是被九阴白骨爪内功改变了的骨骼和角质），指尖泛着幽蓝色的荧光。她正在对着一根石柱练功——石柱上满是深深的指印（是她日复一日抓出来的）。烛光在密室中摇曳——墙壁上的影子比她的真身更加修长。地上散落着被扯脱的白色道袍（她曾经的峨眉弟子服——她已弃之如敝履）。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-周芷若在画面中央偏右，呈出招的半动态姿势——身体微蹲，右爪前伸（指向画面左方），左爪收于胸前（蓄力）。石柱在左侧——上面的爪痕引导视线从左上到右下。墙上九阴真经图谱形成密密麻麻的背景纹理。破碎的白衣在右下角——作为重要的叙事道具。
+周芷若在画面中央偏右，呈出招的半动态姿势——身体微蹲，右爪前伸（指向画面左方），左爪收于胸前（蓄力）。石柱在左侧——上面的指印引导视线从左上到右下。墙上九阴真经图谱形成密密麻麻的背景纹理。破碎的白衣在右下角——作为重要的叙事道具。
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 🔑 关键元素 (Key Elements)
 
-双手（十指指甲长约一寸半，半透明幽蓝色，指尖锋利如刃），石柱爪痕（五道一组的深沟，边缘有石粉），九阴真经图谱（石壁上阴刻线条，填以朱砂——有些已模糊），油灯（两盏，火焰在无风密室中稳定燃烧），碎白衣（右下角——象征她撕碎的过去），密室（约三丈见方，无窗，只有一扇厚重石门）。
+双手（十指指甲长约一寸半，半透明幽蓝色，指尖锋利如刃），石柱指印（五道一组的深沟，边缘有石粉），九阴真经图谱（石壁上阴刻线条，填以朱砂——有些已模糊），油灯（两盏，火焰在无风密室中稳定燃烧），碎白衣（右下角——象征她扯脱的过去），密室（约三丈见方，无窗，只有一扇厚重石门）。
 
 ---
 
@@ -104,19 +104,19 @@
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 修炼九阴白骨爪。峨眉山密室。一个隐秘的石室——四周石壁上刻满了九阴真经的武功图谱（线条粗犷的古篆和人体经络图）。周芷若已经变了——她身着深紫色练功服（不再是白衣），长发散开（不再是整齐的道姑髻），面色苍白中透着一股青色（长期练邪功的气色）。她的双手呈爪状——十指指甲变得又长又硬（不是天然指甲——是被九阴白骨爪内功改变了的骨骼和角质），指尖泛着幽蓝色的荧光。她正在对着一根石柱练功——石柱上满是深深的爪痕（是她日复一日抓出来的）。烛光在密室中摇曳——墙壁上的影子比她的真身更加狰狞。地上散落着被撕碎的白色道袍（她曾经的峨眉弟子服——她已弃之如敝履）。 构图：周芷若在画面中央偏右，呈出招的半动态姿势——身体微蹲，右爪前伸（指向画面左方），左爪收于胸前（蓄力）。石柱在左侧——上面的爪痕引导视线从左上到右下。墙上九阴真经图谱形成密密麻麻的背景纹理。破碎的白衣在右下角——作为重要的叙事道具。 光影：密室中只有两盏油灯（画面外下方）提供照明——低角度光（under-lighting）使她的面部阴影反常（眼窝深黑、颧骨过高）。她指尖的蓝光不是反射——是内功的外溢（需要特殊处理这种超自然光效）。墙上经文的阴影在灯光中扭曲。 色彩：主调：石壁青灰 + 密室的深褐暗部 + 油灯暖橙（但被鬼魅的蓝光压制）。人物：深紫衣（近乎黑紫）+ 苍白泛青肤色（不健康的气色）+ 幽蓝指尖（超自然光色）。破碎白衣：月白色（褪去的纯洁）。整体暗调、冷色主导——这是她最黑暗的时期。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figure with supernatural elements, dark atmosphere, dramatic chiaroscuro，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 修炼九阴白骨爪。峨眉山密室。一个隐秘的石室——四周石壁上刻满了九阴真经的武功图谱（线条粗犷的古篆和人体经络图）。周芷若已经变了——她身着深紫色练功服（不再是白衣），长发散开（不再是整齐的道姑髻），面色苍白中透着一股青色（长期练邪功的气色）。她的双手呈爪状——十指指甲变得又长又硬（不是天然指甲——是被九阴白骨爪内功改变了的骨骼和角质），指尖泛着幽蓝色的荧光。她正在对着一根石柱练功——石柱上满是深深的指印（是她日复一日抓出来的）。烛光在密室中摇曳——墙壁上的影子比她的真身更加修长。地上散落着被扯脱的白色道袍（她曾经的峨眉弟子服——她已弃之如敝履）。 构图：周芷若在画面中央偏右，呈出招的半动态姿势——身体微蹲，右爪前伸（指向画面左方），左爪收于胸前（蓄力）。石柱在左侧——上面的指印引导视线从左上到右下。墙上九阴真经图谱形成密密麻麻的背景纹理。破碎的白衣在右下角——作为重要的叙事道具。 光影：密室中只有两盏油灯（画面外下方）提供照明——低角度光（under-lighting）使她的面部阴影反常（眼窝深黑、颧骨过高）。她指尖的蓝光不是反射——是内功的外溢（需要特殊处理这种超自然光效）。墙上经文的阴影在灯光中扭曲。 色彩：主调：石壁青灰 + 密室的深褐暗部 + 油灯暖橙（但被鬼魅的蓝光压制）。人物：深紫衣（近乎黑紫）+ 苍白泛青肤色（不健康的气色）+ 幽蓝指尖（超自然光色）。破碎白衣：月白色（褪去的纯洁）。整体暗调、冷色主导——这是她最黑暗的时期。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figure with supernatural elements, dark atmosphere, dramatic chiaroscuro，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo character portrait 08: 周芷若 · 修炼九阴白骨爪. 峨眉山密室。一个隐秘的石室——四周石壁上刻满了九阴真经的武功图谱（线条粗犷的古篆和人体经络图）。周芷若已经变了——她身着深紫色练功服（不再是白衣），长发散开（不再是整齐的道姑髻），面色苍白中透着一股青色（长期练邪功的气色）。她的双手呈爪状——十指指甲变得又长又硬（不是天然指甲——是被九阴白骨爪内功改变了的骨骼和角质），指尖泛着幽蓝色的荧光。她正在对着一根石柱练功——石柱上满是深深的爪痕（是她日复一. 峨眉山密室。一个隐秘的石室——四周石壁上刻满了九阴真经的武功图谱（线条粗犷的古篆和人体经络图）。周芷若已经变了——她身着深紫色练功服（不再是白衣），长发散开（不再是整齐的道姑髻），面色苍白中透着一股青色（长期练邪功的气色）。她的双手呈爪状——十指指甲变得又长又硬（不是天然指甲——是被九阴白骨爪内功改变了的骨骼和角质），指尖泛着幽蓝色的荧光。她正在对着一根石柱练功——石柱上满是深深的爪痕（是她日复一日抓出来的）。烛光在密室中摇曳——墙壁上的影子比她的真身更加狰狞。地上散落着被撕碎的白色道袍（她曾经的峨眉弟子服——她已弃之如敝履）。 Composition: 周芷若在画面中央偏右，呈出招的半动态姿势——身体微蹲，右爪前伸（指向画面左方），左爪收于胸前（蓄力）。石柱在左侧——上面的爪痕引导视线从左上到右下。墙上九阴真经图谱形成密密麻麻的背景纹理。破碎的白衣在右下角——作为重要的叙事道具。 Lighting: 密室中只有两盏油灯（画面外下方）提供照明——低角度光（under-lighting）使她的面部阴影反常（眼窝深黑、颧骨过高）。她指尖的蓝光不是反射——是内功的外溢（需要特殊处理这种超自然光效）。墙上经文的阴影在灯光中扭曲。 Color palette: 主调：石壁青灰 + 密室的深褐暗部 + 油灯暖橙（但被鬼魅的蓝光压制）。人物：深紫衣（近乎黑紫）+ 苍白泛青肤色（不健康的气色）+ 幽蓝指尖（超自然光色）。破碎白衣：月白色（褪去的纯洁）。整体暗调、冷色主导——这是她最黑暗的时期。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figure with supernatural elements, dark atmosphere, dramatic chiaroscuro, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo character portrait 08: 周芷若 · 修炼九阴白骨爪. 峨眉山密室。一个隐秘的石室——四周石壁上刻满了九阴真经的武功图谱（线条粗犷的古篆和人体经络图）。周芷若已经变了——她身着深紫色练功服（不再是白衣），长发散开（不再是整齐的道姑髻），面色苍白中透着一股青色（长期练邪功的气色）。她的双手呈爪状——十指指甲变得又长又硬（不是天然指甲——是被九阴白骨爪内功改变了的骨骼和角质），指尖泛着幽蓝色的荧光。她正在对着一根石柱练功——石柱上满是深深的指印（是她日复一. 峨眉山密室。一个隐秘的石室——四周石壁上刻满了九阴真经的武功图谱（线条粗犷的古篆和人体经络图）。周芷若已经变了——她身着深紫色练功服（不再是白衣），长发散开（不再是整齐的道姑髻），面色苍白中透着一股青色（长期练邪功的气色）。她的双手呈爪状——十指指甲变得又长又硬（不是天然指甲——是被九阴白骨爪内功改变了的骨骼和角质），指尖泛着幽蓝色的荧光。她正在对着一根石柱练功——石柱上满是深深的指印（是她日复一日抓出来的）。烛光在密室中摇曳——墙壁上的影子比她的真身更加修长。地上散落着被扯脱的白色道袍（她曾经的峨眉弟子服——她已弃之如敝履）。 Composition: 周芷若在画面中央偏右，呈出招的半动态姿势——身体微蹲，右爪前伸（指向画面左方），左爪收于胸前（蓄力）。石柱在左侧——上面的指印引导视线从左上到右下。墙上九阴真经图谱形成密密麻麻的背景纹理。破碎的白衣在右下角——作为重要的叙事道具。 Lighting: 密室中只有两盏油灯（画面外下方）提供照明——低角度光（under-lighting）使她的面部阴影反常（眼窝深黑、颧骨过高）。她指尖的蓝光不是反射——是内功的外溢（需要特殊处理这种超自然光效）。墙上经文的阴影在灯光中扭曲。 Color palette: 主调：石壁青灰 + 密室的深褐暗部 + 油灯暖橙（但被鬼魅的蓝光压制）。人物：深紫衣（近乎黑紫）+ 苍白泛青肤色（不健康的气色）+ 幽蓝指尖（超自然光色）。破碎白衣：月白色（褪去的纯洁）。整体暗调、冷色主导——这是她最黑暗的时期。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns figure with supernatural elements, dark atmosphere, dramatic chiaroscuro, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
+blood, wound, gore, injury, violence, stabbing, cutting, bleeding, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 
 ```
 

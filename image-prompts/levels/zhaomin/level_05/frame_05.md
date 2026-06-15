@@ -10,7 +10,7 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【佛庙·黎明】破晓时分，阳光透过破窗洒入。张无忌伤口已被包扎好，赵敏靠在柱旁睡着了。画面安静而温暖。16:9。水墨渲染。
+【佛庙·黎明】破晓时分，阳光透过破窗洒入。张无忌已经过妥善照料，赵敏靠在柱旁睡着了。画面安静而温暖。16:9。水墨渲染。
 
 ---
 
@@ -34,7 +34,7 @@ soft rose-gold morning light, long shadows, fresh and hopeful, mist rising
 
 ## 🔑 关键元素 (Key Elements)
 
-破晓时分，阳光透过破窗洒入、张无忌伤口已被包扎好，赵敏靠在柱旁睡着了、画面安静而温暖、
+破晓时分，阳光透过破窗洒入、张无忌已经过妥善照料，赵敏靠在柱旁睡着了、画面安静而温暖、
 
 ---
 
@@ -104,19 +104,19 @@ dawn light, new beginnings, quiet optimism
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第五拍弥勒佛庙 · 帧5（诗意收尾）。【佛庙·黎明】破晓时分，阳光透过破窗洒入。张无忌伤口已被包扎好，赵敏靠在柱旁睡着了。画面安静而温暖。16:9。水墨渲染。 构图：全景或远景——诗意化的收尾镜头。人物变小（占画面5-10%）或完全退出画面——让自然风光或建筑空间成为主角。大量运用留白（30-40%）。营造"意在画外"的余味——画面以意境而非叙事驱动。常用手法：夕阳/朝阳、云海、江水远去、孤舟、飞鸟、落花——这些是中国画中承载情感和哲思的经典意象。色调以这一关中建立的情感基调为准——或温暖收束、或苍凉余韵。 光影：soft rose-gold morning light, long shadows, fresh and hopeful, mist rising 色彩：水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。 风格：Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction poetic landscape，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第五拍弥勒佛庙 · 帧5（诗意收尾）。【佛庙·黎明】破晓时分，阳光透过破窗洒入。张无忌已经过妥善照料，赵敏靠在柱旁睡着了。画面安静而温暖。16:9。水墨渲染。 构图：全景或远景——诗意化的收尾镜头。人物变小（占画面5-10%）或完全退出画面——让自然风光或建筑空间成为主角。大量运用留白（30-40%）。营造"意在画外"的余味——画面以意境而非叙事驱动。常用手法：夕阳/朝阳、云海、江水远去、孤舟、飞鸟、落花——这些是中国画中承载情感和哲思的经典意象。色调以这一关中建立的情感基调为准——或温暖收束、或苍凉余韵。 光影：soft rose-gold morning light, long shadows, fresh and hopeful, mist rising 色彩：水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。 风格：Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction poetic landscape，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第五拍弥勒佛庙 - Frame 5: 【佛庙·黎明】破晓时分，阳光透过破窗洒入。张无忌伤口已被包扎好，赵敏靠在柱旁睡着了。画面安静而温暖。16:9。水墨渲染。. 【佛庙·黎明】破晓时分，阳光透过破窗洒入。张无忌伤口已被包扎好，赵敏靠在柱旁睡着了。画面安静而温暖。16:9。水墨渲染。 Composition: 全景或远景——诗意化的收尾镜头。人物变小（占画面5-10%）或完全退出画面——让自然风光或建筑空间成为主角。大量运用留白（30-40%）。营造"意在画外"的余味——画面以意境而非叙事驱动。常用手法：夕阳/朝阳、云海、江水远去、孤舟、飞鸟、落花——这些是中国画中承载情感和哲思的经典意象。色调以这一关中建立的情感基调为准——或温暖收束、或苍凉余韵。 Lighting: soft rose-gold morning light, long shadows, fresh and hopeful, mist rising Color palette: 水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。 Style: Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction poetic landscape, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - 第五拍弥勒佛庙 - Frame 5: 【佛庙·黎明】破晓时分，阳光透过破窗洒入。张无忌已经过妥善照料，赵敏靠在柱旁睡着了。画面安静而温暖。16:9。水墨渲染。. 【佛庙·黎明】破晓时分，阳光透过破窗洒入。张无忌已经过妥善照料，赵敏靠在柱旁睡着了。画面安静而温暖。16:9。水墨渲染。 Composition: 全景或远景——诗意化的收尾镜头。人物变小（占画面5-10%）或完全退出画面——让自然风光或建筑空间成为主角。大量运用留白（30-40%）。营造"意在画外"的余味——画面以意境而非叙事驱动。常用手法：夕阳/朝阳、云海、江水远去、孤舟、飞鸟、落花——这些是中国画中承载情感和哲思的经典意象。色调以这一关中建立的情感基调为准——或温暖收束、或苍凉余韵。 Lighting: soft rose-gold morning light, long shadows, fresh and hopeful, mist rising Color palette: 水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。 Style: Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction poetic landscape, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
+blood, wound, gore, injury, violence, stabbing, cutting, bleeding, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 
 ```
 

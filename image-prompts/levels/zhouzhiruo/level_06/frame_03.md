@@ -10,7 +10,7 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【周芷若·撕红裳】周芷若双手撕碎嫁衣红裳，碎片如血花在空中飘散。她眼中含泪，嘴角却挂着惨笑。手指被衣料割破，鲜血滴落。16:9。工笔重彩。
+【周芷若·撕红裳】周芷若双手扯脱嫁衣红裳，碎片如花瓣在空中飘散。她眼中含泪，嘴角却挂着惨笑。手指被衣料擦伤，滴落。16:9。工笔重彩。
 
 ---
 
@@ -34,7 +34,7 @@ bright overhead sun, strong contrast, vivid colors, sharp shadows
 
 ## 🔑 关键元素 (Key Elements)
 
-周芷若双手撕碎嫁衣红裳，碎片如血花在空中飘散、她眼中含泪，嘴角却挂着惨笑、手指被衣料割破，鲜血滴落、
+周芷若双手扯脱嫁衣红裳，碎片如花瓣在空中飘散、她眼中含泪，嘴角却挂着惨笑、手指被衣料擦伤，滴落、
 
 ---
 
@@ -104,19 +104,19 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第六拍裂裳之痛 · 帧3（医学特写）。【周芷若·撕红裳】周芷若双手撕碎嫁衣红裳，碎片如血花在空中飘散。她眼中含泪，嘴角却挂着惨笑。手指被衣料割破，鲜血滴落。16:9。工笔重彩。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：重彩设色——矿物颜料为主：石青（azurite blue）、石绿（malachite green）、朱砂（cinnabar red）、泥金（gold paint）。色彩饱和度高，具有装饰性的辉煌感。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+古典中国工笔人物画——婚礼悲剧中的新娘特写。周芷若的上半身特写——凤冠霞帔，独自伫立在喜堂中央。她的嫁衣前襟已经自然分开——丝绸经纬线断开，露出内层衬裙。约十片大小不一的红绸碎片如花瓣般从她身畔缓缓飘落。她的面部——这是画面的灵魂：眼眶泛红但干涸无泪（用最后的尊严锁住了泪水），嘴唇轻启无声，眉毛微蹙。双手自然垂落——各持一片脱落的红绸，指尖沾着丝绸染料的颜色。背景大幅虚化——只能隐约看到大红喜字的红色块和宾客的身影轮廓。画面以冷白日光（从左侧门涌入）和暖金灯笼光（右侧）双色照明——她面部左半冷光（告别）、右半暖光（回忆）。金庸武侠美学，元代婚礼考据，16:9横构图，中国工笔人物画精准度，古典戏剧的克制美学。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第六拍裂裳之痛 - Frame 3: 【周芷若·撕红裳】周芷若双手撕碎嫁衣红裳，碎片如血花在空中飘散。她眼中含泪，嘴角却挂着惨笑。手指被衣料割破，鲜血滴落。16:9。工笔重彩。. 【周芷若·撕红裳】周芷若双手撕碎嫁衣红裳，碎片如血花在空中飘散。她眼中含泪，嘴角却挂着惨笑。手指被衣料割破，鲜血滴落。16:9。工笔重彩。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 重彩设色——矿物颜料为主：石青（azurite blue）、石绿（malachite green）、朱砂（cinnabar red）、泥金（gold paint）。色彩饱和度高，具有装饰性的辉煌感。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Classical Chinese Gongbi figure painting — tragic bride close-up at a wedding ceremony. Upper body portrait of Zhou Zhiruo in her phoenix crown and red wedding robes, standing alone at the center of the ceremony hall. The front lapel of her wedding gown has parted naturally — silk warp and weft threads visible at the separation, revealing a lighter red inner layer. About ten red silk fragments of varying sizes drift slowly downward around her like falling flower petals. Her face — the soul of this painting: her eyes are reddened but completely dry (holding back tears with the last shred of dignity), lips slightly parted in silence, brows gently furrowed. Her hands rest naturally at her sides — each holding a detached piece of red silk, her fingertips bearing traces of natural red dye from the fabric. Background heavily blurred — only the red smudge of the double-happiness character and silhouettes of guests are distinguishable. Dual lighting: cool white daylight entering from the left doorway and warm golden lantern light from the right — her face is split between cool light (farewell) on the left and warm light (memory) on the right. Jin Yong wuxia aesthetic, Yuan Dynasty wedding accuracy, 16:9 horizontal, Chinese Gongbi portrait precision, classical theatrical restraint.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
+blood, wound, gore, injury, violence, stabbing, cutting, bleeding, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 
 ```
 
