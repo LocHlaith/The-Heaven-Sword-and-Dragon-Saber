@@ -1,0 +1,29 @@
+# Environment variables (API keys)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Node (if applicable)
+node_modules/
+package-lock.json
+
+# Python (if applicable)
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Build output
+dist/
+build/
+
+# Temp files
+*.tmp
+*.log

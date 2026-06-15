@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>倚天屠龙记 · 胡笳十八拍</title>
+<meta name="description" content="以艺术点亮医学，守护女性健康美——浙江大学《中西医学与美学》期末大作业">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ============================ -->
+<!-- Game Container -->
+<!-- ============================ -->
+<div id="game-container">
+
+  <!-- ========== Title Screen ========== -->
+  <div id="title-screen" class="screen active">
+    <div class="title-decoration"></div>
+    <h1 class="game-title">倚天屠龙记</h1>
+    <p class="subtitle">胡 笳 十 八 拍</p>
+    <p class="subtitle-desc">
+      以艺术点亮医学，守护女性健康美<br>
+      融合中医与西医智慧<br>
+      在金庸武侠世界中探寻女性健康之道
+    </p>
+    <button id="btn-start" class="btn-start">踏 入 江 湖</button>
+    <p style="color:#3b2216;font-size:0.8rem;margin-top:2em;">
+      浙江大学《中西医学与美学》期末大作业
+    </p>
+  </div>
+
+  <!-- ========== Character Selection ========== -->
+  <div id="char-select-screen" class="screen">
+    <h2 class="char-select-title">选 择 你 的 江 湖 儿 女</h2>
+    <div id="char-grid" class="char-grid">
+      <!-- Dynamically filled by JS -->
+    </div>
+  </div>
+
+  <!-- ========== Level Screen ========== -->
+  <div id="level-screen" class="screen">
+    <div class="scene-content">
+      <!-- Top Bar -->
+      <div class="top-bar">
+        <div id="level-indicator" class="level-indicator">第一拍 · 绿柳初逢</div>
+        <div id="progress-dots" class="progress-dots"></div>
+      </div>
+
+      <!-- Scene Image Frame -->
+      <div id="scene-image-frame" class="scene-image-frame">
+        <img id="scene-image" src="" alt="场景图" style="display:none;">
+        <div id="scene-image-placeholder" class="scene-image-placeholder">
+          <div class="icon">🏔️</div>
+          <div class="prompt-hint" style="font-size:0.75rem;color:#8b7b6b;max-width:400px;text-align:center;">
+            [插图占位符] 请使用GPT生成——详见image-prompts.md
+          </div>
+        </div>
+        <div id="frame-indicator" class="frame-nav"></div>
+      </div>
+
+      <!-- Dialogue Box -->
+      <div id="dialogue-box" class="dialogue-box">
+        <div id="dialogue-speaker" class="dialogue-speaker"></div>
+        <div id="dialogue-text" class="dialogue-text"></div>
+        <div class="dialogue-nav">
+          <button id="btn-dialogue-next" class="btn btn-gold">继续 ▸</button>
+          <span class="click-hint" style="margin-left:0.5em;">或按空格键</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== Ending Screen ========== -->
+  <div id="ending-screen" class="screen">
+    <div class="ending-scene">
+      <div id="ending-title" class="ending-title"></div>
+      <div id="ending-poem" class="ending-poem"></div>
+      <div id="ending-message" class="ending-message"></div>
+      <div id="ending-score" style="color:#8b7b6b;margin-bottom:2em;"></div>
+      <button id="btn-restart-ending" class="btn btn-gold">重 返 江 湖</button>
+      <p style="color:#3b2216;font-size:0.8rem;margin-top:1.5em;">
+        蔡文姬《胡笳十八拍》——叹乱世流离<br>
+        愿天下女子皆得健康，愿世间再无战乱与病痛
+      </p>
+    </div>
+  </div>
+
+  <!-- ========== Question Panel (Overlay) ========== -->
+  <div id="question-panel" class="question-panel hidden">
+    <div id="question-card" class="question-card">
+      <!-- Dynamically filled -->
+    </div>
+  </div>
+
+  <!-- ========== Reference Panel (Slide-in) ========== -->
+  <button id="btn-ref-toggle" class="ref-panel-toggle" title="参考文献">📚</button>
+  <div id="ref-panel" class="ref-panel">
+    <span id="btn-ref-close" class="ref-panel-close">✕</span>
+    <h3>📚 参考文献</h3>
+    <div id="ref-panel-content">
+      <p style="color:#6b5344;">暂无参考文献。</p>
+    </div>
+  </div>
+
+  <!-- ========== Side Info ========== -->
+  <button id="btn-restart" class="btn btn-gold" style="position:fixed;top:12px;right:12px;z-index:250;font-size:0.8rem;padding:0.4em 1em;">
+    返回首页
+  </button>
+
+</div><!-- /game-container -->
+
+<!-- ============================ -->
+<!-- Scripts -->
+<!-- ============================ -->
+<script src="js/game-data.js"></script>
+<script src="js/game-data-part2.js"></script>
+<script src="js/game-engine.js"></script>
+
+</body>
+</html>
