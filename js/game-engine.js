@@ -104,6 +104,9 @@ const GAME = {
       el.classList.add('active');
       this.state.screen = name;
     }
+    const refToggle = document.getElementById('btn-ref-toggle');
+    if (refToggle) refToggle.style.display = name === 'level' ? 'block' : 'none';
+    if (name !== 'level') this.toggleRefPanel(false);
   },
 
   getActiveScreen() {
@@ -121,7 +124,11 @@ const GAME = {
     if (!grid) return;
     grid.innerHTML = GAME_DATA.characters.map(c => `
       <div class="char-card animate-in" data-char-id="${c.id}" style="animation-delay:${GAME_DATA.characters.indexOf(c)*0.15}s">
-        <div class="char-portrait">${c.emoji}</div>
+        <div class="char-portrait">
+          <img class="char-portrait-img" src="images/characters/${c.id}/portrait_01.png" alt="${c.name}画像"
+            onerror="this.parentElement.classList.add('portrait-fallback'); this.remove();">
+          <span class="char-emoji">${c.emoji}</span>
+        </div>
         <div class="char-name">${c.name}</div>
         <div class="char-epithet">${c.epithet}</div>
         <div class="char-desc">${c.desc}</div>
@@ -192,6 +199,15 @@ const GAME = {
     el.innerHTML = html;
   },
 
+  getSceneImageSrc(image) {
+    if (image?.src) return image.src;
+    const charId = this.state.character?.id;
+    if (!charId) return '';
+    const levelNo = String(this.state.levelIndex + 1).padStart(2, '0');
+    const frameNo = String((image?.frameIdx ?? 0) + 1).padStart(2, '0');
+    return `images/levels/${charId}/level_${levelNo}/frame_${frameNo}.png`;
+  },
+
   updateSceneImage(frameIdx) {
     const level = this.getCurrentLevel();
     const imgEl = this.dom['scene-image'];
@@ -206,22 +222,30 @@ const GAME = {
     }
 
     const img = level.images[frameIdx % level.images.length];
-    if (img.src) {
-      if (imgEl) {
-        imgEl.src = img.src;
-        imgEl.style.display = 'block';
-      }
-      if (placeholder) placeholder.style.display = 'none';
-    } else {
+    const showPlaceholder = () => {
       if (imgEl) imgEl.style.display = 'none';
       if (placeholder) {
         placeholder.style.display = 'flex';
-        // Show prompt hint in placeholder
         const promptEl = placeholder.querySelector('.prompt-hint');
         if (promptEl && img.prompt) {
           promptEl.textContent = img.prompt.substring(0, 120) + '...';
         }
       }
+    };
+
+    const src = this.getSceneImageSrc(img);
+    if (src && imgEl) {
+      imgEl.onload = () => {
+        imgEl.style.display = 'block';
+        if (placeholder) placeholder.style.display = 'none';
+      };
+      imgEl.onerror = showPlaceholder;
+      imgEl.alt = `${this.state.character?.name || ''}${level.title}第${frameIdx + 1}帧`;
+      imgEl.src = src;
+      imgEl.style.display = 'block';
+      if (placeholder) placeholder.style.display = 'none';
+    } else {
+      showPlaceholder();
     }
     if (frameEl && level.images.length > 1) {
       frameEl.textContent = `${frameIdx + 1}/${level.images.length}`;
@@ -600,12 +624,12 @@ const GAME = {
     if (!content) return;
     const level = this.getCurrentLevel();
     if (!level || !level.question) {
-      content.innerHTML = '<p style="color:#6b5344;">当前关卡暂无参考文献。</p>';
+      content.innerHTML = '<p style="color:#4f3a2d;">当前关卡暂无参考文献。</p>';
       return;
     }
     const refs = level.question.references || [];
     if (refs.length === 0) {
-      content.innerHTML = '<p style="color:#6b5344;">当前关卡暂无参考文献。</p>';
+      content.innerHTML = '<p style="color:#4f3a2d;">当前关卡暂无参考文献。</p>';
     } else {
       content.innerHTML = '<ol>' + refs.map(r => `<li style="margin-bottom:0.5em;">${r}</li>`).join('') + '</ol>';
     }
