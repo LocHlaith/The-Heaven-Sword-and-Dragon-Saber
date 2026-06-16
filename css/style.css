@@ -403,9 +403,28 @@ body {
 #ending-screen {
   background: radial-gradient(ellipse at center, #1a0a00 0%, #000 100%);
   z-index: 200;
+  overflow-y: auto;
+  justify-content: flex-start;
+  padding: 2rem 1rem;
 }
 .ending-scene {
   text-align: center; max-width: 760px; padding: 2em;
+}
+.ending-image-frame {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 0 auto 1.25em;
+  border: 2px solid rgba(216,185,93,0.45);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #120905;
+  box-shadow: 0 12px 32px rgba(0,0,0,0.42);
+}
+.ending-image-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
 }
 .ending-title {
   font-family: var(--font-title);
@@ -505,6 +524,10 @@ button:focus-visible,
   .ref-panel { width: 100%; }
   .chat-input-row { flex-direction: column; }
   .btn { width: auto; }
+  #ending-screen { padding: 4.4rem 0.75rem 1.5rem; }
+  .ending-scene { padding: 1em 0; }
+  .ending-title { font-size: 1.85rem; line-height: 1.35; }
+  .ending-poem { font-size: 1.12rem; margin-bottom: 1.25em; }
 }
 
 @media (prefers-reduced-motion: reduce) {

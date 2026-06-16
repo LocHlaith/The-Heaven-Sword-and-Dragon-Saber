@@ -36,7 +36,7 @@ const GAME = {
       'question-card', 'option-list',
       'chat-container', 'chat-input',
       'answer-result', 'explanation-text', 'ref-toggle', 'ref-content',
-      'ending-title', 'ending-poem', 'ending-message',
+      'ending-image', 'ending-title', 'ending-poem', 'ending-message',
     ];
     ids.forEach(id => { this.dom[id] = document.getElementById(id); });
     this.dom.screens = {
@@ -589,6 +589,11 @@ const GAME = {
     const route = GAME_DATA.routes[charData.id];
     const ending = route.ending;
 
+    const endingImage = this.dom['ending-image'];
+    if (endingImage) {
+      endingImage.src = ending.image || 'images/misc/caiwenji.png';
+      endingImage.alt = `${charData.name}${ending.title}结局意象图`;
+    }
     this.dom['ending-title'].textContent = ending.title;
     this.dom['ending-poem'].textContent = ending.poem || '';
     this.dom['ending-message'].textContent = ending.message || '';
