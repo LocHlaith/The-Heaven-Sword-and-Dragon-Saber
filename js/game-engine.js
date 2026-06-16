@@ -357,8 +357,11 @@ const GAME = {
     card.innerHTML = typeBadge + bodyHtml;
     card.classList.add('animate-in');
 
-    // Re-bind continue button
+    // Re-bind controls generated inside the question card.
     setTimeout(() => {
+      document.getElementById('btn-submit-mc')?.addEventListener('click', () => this.submitMC());
+      document.getElementById('btn-send-chat')?.addEventListener('click', () => this.sendChat());
+      document.getElementById('btn-skip-sa')?.addEventListener('click', () => this.skipShortAnswer());
       document.getElementById('btn-continue')?.addEventListener('click', () => this.continueAfterQuestion());
       document.getElementById('ref-toggle')?.addEventListener('click', () => this.toggleAnswerRef());
     }, 100);
