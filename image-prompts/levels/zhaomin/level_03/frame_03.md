@@ -4,43 +4,43 @@
 > **Level**: 第三拍万安寺火
 > **Frame**: 帧3 / 5 —— 医学特写
 > **Aspect Ratio**: 16:9
-> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision
+> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise medical diagram illustration, clinical wound documentation precision
 
 ---
 
 ## 📖 场景描述 (Scene Description)
 
-【万安寺·白塔】大火前的白塔，元大都地标建筑，通体白色，在夕阳下泛金光。16:9。元代界画风格。
+烧伤创面分级示意医学图——I度：皮肤红斑（表皮层受损，皮肤发红干燥）；II度：水疱形成（真皮浅层受损，水疱饱满透明）；III度：焦痂（全层皮肤坏死，呈焦黑皮革样）。每个级别的创面以矩形区域展示。旁边陈列古代烧伤急救用品——麻布浸于冷水瓷碗中、地榆炭粉末（深褐色细粉）、蜂蜜调和的药膏。背景虚化为高塔火焰的橙红色光。16:9。工笔医学插画。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+画面上半部分为三级烧伤创面示意（I→II→III从左到右排列），占50%。下半部分为古代急救用品（冷水碗、药粉、药膏），占40%。I度红斑位于左上角以淡染表现，II度水疱居中上部以透明质感表现，III度焦痂位于右上角以焦黑厚涂表现。创面以矩形区域框定，区域之间以墨线分隔。急救用品在下半部从左至右排列——冷水碗、地榆炭粉碟、蜂蜜膏碟。以工笔精确描绘创面纹理差异，火焰背景以写意泼墨渲染。注意医学准确性——水疱的透明感、焦痂的皮革质感须正确表现。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-golden hour warmth, elongated shadows, sky gradients from amber to indigo
+暖红色火焰光从背景透出——为整个画面笼罩暖色调。背景火焰光由中心向四周辐射，在创面矩形区域上形成微弱的暖色反光。前景急救用品以柔和散射光照亮，避免过强对比以保持医学插画的清晰度。水疱部位需要微弱的透光效果以表现透明感——火焰光从后方微弱穿透水疱液。焦痂区域吸收光线呈暗哑表面。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+烧伤医学色谱——I度红斑以胭脂淡染，II度水疱以淡赭+透明白表现，III度焦痂以焦墨+焦茶表现。急救用品——麻布留白、地榆炭以焦墨细粉、蜂蜜膏以藤黄。冷水以淡花青表现水面反光。火焰背景以朱砂+藤黄泼墨，由橙红渐变至深红。整体色彩从暖红背景过渡到前景的医学冷色调，形成冷暖对比突出医学插画的精确性。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-大火前的白塔，元大都地标建筑，通体白色，在夕阳下泛金光、
+三级烧伤创面示意（I度红斑表皮受损 / II度水疱饱满透明 / III度焦痂焦黑皮革样）、古代急救用品（冷水浸泡麻布瓷碗、地榆炭粉末深褐色细粉碟、蜂蜜调和药膏碟）、背景高塔火焰橙红色虚化泼墨、医学插画级别的创面纹理精确度、矩形区域框定创面分级
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-dramatic confrontation, high stakes, emotional intensity
+urgent care, clinical precision, life-saving knowledge
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ dramatic confrontation, high stakes, emotional intensity
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第三拍万安寺火 · 帧3（医学特写）。【万安寺·白塔】大火前的白塔，元大都地标建筑，通体白色，在夕阳下泛金光。16:9。元代界画风格。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：golden hour warmth, elongated shadows, sky gradients from amber to indigo 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第三拍万安寺火 · 帧3（医学特写）。烧伤创面分级示意医学图——I度：皮肤红斑（表皮层受损，皮肤发红干燥）；II度：水疱形成（真皮浅层受损，水疱饱满透明）；III度：焦痂（全层皮肤坏死，呈焦黑皮革样）。每个级别的创面以矩形区域展示，从左至右排列。旁边陈列古代烧伤急救用品——麻布浸于冷水瓷碗中、地榆炭粉末（深褐色细粉）、蜂蜜调和的药膏。背景虚化为高塔火焰的橙红色光。16:9。工笔医学插画。 构图：画面上半部分三级烧伤创面示意占50%，从左至右I度红斑→II度水疱→III度焦痂以墨线分隔矩形区域。下半部分古代急救用品占40%——冷水碗、地榆炭粉、蜂蜜膏从左至右排列。工笔精确描绘创面纹理差异——水疱透明感、焦痂皮革质感。火焰背景写意泼墨渲染。 光影：暖红色火焰光从背景透出笼罩暖色调。创面矩形区域有微弱暖色反光。前景急救用品柔和散射光照明保持医学清晰度。水疱需微弱透光表现透明感。 色彩：烧伤医学色谱——I度红斑以胭脂淡染，II度水疱以淡赭+透明白表现，III度焦痂以焦墨+焦茶表现。麻布留白，地榆炭焦墨细粉，蜂蜜膏藤黄。冷水淡花青反光。火焰背景朱砂+藤黄泼墨渐变。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, clinical wound documentation precision，中国工笔医学插画结合写意泼墨背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第三拍万安寺火 - Frame 3: 【万安寺·白塔】大火前的白塔，元大都地标建筑，通体白色，在夕阳下泛金光。16:9。元代界画风格。. 【万安寺·白塔】大火前的白塔，元大都地标建筑，通体白色，在夕阳下泛金光。16:9。元代界画风格。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: golden hour warmth, elongated shadows, sky gradients from amber to indigo Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 03 Wan'an Temple Fire - Frame 3 (Medical Close-up). Burn wound classification medical diagram — First-degree: skin erythema (epidermal damage, skin red and dry); Second-degree: blister formation (superficial dermal damage, blister full and transparent); Third-degree: eschar (full-thickness skin necrosis, charred black leather-like appearance). Each grade displayed in rectangular panels. Ancient burn first-aid supplies displayed alongside — hemp cloth soaked in cold water porcelain bowl, Diyu charcoal powder (dark brown fine powder), honey-mixed medicinal paste. Background blurred to orange-red light of a towering pagoda fire. 16:9. Gongbi medical illustration. Composition: Upper half shows three-grade burn wound panels (I→II→III left to right) occupying 50% of frame, separated by ink lines. Lower half shows ancient first-aid supplies occupying 40% — cold water bowl, charcoal powder dish, honey paste dish left to right. Gongbi precision for wound texture differences — blister transparency, eschar leather texture. Flame background in xieyi splash-ink. Lighting: Warm red firelight radiating from background casting warm tone over entire image. Subtle warm reflections on wound panels. Soft diffuse light on foreground supplies maintaining medical clarity. Slight backlight through blister for transparency effect. Color palette: Burn wound medical spectrum — rouge light wash for first-degree erythema, light burnt sienna + transparent white for second-degree blisters, burnt ink + burnt tea for third-degree eschar. Hemp cloth in reserved white, Diyu charcoal in burnt ink fine powder, honey paste in gamboge yellow. Cold water in light indigo reflection. Flame background in cinnabar + gamboge splash-ink gradient. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, clinical wound documentation precision. Chinese gongbi medical illustration with xieyi splash-ink background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition.
 ```
 
 ---

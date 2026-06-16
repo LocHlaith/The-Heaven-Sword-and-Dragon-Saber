@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【望闻问切·四诊图】示意中医四诊——望（观察面色舌苔）、闻（听声音嗅气味）、问（询问病史症状）、切（寸口脉诊）。四个分格展示。16:9横幅。工笔写实。
+针灸铜人局部特写——宋代天圣针灸铜人的背部。铜人表面布满穴位小孔，银针已刺入背部膀胱经三穴：肺俞（第3胸椎棘突下旁开1.5寸）、心俞（第5胸椎棘突下旁开1.5寸）、膈俞（第7胸椎棘突下旁开1.5寸）。胡青牛的手指正在捻转其中一根银针——食指与拇指捏住针柄，呈顺时针小幅度旋转，展示中医"得气"手法（捻转补泻）。铜人表面有铜绿色锈斑。背景为蝴蝶谷药庐内景虚化。16:9。工笔医学特写。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+铜人背部占画面65%居中。银针三根以不同深度刺入——浅→深展示得气层次。胡青牛捻针手指占15%在右侧。药庐背景虚化占20%。工笔超精细描绘铜人穴位孔洞、银针针体反光、铜锈纹理。铜人表面穴位小孔须以工笔精确排列——肺俞、心俞、膈俞三穴沿膀胱经分布于脊柱两侧，孔洞内银针深浅不一以表现"得气"的不同阶段。胡青牛手指姿势须表现捻转补泻——拇指与食指捏住银针针柄，呈顺时针方向小幅度旋转，指节肌肉微绷。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+药庐窗光+烛光混合照明——左侧窗光为主光，右侧烛光为补光。银针针体有细长金属反光——高光沿针体方向延伸，烛光侧有暖黄辉光。铜人表面有柔和铜质光泽——窗光侧偏冷（天光），烛光侧偏暖。胡青牛手指有柔和立体阴影。铜锈斑在侧光下有凹凸质感。烛火虚化为药庐背景中的暖色光晕。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+铜古色系——铜人以石绿+赭石表现铜绿锈斑与铜质本色。银针以留白+淡花青表现银色反光。捻针手指以淡赭石肤色。肺俞心俞膈俞三穴以朱砂标注。药庐背景以淡墨+焦茶渲染。铜锈以石绿层层罩染，铜质本色以赭石+淡墨调和。烛光以藤黄点染暖调，窗光侧以淡花青渲染冷调。暗部以焦墨+花青调和的深灰蓝表现。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-示意中医四诊——望（观察面色舌苔）、闻（听声音嗅气味）、问（询问病史症状）、切（寸口脉诊）、四个分格展示、
+天圣针灸铜人背部、膀胱经三穴（肺俞心俞膈俞）银针刺入、胡青牛捻转银针得气手法、铜绿锈斑与铜质纹理、银针针体金属反光、药庐内景虚化烛光
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+clinical precision, ancient medical technology, masterful skill
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第十三拍蝴蝶谷中 · 帧3（医学特写）。【望闻问切·四诊图】示意中医四诊——望（观察面色舌苔）、闻（听声音嗅气味）、问（询问病史症状）、切（寸口脉诊）。四个分格展示。16:9横幅。工笔写实。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第十三拍蝴蝶谷中 · 帧3（医学特写）。针灸铜人局部特写——宋代天圣针灸铜人的背部。铜人表面布满穴位小孔，银针已刺入背部膀胱经三穴：肺俞（第3胸椎棘突下旁开1.5寸）、心俞（第5胸椎棘突下旁开1.5寸）、膈俞（第7胸椎棘突下旁开1.5寸）。胡青牛的手指正在捻转其中一根银针——食指与拇指捏住针柄，呈顺时针小幅度旋转，展示中医"得气"手法（捻转补泻）。铜人表面有铜绿色锈斑。背景为蝴蝶谷药庐内景虚化。16:9。工笔医学特写。 构图：铜人背部占画面65%居中。银针三根以不同深度刺入——浅→深展示得气层次。胡青牛捻针手指占15%在右侧。药庐背景虚化占20%。工笔超精细描绘铜人穴位孔洞、银针针体反光、铜锈纹理。膀胱经三穴沿脊柱两侧精确分布，银针深浅不一。捻转补泻手势——食指拇指捏针柄顺时针旋转。 光影：药庐窗光+烛光混合照明——左侧窗光为主光，右侧烛光为补光。银针针体有细长金属反光。铜人表面有柔和铜质光泽——窗光侧偏冷，烛光侧偏暖。铜锈斑在侧光下有凹凸质感。 色彩：铜古色系——铜人以石绿+赭石表现铜绿锈斑与铜质本色。银针以留白+淡花青表现银色反光。捻针手指以淡赭石肤色。肺俞心俞膈俞三穴以朱砂标注。药庐背景以淡墨+焦茶渲染。暗部以焦墨+花青调和的深灰蓝表现。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第十三拍蝴蝶谷中 - Frame 3: 【望闻问切·四诊图】示意中医四诊——望（观察面色舌苔）、闻（听声音嗅气味）、问（询问病史症状）、切（寸口脉诊）。四个分格展示。16:9横幅。工笔写实。. 【望闻问切·四诊图】示意中医四诊——望（观察面色舌苔）、闻（听声音嗅气味）、问（询问病史症状）、切（寸口脉诊）。四个分格展示。16:9横幅。工笔写实。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 13 Butterfly Valley - Frame 3 (Medical Close-up). Close-up of a Song Dynasty Tiansheng bronze acupuncture figure — the back surface covered with acupoint holes. Three silver needles have been inserted into the Bladder Meridian acupoints on the back: Feishu (BL-13, 1.5 cun lateral to the spinous process of T3), Xinshu (BL-15, 1.5 cun lateral to T5), and Geshu (BL-17, 1.5 cun lateral to T7). Hu Qingniu's fingers are twirling one of the silver needles — thumb and index finger gripping the needle handle, rotating clockwise in small amplitude, demonstrating the "Deqi" (arrival of qi) needle manipulation technique (twirling reinforcement-reduction method). The bronze surface bears greenish patina spots. Background blurred to Butterfly Valley medicine hut interior. 16:9. Gongbi medical close-up. Composition: Bronze figure's back occupies 65% of frame centered. Three silver needles inserted at different depths — shallow to deep showing Deqi progression. Hu Qingniu's twirling fingers occupy 15% on the right. Background blurred at 20%. Ultra-fine gongbi rendering of acupoint holes, silver needle metallic reflections, and patina textures. Three Bladder Meridian acupoints precisely positioned along both sides of the spine, needles at varying depths. Twirling finger posture — thumb and index finger grip needle handle rotating clockwise. Lighting: Medicine hut window light + candlelight mixed illumination — left window light as key light, right candlelight as fill. Silver needles showing elongated metallic reflections. Bronze surface with soft metallic luster — cooler on window side, warmer on candle side. Patina spots with textured relief in raking light. Color palette: Antique bronze palette — malachite green + burnt sienna for patina and bronze body. Silver needles with reserved white + light indigo blue for metallic reflections. Twirling fingers in light burnt sienna skin tone. Feishu, Xinshu, Geshu acupoints marked with cinnabar red. Medicine hut background rendered in light ink + burnt tea brown. Deep shadows in burnt ink + indigo blue-gray blend. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, medical illustration precision. Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition.
 ```
 
 ---

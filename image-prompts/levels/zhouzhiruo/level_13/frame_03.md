@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【骨质疏松·示意图】正常骨骼与骨质疏松骨骼的显微对比图——正常骨小梁致密，骨质疏松骨小梁稀疏断裂。附DXA骨密度扫描示意图。16:9。工笔写实。
+老年女性骨质疏松脊柱侧弯示意——医学对比图。画面左侧：正常青年女性脊柱——椎骨形状规整（椎体呈方形，骨小梁致密），脊柱直立，生理弯曲正常。画面右侧：绝经后骨质疏松脊柱——椎骨压缩变形（椎体呈楔形，骨小梁稀疏断裂），胸椎后凸增大（驼背），身高缩短明显。陈列补肾壮骨中药：杜仲（扁平板片状树皮，断面有银白色橡胶丝相连——鉴别要点）、骨碎补（扁圆柱形根茎，表面密被棕色小鳞片）、淫羊藿（三出复叶，小叶片卵形，边缘有细刺状锯齿）、熟地（不规则块状，表面乌黑有光泽，质地柔软）。背景虚化——峨眉金顶云海翻涌。16:9。工笔医学教育对比图。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+左右对比图占画面65%——左为正常脊柱，右为骨质疏松脊柱。药材陈列下方占20%。云海背景虚化占15%。工笔精确描绘椎骨形态——骨小梁纹理、椎体压缩程度。杜仲银丝须清晰可见。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+医学教育标准光——均匀前光照亮。椎骨有细微阴影以表现立体结构。云海以散射光表现。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+骨色谱——正常椎骨以象牙白+淡赭。骨质疏松椎骨以淡黄+焦茶暗部。骨小梁以淡墨细线。杜仲以焦茶+银白丝（留白）。骨碎补以棕褐+赭石鳞片。淫羊藿墨绿叶。熟地乌黑有光泽。云海以花青+淡墨。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-正常骨骼与骨质疏松骨骼的显微对比图——正常骨小梁致密，骨质疏松骨小梁稀疏断裂、附DXA骨密度扫描示意图、
+正常vs骨质疏松脊柱对比图、椎骨楔形变与骨小梁断裂、补肾壮骨四味（杜仲骨碎补淫羊藿熟地）、峨眉云海背景
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+aging body truth, preventive wisdom, mountain permanence
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第十三拍峨眉金顶 · 帧3（医学特写）。【骨质疏松·示意图】正常骨骼与骨质疏松骨骼的显微对比图——正常骨小梁致密，骨质疏松骨小梁稀疏断裂。附DXA骨密度扫描示意图。16:9。工笔写实。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第十三拍峨眉金顶 · 帧3（医学特写）。老年女性骨质疏松脊柱侧弯示意——医学对比图。画面左侧：正常青年女性脊柱——椎骨形状规整（椎体呈方形，骨小梁致密），脊柱直立，生理弯曲正常。画面右侧：绝经后骨质疏松脊柱——椎骨压缩变形（椎体呈楔形，骨小梁稀疏断裂），胸椎后凸增大（驼背），身高缩短明显。陈列补肾壮骨中药：杜仲（扁平板片状树皮，断面有银白色橡胶丝相连——鉴别要点）、骨碎补（扁圆柱形根茎，表面密被棕色小鳞片）、淫羊藿（三出复叶，小叶片卵形，边缘有细刺状锯齿）、熟地（不规则块状，表面乌黑有光泽，质地柔软）。背景虚化——峨眉金顶云海翻涌。16:9。工笔医学教育对比图。 构图：左右对比图占画面65%——左为正常脊柱，右为骨质疏松脊柱。药材陈列下方占20%。云海背景虚化占15%。工笔精确描绘椎骨形态——骨小梁纹理、椎体压缩程度。杜仲银丝须清晰可见。 光影：医学教育标准光——均匀前光照亮。椎骨有细微阴影以表现立体结构。云海以散射光表现。 色彩：骨色谱——正常椎骨以象牙白+淡赭。骨质疏松椎骨以淡黄+焦茶暗部。骨小梁以淡墨细线。杜仲以焦茶+银白丝（留白）。骨碎补以棕褐+赭石鳞片。淫羊藿墨绿叶。熟地乌黑有光泽。云海以花青+淡墨。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第十三拍峨眉金顶 - Frame 3: 【骨质疏松·示意图】正常骨骼与骨质疏松骨骼的显微对比图——正常骨小梁致密，骨质疏松骨小梁稀疏断裂。附DXA骨密度扫描示意图。16:9。工笔写实。. 【骨质疏松·示意图】正常骨骼与骨质疏松骨骼的显微对比图——正常骨小梁致密，骨质疏松骨小梁稀疏断裂。附DXA骨密度扫描示意图。16:9。工笔写实。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第十三拍峨眉金顶 - Frame 3 (Medical Close-up). Medical comparison illustration of osteoporotic spinal scoliosis in an elderly woman. Left side of image: normal young adult female spine — vertebral bodies square-shaped, trabecular bone dense and intact, spine upright with normal physiological curvature. Right side of image: postmenopausal osteoporotic spine — vertebral bodies compressed and wedge-deformed, trabecular bone sparse and fractured, thoracic kyphosis increased (hunchback), noticeable height loss. Kidney-tonifying and bone-strengthening Chinese herbs displayed: Eucommia bark (duzhong, flat plate-like bark pieces, cross-section revealing silver-white rubbery latex strands connected — key identification feature), Drynaria rhizome (gusulbu, flat cylindrical rhizome, surface densely covered with small brown scales), Epimedium herb (yinyanghuo, trifoliate compound leaves, leaflets ovate with fine spiny serrations on margins), Prepared Rehmannia root (shudi, irregular chunks, surface jet-black and glossy, soft texture). Background softly blurred — sea of clouds billowing over Emei Golden Summit. 16:9. Gongbi medical education comparison illustration. Composition: Left-right comparison diagram occupies 65% of the frame — left side normal spine, right side osteoporotic spine. Medicinal herbs arranged below occupying 20%. Cloud sea background blurred at 15%. Gongbi fine brushwork precisely depicting vertebral morphology — trabecular bone texture, degree of vertebral compression. Eucommia silver latex strands must be clearly visible. Lighting: Medical education standard light — even frontal illumination. Vertebrae with subtle shading to express three-dimensional structure. Cloud sea rendered with diffused light. Color palette: Bone chromatography — normal vertebrae in ivory white + light burnt sienna. Osteoporotic vertebrae in pale yellow + burnt ink dark areas. Trabecular bone in light ink fine lines. Eucommia in burnt ink brown + silver-white strands (negative space). Drynaria in brown + ochre scales. Epimedium in dark ink green leaves. Prepared rehmannia jet-black with gloss. Cloud sea in indigo + light ink. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

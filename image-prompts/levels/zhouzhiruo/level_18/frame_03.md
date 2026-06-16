@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【白莲·特写】一池白莲在晨光中绽放——"出淤泥而不染，濯清涟而不妖"。水滴在莲叶上如珍珠般滚动。16:9。写意花鸟。
+妇科义诊诊案特写——"芷若医庐"匾额（木匾，墨书行楷）悬于上方。诊案上陈列：脉枕（蓝布包裹的小枕，用于垫腕诊脉）、银针一套（插于针包，长短粗细排列整齐）、墨砚一方、毛笔搁于笔山、药方纸笺两张（一张写了"当归四逆汤"，另一张空白待写）。诊案旁陈列妇科常用中成药：乌鸡白凤丸（蜜丸，外包金箔纸，黑褐色圆形大蜜丸）、艾附暖宫丸（小蜜丸，棕褐色，盛于瓷瓶中）、八珍益母丸（棕黑色蜜丸，表面有光泽）。背景虚化——门外排队等候的妇女（怀中抱婴、手牵幼童）和儿童，阳光从门外照入。16:9。工笔人文医学。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+诊案居中占画面55%。匾额在上方占10%。中成药陈列右侧占20%。门外人群虚化左下方占15%。工笔精细描绘脉枕布纹、银针金属质感、药丸形态。门外阳光形成温暖光束。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-soft rose-gold morning light, long shadows, fresh and hopeful, mist rising
+门口阳光——从画面左侧门外的阳光斜射入室内。光束中可见微尘。诊案以柔和的室内散射光+阳光直射的暖调混合照明。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+人文暖调——诊案木纹以焦茶+赭石。脉枕蓝布以花青。银针以留白金属光泽。乌鸡白凤丸金箔以泥金。艾附暖宫丸以棕褐。八珍益母丸以焦墨+光泽留白。匾额以焦墨+淡赭木底。门外阳光以藤黄暖光。人群剪影以淡墨。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-一池白莲在晨光中绽放——"出淤泥而不染，濯清涟而不妖"、水滴在莲叶上如珍珠般滚动、
+芷若医庐匾额、诊案（脉枕银针墨砚纸笺）、妇科中成药三种（乌鸡白凤丸/艾附暖宫丸/八珍益母丸）、门外等候妇女儿童虚化剪影、阳光暖束
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-dawn light, new beginnings, quiet optimism
+community healing, compassionate service, rebirth through care
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ dawn light, new beginnings, quiet optimism
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第十八拍白莲重生 · 帧3（医学特写）。【白莲·特写】一池白莲在晨光中绽放——"出淤泥而不染，濯清涟而不妖"。水滴在莲叶上如珍珠般滚动。16:9。写意花鸟。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：soft rose-gold morning light, long shadows, fresh and hopeful, mist rising 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第十八拍白莲重生 · 帧3（医学特写）。妇科义诊诊案特写——"芷若医庐"匾额（木匾，墨书行楷）悬于上方。诊案上陈列：脉枕（蓝布包裹的小枕，用于垫腕诊脉）、银针一套（插于针包，长短粗细排列整齐）、墨砚一方、毛笔搁于笔山、药方纸笺两张（一张写了"当归四逆汤"，另一张空白待写）。诊案旁陈列妇科常用中成药：乌鸡白凤丸（蜜丸，外包金箔纸，黑褐色圆形大蜜丸）、艾附暖宫丸（小蜜丸，棕褐色，盛于瓷瓶中）、八珍益母丸（棕黑色蜜丸，表面有光泽）。背景虚化——门外排队等候的妇女（怀中抱婴、手牵幼童）和儿童，阳光从门外照入。16:9。工笔人文医学。 构图：诊案居中占画面55%。匾额在上方占10%。中成药陈列右侧占20%。门外人群虚化左下方占15%。工笔精细描绘脉枕布纹、银针金属质感、药丸形态。门外阳光形成温暖光束。 光影：门口阳光——从画面左侧门外的阳光斜射入室内。光束中可见微尘。诊案以柔和的室内散射光+阳光直射的暖调混合照明。 色彩：人文暖调——诊案木纹以焦茶+赭石。脉枕蓝布以花青。银针以留白金属光泽。乌鸡白凤丸金箔以泥金。艾附暖宫丸以棕褐。八珍益母丸以焦墨+光泽留白。匾额以焦墨+淡赭木底。门外阳光以藤黄暖光。人群剪影以淡墨。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第十八拍白莲重生 - Frame 3: 【白莲·特写】一池白莲在晨光中绽放——"出淤泥而不染，濯清涟而不妖"。水滴在莲叶上如珍珠般滚动。16:9。写意花鸟。. 【白莲·特写】一池白莲在晨光中绽放——"出淤泥而不染，濯清涟而不妖"。水滴在莲叶上如珍珠般滚动。16:9。写意花鸟。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: soft rose-gold morning light, long shadows, fresh and hopeful, mist rising Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第十八拍白莲重生 - Frame 3 (Medical Close-up). Gynecology charity clinic consultation table close-up — "Zhi Ruo Medical Cottage" plaque (wooden plaque, ink calligraphy in running-regular script) hanging above. On the consultation table displayed: Pulse pillow (maizhen, small pillow wrapped in blue cloth, used to support the wrist during pulse diagnosis), Set of silver needles (inserted in a needle holder, arranged neatly by length and thickness), Inkstone, Writing brush resting on a brush rest, Two sheets of prescription paper (one with "Danggui Sini Decoction" written on it, the other blank and ready to be written). Beside the consultation table, commonly used gynecological patent Chinese medicines displayed: Wuji Baifeng Pill (black chicken white phoenix pill, honey pill, wrapped in gold foil paper, black-brown large round honey pill), Aifu Nuan'gong Pill (artemisia-cyperus womb-warming pill, small honey pills, brown, contained in a porcelain bottle), Bazhen Yimu Pill (eight-treasure motherwort pill, brown-black honey pill, glossy surface). Background softly blurred — women waiting in line outside the door (holding infants in arms, leading young children by hand) and children, sunlight streaming in through the doorway. 16:9. Gongbi humanistic medicine. Composition: Consultation table centered occupying 55% of frame. Plaque above occupying 10%. Patent medicines displayed on the right occupying 20%. Blurred crowd outside doorway lower left occupying 15%. Gongbi fine brushwork precisely depicting the pulse pillow's fabric texture, silver needles' metallic luster, pill morphology. Sunlight through the doorway forming a warm beam. Lighting: Doorway sunlight — sunlight from outside the door on the left side slanting into the interior. Dust particles visible in the light beam. Consultation table illuminated by a mix of soft interior diffused light + warm direct sunlight. Color palette: Humanistic warm tones — consultation table wood grain in burnt ink + burnt sienna. Pulse pillow blue cloth in indigo. Silver needles with metallic luster through negative space. Wuji Baifeng Pill gold foil in gold paint (nijin). Aifu Nuan'gong Pill in brown. Bazhen Yimu Pill in burnt ink + glossy highlights through negative space. Plaque in burnt ink + light burnt sienna wood base. Doorway sunlight in gamboge warm light. Figure silhouettes in light ink. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

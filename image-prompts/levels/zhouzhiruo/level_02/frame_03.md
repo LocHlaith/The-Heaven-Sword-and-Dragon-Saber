@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【灭绝师太·训徒】灭绝师太（中年尼姑，面容严厉，手持拂尘）教导周芷若。周芷若低头恭听，神色既敬畏又渴望。16:9。工笔人物。
+古代女子月事与调经工笔特写。画面分两层：上层——月事用物：手工缝制的月事布（棉布折叠成条，本色白布）、一碗姜枣红糖茶（生姜片与红枣浮于汤面，琥珀色茶汤）、艾灸关元穴示意（女性下腹部，肚脐下3寸处放置一片生姜，上有艾炷微燃）。下层——四物汤药材：当归（全归片，断面黄白色）、白芍（类圆形薄片，表面淡棕红色有纵皱纹）、川芎（蝴蝶片状，断面黄白色有棕色油室）、熟地（不规则块状，表面乌黑有光泽，质地柔软）。整体以柔和粉色为主调。16:9。工笔静物+妇科医学。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+上层月事用物占40%，下层四物汤占40%，分隔以绢帛线。艾灸示意以工笔精确标注关元穴位置。药材以工笔精细描绘鉴别特征。整体画面以柔和弧线构图，避免尖锐棱角。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+闺房柔和光——经纱帐过滤的散射日光。画面无强烈阴影，呈现温润的女性空间质感。艾炷微火有温暖光点。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+暖粉设色——月事布以象牙白+淡赭棉质。姜枣茶以琥珀色（藤黄+赭石）。艾炷以金黄+灰白。当归淡黄白，白芍淡棕红，川芎黄白+棕油室，熟地乌黑有光泽。艾灸皮肤以淡赭。整体以暖粉+赭石调为主。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-灭绝师太（中年尼姑，面容严厉，手持拂尘）教导周芷若、周芷若低头恭听，神色既敬畏又渴望、
+古代月事布、姜枣红糖茶、艾灸关元穴示意、四物汤四味（当归白芍川芎熟地）、柔和粉色主调
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+feminine awakening, body literacy, gentle wisdom
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第二拍峨眉入门 · 帧3（医学特写）。【灭绝师太·训徒】灭绝师太（中年尼姑，面容严厉，手持拂尘）教导周芷若。周芷若低头恭听，神色既敬畏又渴望。16:9。工笔人物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第二拍峨眉入门 · 帧3（医学特写）。古代女子月事与调经工笔特写。画面分两层：上层——月事用物：手工缝制的月事布（棉布折叠成条，本色白布）、一碗姜枣红糖茶（生姜片与红枣浮于汤面，琥珀色茶汤）、艾灸关元穴示意（女性下腹部，肚脐下3寸处放置一片生姜，上有艾炷微燃）。下层——四物汤药材：当归（全归片，断面黄白色）、白芍（类圆形薄片，表面淡棕红色有纵皱纹）、川芎（蝴蝶片状，断面黄白色有棕色油室）、熟地（不规则块状，表面乌黑有光泽，质地柔软）。整体以柔和粉色为主调。16:9。工笔静物+妇科医学。 构图：上层月事用物占40%，下层四物汤占40%，分隔以绢帛线。艾灸示意以工笔精确标注关元穴位置。药材以工笔精细描绘鉴别特征。整体画面以柔和弧线构图，避免尖锐棱角。 光影：闺房柔和光——经纱帐过滤的散射日光。画面无强烈阴影，呈现温润的女性空间质感。艾炷微火有温暖光点。 色彩：暖粉设色——月事布以象牙白+淡赭棉质。姜枣茶以琥珀色（藤黄+赭石）。艾炷以金黄+灰白。当归淡黄白，白芍淡棕红，川芎黄白+棕油室，熟地乌黑有光泽。艾灸皮肤以淡赭。整体以暖粉+赭石调为主。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第二拍峨眉入门 - Frame 3: 【灭绝师太·训徒】灭绝师太（中年尼姑，面容严厉，手持拂尘）教导周芷若。周芷若低头恭听，神色既敬畏又渴望。16:9。工笔人物。. 【灭绝师太·训徒】灭绝师太（中年尼姑，面容严厉，手持拂尘）教导周芷若。周芷若低头恭听，神色既敬畏又渴望。16:9。工笔人物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第二拍峨眉入门 - Frame 3 (Medical Close-up). Ancient feminine hygiene and menstrual regulation gongbi close-up. The image is divided into two layers: Upper layer — menstrual care items: hand-sewn menstrual cloth (cotton fabric folded into strips, natural white cloth), a bowl of ginger-jujube brown sugar tea (ginger slices and red dates floating on the surface, amber-colored tea broth), moxibustion at Guanyuan acupoint illustration (female lower abdomen, a slice of fresh ginger placed 3 cun below the navel, with a small burning moxa cone atop). Lower layer — Four Substance Decoction (Si Wu Tang) herbs: dong quai root (danggui, whole-root slices with yellow-white cross-section), white peony root (baishao, sub-round thin slices with pale brownish-red surface and longitudinal wrinkles), Sichuan lovage root (chuanxiong, butterfly-shaped slices with yellow-white cross-section and brown oil cavities), prepared rehmannia root (shudi, irregular chunks with jet-black glossy surface, soft texture). Overall dominated by a soft pink palette. 16:9. Gongbi still life + gynecological medicine. Composition: Upper layer menstrual items occupy 40%, lower layer Si Wu Tang occupies 40%, divided by a silk ribbon line. Moxibustion illustration precisely marks Guanyuan acupoint with gongbi technique. Herbs rendered with gongbi fine brushwork to show distinguishing characteristics. Overall composition uses soft curved lines, avoiding sharp angles. Lighting: Boudoir soft light — diffused daylight filtered through gauze bed curtains. No harsh shadows in the image, presenting a warm, feminine spatial texture. The moxa cone's faint fire provides a warm point of light. Color palette: Warm pink palette — menstrual cloth in ivory white + pale burnt sienna cotton tones. Ginger-jujube tea in amber (gamboge + ochre). Moxa cone in golden yellow + ash white. Dong quai pale yellow-white, white peony pale brownish-red, Sichuan lovage yellow-white + brown oil cavities, prepared rehmannia jet-black with gloss. Moxibustion skin in pale ochre. Overall dominated by warm pink + ochre tones. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

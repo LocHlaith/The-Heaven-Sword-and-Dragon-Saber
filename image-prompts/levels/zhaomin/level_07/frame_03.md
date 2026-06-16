@@ -4,43 +4,43 @@
 > **Level**: 第七拍少室山下
 > **Frame**: 帧3 / 5 —— 医学特写
 > **Aspect Ratio**: 16:9
-> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision
+> **Art Style**: Chinese Gongbi (工笔) still-life painting — fine brushwork, detailed outlines, layered colors, botanical precision, medical illustration accuracy
 
 ---
 
 ## 📖 场景描述 (Scene Description)
 
-【少林·药房】少林药局，药柜高耸，满墙药斗。一位老僧正在配药——当归、黄芪、党参等药材散落桌上。16:9。工笔静物。
+老僧配药特写——枯瘦有力的手执药戥子（微型杆秤）称量黄芪饮片。药戥子铜盘上散落黄芪斜片（豆腥味、纤维性、断面黄白色）。药柜背景——满墙药斗，标签清晰：当归、党参、白术、茯苓、甘草、川芎、白芍、熟地。案上已配好的"八珍汤"药材包（当归+川芎+白芍+熟地+人参+白术+茯苓+甘草）以桑皮纸分包。展示"君臣佐使"配伍——人参为君大包居中，白术茯苓为臣中包，当归川芎白芍为佐，甘草为使小包。16:9。工笔静物。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+老僧的手与药戥子占画面50%居中央。药柜背景占30%。已配好的八珍汤包占20%排列于前方。工笔精细描绘药戥子铜质细节、黄芪切片纹理、药斗木纹。背景药柜以写意淡墨表现纵深。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+药房窗光——从左侧窗户射入的柔和日光，经纸窗过滤呈现柔和的散射光。铜药戥子有微弱的金属反光。无强烈阴影，保持药材细节清晰。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+墨骨设色——老僧手部以浓墨勾勒+淡赭石渲染。铜药戥子以赭石+藤黄表现铜质光泽。黄芪以淡黄白+象牙白。药柜木纹以焦茶+焦墨。八珍汤包以桑皮纸原色（淡赭）。背景以淡墨层次表现纵深。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-少林药局，药柜高耸，满墙药斗、一位老僧正在配药——当归、黄芪、党参等药材散落桌上、
+老僧执药戥子称量黄芪、药柜药斗标签（当归党参白术茯苓甘草川芎白芍熟地）、八珍汤桑皮纸药包、君臣佐使配伍示意
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-dramatic confrontation, high stakes, emotional intensity
+monastic serenity, medicinal precision, ancient wisdom
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ dramatic confrontation, high stakes, emotional intensity
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第七拍少室山下 · 帧3（医学特写）。【少林·药房】少林药局，药柜高耸，满墙药斗。一位老僧正在配药——当归、黄芪、党参等药材散落桌上。16:9。工笔静物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第七拍少室山下 · 帧3（医学特写）。老僧配药特写——枯瘦有力的手执药戥子（微型杆秤）称量黄芪饮片。药戥子铜盘上散落黄芪斜片（豆腥味、纤维性、断面黄白色）。药柜背景——满墙药斗，标签清晰：当归、党参、白术、茯苓、甘草、川芎、白芍、熟地。案上已配好的"八珍汤"药材包（当归+川芎+白芍+熟地+人参+白术+茯苓+甘草）以桑皮纸分包。展示"君臣佐使"配伍——人参为君大包居中，白术茯苓为臣中包，当归川芎白芍为佐，甘草为使小包。16:9。工笔静物。 构图：老僧的手与药戥子占画面50%居中央。药柜背景占30%。已配好的八珍汤包占20%排列于前方。工笔精细描绘药戥子铜质细节、黄芪切片纹理、药斗木纹。背景药柜以写意淡墨表现纵深。 光影：药房窗光——从左侧窗户射入的柔和日光，经纸窗过滤呈现柔和的散射光。铜药戥子有微弱的金属反光。无强烈阴影，保持药材细节清晰。 色彩：墨骨设色——老僧手部以浓墨勾勒+淡赭石渲染。铜药戥子以赭石+藤黄表现铜质光泽。黄芪以淡黄白+象牙白。药柜木纹以焦茶+焦墨。八珍汤包以桑皮纸原色（淡赭）。背景以淡墨层次表现纵深。 风格：Chinese Gongbi (工笔) still-life painting — fine brushwork, detailed outlines, layered colors, botanical precision, medical illustration accuracy，中国工笔静物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第七拍少室山下 - Frame 3: 【少林·药房】少林药局，药柜高耸，满墙药斗。一位老僧正在配药——当归、黄芪、党参等药材散落桌上。16:9。工笔静物。. 【少林·药房】少林药局，药柜高耸，满墙药斗。一位老僧正在配药——当归、黄芪、党参等药材散落桌上。16:9。工笔静物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 07 Shaoshi Mountain Below - Frame 3 (Medical Close-up). An aged Shaolin monk dispensing herbal medicine — close-up of gnarled yet steady hands holding a yao dengzi (miniature steelyard balance) weighing astragalus (Huangqi) root slices. The copper weighing pan holds scattered oblique-cut Huangqi slices (beany aroma, fibrous texture, yellowish-white cross-section). Background: a full wall of herbal pharmacy cabinets with clearly labeled drawers — Danggui (Angelica sinensis), Dangshen (Codonopsis), Baizhu (Atractylodes), Fuling (Poria), Gancao (Licorice), Chuanxiong (Ligusticum), Baishao (White Peony), Shudi (Prepared Rehmannia). On the workbench, already-prepared "Eight Treasure Decoction" (Bazhen Tang) herbal packets wrapped in mulberry bark paper (Sangpi paper) — the formula: Danggui + Chuanxiong + Baishao + Shudi + Renshen + Baizhu + Fuling + Gancao. Displaying the "Jun-Chen-Zuo-Shi" (Sovereign-Minister-Assistant-Envoy) formulation hierarchy — Renshen (Sovereign) in a large central packet, Baizhu + Fuling (Ministers) in medium packets, Danggui + Chuanxiong + Baishao (Assistants), Gancao (Envoy) in the smallest packet. 16:9. Gongbi still-life. Composition: The monk's hands and the steelyard balance occupy 50% of the frame at center. Herbal cabinet background 30%. Prepared Bazhen Tang packets 20% arranged in the foreground. Gongbi fine-line precision for the steelyard's copper details, astragalus slice textures, and wood grain of the cabinet. Background cabinets rendered with xieyi light ink washes suggesting depth. Lighting: Pharmacy window light — soft daylight entering from a left-side window, filtered through paper windows producing gentle diffuse illumination. Faint metallic glints on the copper steelyard. No harsh shadows, preserving clarity of herbal details. Color palette: Ink-bone coloring method — monk's hands outlined in dark ink + light burnt sienna washes. Copper steelyard in burnt sienna + gamboge yellow for metallic luster. Astragalus in pale yellow-white + ivory white. Cabinet wood grain in burnt tea brown + burnt ink. Bazhen Tang packets in natural mulberry paper tones (light burnt sienna). Background depth in layered light ink washes. Style: Chinese Gongbi (工笔) still-life painting — fine brushwork, detailed outlines, layered colors, botanical precision, medical illustration accuracy. Chinese gongbi still-life painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

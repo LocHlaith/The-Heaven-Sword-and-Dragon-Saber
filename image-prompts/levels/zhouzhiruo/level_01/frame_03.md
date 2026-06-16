@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【汉水·江景】汉水两岸，青山叠翠。江面上渔船点点，渔歌互答。画面清新淡雅。16:9横幅。青绿山水。
+十岁女孩（少女周芷若）发热面容特写——面色潮红（两颧部红晕明显）、额头微有汗珠、嘴唇干红。额头上敷一条折叠的冷麻布巾——布边湿润。案上陈列小儿退热中药：羚羊角（锉成细末，白色粉末盛在瓷碟中）、柴胡（黄棕色圆柱形根切片）、葛根（白色粉质块状切片）、石膏（白色半透明晶体研粉）。背景虚化为汉水江景——江面上有渔舟剪影。16:9。工笔医学特写。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+女孩面部占画面55%居中。额头冷巾与面部体征为视觉焦点。药材陈列右下角占25%。汉水江景虚化占20%。工笔精细描绘面部体征——颧红层次、汗珠透明感、唇部干裂纹理。药材形态精确。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+柔和窗光——从左侧窗户射入的日光，经纸窗柔化。面部受光均匀，汗珠有微弱反光。表现出病中的脆弱光线质感。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-重彩设色——矿物颜料为主：石青（azurite blue）、石绿（malachite green）、朱砂（cinnabar red）、泥金（gold paint）。色彩饱和度高，具有装饰性的辉煌感。
+淡彩设色——女孩面部以淡赭石+胭脂淡染颧红。汗珠以留白+淡花青反光。唇部以淡胭脂。羚羊角粉末留白。柴胡赭石黄棕。葛根象牙白粉质。石膏以留白半透明。江景以花青淡墨。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-汉水两岸，青山叠翠、江面上渔船点点，渔歌互答、画面清新淡雅、
+十岁少女发热面容（颧红汗珠唇干）、额头冷麻布巾、四味退热药（羚羊角柴胡葛根石膏）、汉水江景虚化
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+childhood vulnerability, tender care, healing compassion
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第一拍汉水初遇 · 帧3（医学特写）。【汉水·江景】汉水两岸，青山叠翠。江面上渔船点点，渔歌互答。画面清新淡雅。16:9横幅。青绿山水。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：重彩设色——矿物颜料为主：石青（azurite blue）、石绿（malachite green）、朱砂（cinnabar red）、泥金（gold paint）。色彩饱和度高，具有装饰性的辉煌感。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第一拍汉水初遇 · 帧3（医学特写）。十岁女孩（少女周芷若）发热面容特写——面色潮红（两颧部红晕明显）、额头微有汗珠、嘴唇干红。额头上敷一条折叠的冷麻布巾——布边湿润。案上陈列小儿退热中药：羚羊角（锉成细末，白色粉末盛在瓷碟中）、柴胡（黄棕色圆柱形根切片）、葛根（白色粉质块状切片）、石膏（白色半透明晶体研粉）。背景虚化为汉水江景——江面上有渔舟剪影。 构图：女孩面部占画面55%居中。额头冷巾与面部体征为视觉焦点。药材陈列右下角占25%。汉水江景虚化占20%。工笔精细描绘面部体征——颧红层次、汗珠透明感、唇部干裂纹理。药材形态精确。 光影：柔和窗光——从左侧窗户射入的日光，经纸窗柔化。面部受光均匀，汗珠有微弱反光。表现出病中的脆弱光线质感。 色彩：淡彩设色——女孩面部以淡赭石+胭脂淡染颧红。汗珠以留白+淡花青反光。唇部以淡胭脂。羚羊角粉末留白。柴胡赭石黄棕。葛根象牙白粉质。石膏以留白半透明。江景以花青淡墨。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第一拍汉水初遇 - Frame 3: 【汉水·江景】汉水两岸，青山叠翠。江面上渔船点点，渔歌互答。画面清新淡雅。16:9横幅。青绿山水。. 【汉水·江景】汉水两岸，青山叠翠。江面上渔船点点，渔歌互答。画面清新淡雅。16:9横幅。青绿山水。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 重彩设色——矿物颜料为主：石青（azurite blue）、石绿（malachite green）、朱砂（cinnabar red）、泥金（gold paint）。色彩饱和度高，具有装饰性的辉煌感。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第一拍汉水初遇 - Frame 3 (Medical Close-up). Close-up of a ten-year-old girl (young Zhou Zhiruo) with fever — flushed complexion (visible malar redness on both cheeks), slight beads of sweat on forehead, dry red lips. A folded cold linen cloth placed on her forehead — the edges of the cloth damp with moisture. On the table, pediatric fever-reducing Chinese medicines displayed: antelope horn (lingyangjiao, filed into fine white powder in a porcelain dish), bupleurum root (chaihu, yellow-brown cylindrical root slices), pueraria root (gegen, white starchy block-cut slices), gypsum (shigao, white translucent crystalline powder). Background softly blurred into Hanshui River scenery — fishing boat silhouettes on the river surface. 16:9. Gongbi medical close-up. Composition: Girl's face occupies 55% of the frame, centered. Cold cloth on forehead and facial signs are the visual focus. Medicinal herbs arranged in lower right corner occupying 25%. Hanshui River scenery blurred at 20%. Gongbi fine brushwork precisely rendering facial signs — gradations of malar redness, translucency of sweat beads, texture of dry cracked lips. Medicinal forms rendered with accuracy. Lighting: Soft window light — daylight entering from the left through paper windows, softened. Face evenly lit, sweat beads with subtle reflective highlights. Conveying the fragile light quality of illness. Color palette: Light color (dan cai) application — girl's face with light burnt sienna + rouge for subtle malar flushing. Sweat beads rendered through negative space (liubai) + pale indigo reflections. Lips in light rouge. Antelope horn powder left white. Bupleurum in ochre yellow-brown. Pueraria in ivory white starchy tones. Gypsum in translucent white through negative space. River scenery in indigo and light ink. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

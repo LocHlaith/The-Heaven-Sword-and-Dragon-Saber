@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【黄衫女子·训诫】黄衫女子对周芷若说话——"终南山后，活死人墓。神雕侠侣，绝迹江湖。"表情严厉中带着惋惜。16:9。工笔人物。
+中医正邪理论——阴阳太极图（工笔绘制）。圆形太极图居中——左半阳鱼（白色底，黑点为眼）、右半阴鱼（黑色底，白点为眼），黑白交界处以流畅S形曲线分割，象征阴阳互根、消长平衡。太极图左右两侧展示手势对比：左侧——"九阴白骨爪"（邪）：五指呈爪状，指尖锋利，筋骨狰狞，手背青筋暴起，以深黑+暗紫色调表现；右侧——"九阴神爪"（正）：五指虽同呈爪状，但指形流畅，力量均匀，皮肤光洁，以白色+金色调表现。两者手势完全对称——同一武功的正邪两面。背景以淡墨山水虚化。16:9。工笔哲学图谱。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+太极图居中占35%。左爪（邪）占25%，右爪（正）占25%。背景山水占15%。画面完全左右对称——阴阳平衡的视觉表达。工笔精确描绘手指骨骼与肌肉线条。太极图以工笔细线勾勒。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+太极哲学光——无明确方向光源。阳鱼白色自发光，阴鱼黑色吸收光。两爪各自带所属色调的光感——邪爪暗紫微光，正爪金色辉光。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+阴阳色谱——阳鱼白底（留白）+黑点（焦墨）。阴鱼黑底（焦墨）+白点（留白）。邪爪以焦墨+暗紫（花青+胭脂调和）+青筋暴起（石青）。正爪以留白+淡赭+金边（泥金）。S曲线流畅。背景山水以淡墨层次。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-黄衫女子对周芷若说话——"终南山后，活死人墓、神雕侠侣，绝迹江湖、"表情严厉中带着惋惜、
+工笔阴阳太极图（黑白互含）、邪爪（九阴白骨爪暗紫狰狞）、正爪（九阴神爪白金流畅）、正邪对称构图
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+philosophical depth, moral duality, martial enlightenment
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第十拍黄衫女子 · 帧3（医学特写）。【黄衫女子·训诫】黄衫女子对周芷若说话——"终南山后，活死人墓。神雕侠侣，绝迹江湖。"表情严厉中带着惋惜。16:9。工笔人物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第十拍黄衫女子 · 帧3（医学特写）。中医正邪理论——阴阳太极图（工笔绘制）。圆形太极图居中——左半阳鱼（白色底，黑点为眼）、右半阴鱼（黑色底，白点为眼），黑白交界处以流畅S形曲线分割，象征阴阳互根、消长平衡。太极图左右两侧展示手势对比：左侧——"九阴白骨爪"（邪）：五指呈爪状，指尖锋利，筋骨狰狞，手背青筋暴起，以深黑+暗紫色调表现；右侧——"九阴神爪"（正）：五指虽同呈爪状，但指形流畅，力量均匀，皮肤光洁，以白色+金色调表现。两者手势完全对称——同一武功的正邪两面。背景以淡墨山水虚化。16:9。工笔哲学图谱。 构图：太极图居中占35%。左爪（邪）占25%，右爪（正）占25%。背景山水占15%。画面完全左右对称——阴阳平衡的视觉表达。工笔精确描绘手指骨骼与肌肉线条。太极图以工笔细线勾勒。 光影：太极哲学光——无明确方向光源。阳鱼白色自发光，阴鱼黑色吸收光。两爪各自带所属色调的光感——邪爪暗紫微光，正爪金色辉光。 色彩：阴阳色谱——阳鱼白底（留白）+黑点（焦墨）。阴鱼黑底（焦墨）+白点（留白）。邪爪以焦墨+暗紫（花青+胭脂调和）+青筋暴起（石青）。正爪以留白+淡赭+金边（泥金）。S曲线流畅。背景山水以淡墨层次。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图，高度细节，古典中国画技法。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第十拍黄衫女子 - Frame 3: 【黄衫女子·训诫】黄衫女子对周芷若说话——"终南山后，活死人墓。神雕侠侣，绝迹江湖。"表情严厉中带着惋惜。16:9。工笔人物。. 【黄衫女子·训诫】黄衫女子对周芷若说话——"终南山后，活死人墓。神雕侠侣，绝迹江湖。"表情严厉中带着惋惜。16:9。工笔人物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第十拍黄衫女子 - Frame 3 (Medical Close-up). Chinese medicine theory of righteous versus evil — yin-yang taiji diagram (gongbi painting). Circular taiji diagram centered — left half yang fish (white base, black dot as eye), right half yin fish (black base, white dot as eye), black and white separated by a flowing S-shaped curve symbolizing yin-yang mutual rooting and waxing-waning balance. Hand gesture contrast displayed on either side of the taiji diagram: left side — "Nine Yin White Bone Claw" (evil): five fingers forming a claw shape, sharp fingertips, ferocious tendons and bones, blue veins bulging on back of hand, rendered in deep black + dark purple tones; right side — "Nine Yin Divine Claw" (righteous): five fingers identically in claw form, but fingers flowing smoothly, power evenly distributed, skin luminous and clean, rendered in white + gold tones. Both hand gestures perfectly symmetrical — the two sides of the same martial art (evil and righteous). Background softly blurred into light ink landscape. 16:9. Gongbi philosophical diagram. Composition: Taiji diagram centered occupying 35%. Left claw (evil) 25%, right claw (righteous) 25%. Background landscape 15%. Entire composition strictly left-right symmetrical — visual expression of yin-yang balance. Gongbi precision in rendering finger bones and muscle lines. Taiji diagram outlined in fine gongbi lines. Lighting: Taiji philosophical light — no distinct directional light source. Yang fish white self-illuminating, yin fish black light-absorbing. Each claw carrying the luminous quality of its tonal association — evil claw with dark purple subtle glow, righteous claw with golden radiance. Color palette: Yin-yang spectrum — yang fish white base (negative space) + black dot (burnt ink). Yin fish black base (burnt ink) + white dot (negative space). Evil claw in burnt ink + dark purple (indigo + rouge blended) + bulging blue veins (azurite). Righteous claw in negative space + light ochre + gold edge (mud gold paint). S-curve smooth and flowing. Background landscape in light ink gradations. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

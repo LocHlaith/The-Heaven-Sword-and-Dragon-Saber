@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【灭绝师太·下令】灭绝师太厉声命令周芷若："刺！刺下去！"——表情冷酷决绝。周芷若浑身颤抖。16:9。工笔人物。
+上臂剑伤急救特写——展示古代外伤处理三步骤（从左到右）。左：清洗——酒液从瓷壶倾倒在伤口上，血水顺手臂流下，伤口呈纵向切割状（长约三寸）。中：敷药——金疮药粉（蒲黄炭——深褐色花粉状、花蕊石——类白色细粉、血竭——深红色粉末）撒在清洗后的伤口上。右：缝合——桑皮线（桑树纤维搓成的淡黄色细线）穿过弯针，已缝两针，伤口边缘对合整齐。倚天剑搁置一旁——剑刃上残留的血迹。16:9。工笔医学叙事。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+三格急救流程横向排列，各占30%共90%。每格之间以细绢线分隔。倚天剑在画面下方横置占10%。工笔精确描绘伤口深度、药粉质感、缝线细节。血液与剑刃的金属反光形成质感对比。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+战场环境光——户外散射光，但在伤口区域有更强的定向光以保证医学细节清晰。剑刃有冷调金属反光。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+急救色谱——伤口以胭脂深红+焦墨暗部表现深度。蒲黄炭以焦茶深褐。花蕊石以留白+淡赭类白。血竭以胭脂红。桑皮线以淡黄象牙白。皮肤以淡赭石。倚天剑以花青+留白表现寒铁光泽。血迹以深胭脂。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-灭绝师太厉声命令周芷若："刺！刺下去！"——表情冷酷决绝、周芷若浑身颤抖、
+三格急救流程（清洗→敷药→缝合）、金疮药三味（蒲黄炭花蕊石血竭）、桑皮线缝合、倚天剑剑刃血迹
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-dramatic confrontation, high stakes, emotional intensity
+urgent surgical precision, battlefield necessity, life-saving skill
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ dramatic confrontation, high stakes, emotional intensity
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第三拍光明一剑 · 帧3（医学特写）。【灭绝师太·下令】灭绝师太厉声命令周芷若："刺！刺下去！"——表情冷酷决绝。周芷若浑身颤抖。16:9。工笔人物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第三拍光明一剑 · 帧3（医学特写）。上臂剑伤急救特写——展示古代外伤处理三步骤（从左到右）。左：清洗——酒液从瓷壶倾倒在伤口上，血水顺手臂流下，伤口呈纵向切割状（长约三寸）。中：敷药——金疮药粉（蒲黄炭——深褐色花粉状、花蕊石——类白色细粉、血竭——深红色粉末）撒在清洗后的伤口上。右：缝合——桑皮线（桑树纤维搓成的淡黄色细线）穿过弯针，已缝两针，伤口边缘对合整齐。倚天剑搁置一旁——剑刃上残留的血迹。16:9。工笔医学叙事。 构图：三格急救流程横向排列，各占30%共90%。每格之间以细绢线分隔。倚天剑在画面下方横置占10%。工笔精确描绘伤口深度、药粉质感、缝线细节。血液与剑刃的金属反光形成质感对比。 光影：战场环境光——户外散射光，但在伤口区域有更强的定向光以保证医学细节清晰。剑刃有冷调金属反光。 色彩：急救色谱——伤口以胭脂深红+焦墨暗部表现深度。蒲黄炭以焦茶深褐。花蕊石以留白+淡赭类白。血竭以胭脂红。桑皮线以淡黄象牙白。皮肤以淡赭石。倚天剑以花青+留白表现寒铁光泽。血迹以深胭脂。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第三拍光明一剑 - Frame 3: 【灭绝师太·下令】灭绝师太厉声命令周芷若："刺！刺下去！"——表情冷酷决绝。周芷若浑身颤抖。16:9。工笔人物。. 【灭绝师太·下令】灭绝师太厉声命令周芷若："刺！刺下去！"——表情冷酷决绝。周芷若浑身颤抖。16:9。工笔人物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第三拍光明一剑 - Frame 3 (Medical Close-up). Upper arm sword wound emergency treatment close-up — showing the three steps of ancient trauma care (left to right). Left: Cleaning — wine poured from a porcelain ewer onto the wound, blood-tinged water streaming down the arm, the wound a longitudinal cut (approximately 3 cun in length). Center: Applying medicine — golden wound powder (cattail pollen charcoal / puhuangtan — dark brown pollen-like powder; ophicalcite / huazhishi — off-white fine powder; dragon's blood resin / xuejie — deep red powder) sprinkled onto the cleaned wound. Right: Suturing — mulberry bark thread (sangpixian, pale yellow fine thread twisted from mulberry tree fibers) threaded through a curved needle, two stitches already placed, wound edges neatly approximated. The Heaven-Reliant Sword (Yitian Jian) set aside — residual blood stains on the blade. 16:9. Gongbi medical narrative. Composition: Three-panel emergency treatment sequence arranged horizontally, each occupying 30% for 90% total. Each panel separated by fine silk-thread lines. The Heaven-Reliant Sword placed horizontally across the bottom occupying 10%. Gongbi fine brushwork precisely rendering wound depth, powder texture, and suture details. Textural contrast between blood and the sword blade's metallic reflections. Lighting: Battlefield ambient light — outdoor diffused light, but with stronger directional light on the wound area to ensure clarity of medical details. The sword blade has cool-toned metallic reflections. Color palette: Emergency treatment color spectrum — wound rendered with rouge deep red + burnt ink for dark depth. Cattail pollen charcoal in burnt tea dark brown. Ophicalcite in negative space white + pale ochre off-white. Dragon's blood resin in rouge red. Mulberry bark thread in pale yellow ivory white. Skin in pale burnt sienna. Heaven-Reliant Sword in indigo + negative space white to convey cold-iron luster. Blood stains in deep rouge. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

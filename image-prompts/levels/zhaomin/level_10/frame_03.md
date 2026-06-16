@@ -4,43 +4,43 @@
 > **Level**: 第十拍父女恩仇
 > **Frame**: 帧3 / 5 —— 医学特写
 > **Aspect Ratio**: 16:9
-> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision
+> **Art Style**: Chinese Gongbi (工笔) medical illustration — fine brushwork, detailed outlines, layered colors, anatomical precision, meridian diagram accuracy
 
 ---
 
 ## 📖 场景描述 (Scene Description)
 
-【兄长王保保】赵敏的哥哥王保保（蒙古将领装束）立于帐侧，手按刀柄，神色复杂——既有愤怒，也有心疼。16:9。工笔人物。
+肝经足厥阴肝经在胸胁部的走行图——自足大趾→内踝→小腿内侧→膝内侧→大腿内侧→入腹→属肝络胆→上贯膈→布胸胁→循喉咙→连目系→上额→与督脉会于巅。重点标注胸部期门穴（乳头直下第6肋间隙）和章门穴（第11肋游离端下方）。展示"肝气郁结"的病理示意——经络线在胸胁部位呈紊乱卷曲状（以深青色表现气滞），箭矢标示→胸胁胀痛→善太息→咽部异物感。背景虚化为蒙古帐篷内烛光——暗示父女对峙的压抑空间。16:9。工笔医学经络图。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+肝经走行图占画面70%——从画面下方足部起始，向上延伸至胸部。经络线以流畅曲线绘制。期门、章门二穴以朱砂点标注。病理示意（气滞卷曲线）以虚线+箭头展示在胸胁部。帐篷背景虚化占30%。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+帐篷内烛光——单一暖黄光源从左下角照射。经络图受光均匀，保持医学图示清晰。背景暗部以浓墨表现压抑感。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+经络图谱色系——经络线以深青色（石青+花青调和）绘制。穴位以朱砂圆点。病理气滞处以暗紫+青灰表现。烛光以藤黄点染。人体以淡赭线描。背景以焦墨渲染暗部。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-赵敏的哥哥王保保（蒙古将领装束）立于帐侧，手按刀柄，神色复杂——既有愤怒，也有心疼、
+肝经足厥阴肝经完整走行图、期门章门二穴朱砂标注、肝气郁结病理示意（经络紊乱卷曲）、蒙古帐篷烛光背景
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+emotional suppression, diagnostic insight, poignant tension
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第十拍父女恩仇 · 帧3（医学特写）。【兄长王保保】赵敏的哥哥王保保（蒙古将领装束）立于帐侧，手按刀柄，神色复杂——既有愤怒，也有心疼。16:9。工笔人物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第十拍父女恩仇 · 帧3（医学特写）。肝经足厥阴肝经在胸胁部的走行图——自足大趾→内踝→小腿内侧→膝内侧→大腿内侧→入腹→属肝络胆→上贯膈→布胸胁→循喉咙→连目系→上额→与督脉会于巅。重点标注胸部期门穴（乳头直下第6肋间隙）和章门穴（第11肋游离端下方）。展示"肝气郁结"的病理示意——经络线在胸胁部位呈紊乱卷曲状（以深青色表现气滞），箭矢标示→胸胁胀痛→善太息→咽部异物感。背景虚化为蒙古帐篷内烛光——暗示父女对峙的压抑空间。16:9。工笔医学经络图。 构图：肝经走行图占画面70%——从画面下方足部起始，向上延伸至胸部。经络线以流畅曲线绘制。期门、章门二穴以朱砂点标注。病理示意（气滞卷曲线）以虚线+箭头展示在胸胁部。帐篷背景虚化占30%。 光影：帐篷内烛光——单一暖黄光源从左下角照射。经络图受光均匀，保持医学图示清晰。背景暗部以浓墨表现压抑感。 色彩：经络图谱色系——经络线以深青色（石青+花青调和）绘制。穴位以朱砂圆点。病理气滞处以暗紫+青灰表现。烛光以藤黄点染。人体以淡赭线描。背景以焦墨渲染暗部。 风格：Chinese Gongbi (工笔) medical illustration — fine brushwork, detailed outlines, layered colors, anatomical precision, meridian diagram accuracy，中国工笔医学经络图结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第十拍父女恩仇 - Frame 3: 【兄长王保保】赵敏的哥哥王保保（蒙古将领装束）立于帐侧，手按刀柄，神色复杂——既有愤怒，也有心疼。16:9。工笔人物。. 【兄长王保保】赵敏的哥哥王保保（蒙古将领装束）立于帐侧，手按刀柄，神色复杂——既有愤怒，也有心疼。16:9。工笔人物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 10 Father-Daughter Love and Hatred - Frame 3 (Medical Close-up). Meridian pathway diagram of the Foot Jueyin Liver Channel (足厥阴肝经) in the chest and hypochondriac region — from the great toe → medial malleolus → medial lower leg → medial knee → medial thigh → enters abdomen → pertains to Liver and connects to Gallbladder → ascends through diaphragm → spreads through chest and hypochondrium → follows the throat → connects to the eye system → ascends to forehead → meets the Du Meridian at the vertex. Key acupoints prominently labeled: Qimen (LV-14 — directly below the nipple at the 6th intercostal space) and Zhangmen (LV-13 — below the free end of the 11th rib). Demonstrating the pathology of "Liver Qi Stagnation" (肝气郁结) — the meridian line becomes disordered and curled in the chest/hypochondriac region (depicted in deep cyan to represent qi stagnation), with arrows indicating → chest and hypochondriac distension and pain → frequent sighing (善太息) → globus sensation in the throat (咽部异物感). Background blurred to candlelight inside a Mongolian yurt — suggesting the oppressive space of the father-daughter confrontation. 16:9. Gongbi medical meridian diagram. Composition: Liver meridian pathway occupies 70% of frame — starting from the foot at the bottom of the image, extending upward to the chest. Meridian lines drawn as flowing curves. Qimen and Zhangmen acupoints marked with cinnabar dots. Pathology diagram (qi stagnation curled lines) shown with dashed lines + arrows in the chest/hypochondriac area. Yurt background blurred 30%. Lighting: Yurt interior candlelight — single warm yellow light source from lower left. Meridian diagram evenly illuminated for medical diagram clarity. Background dark areas rendered in dark ink to convey oppression. Color palette: Meridian diagram color system — meridian lines drawn in deep cyan (azurite blue + indigo blue blended). Acupoints in cinnabar red dots. Qi stagnation pathology in dark purple + blue-gray. Candlelight dotted with gamboge yellow. Human body outline in light burnt sienna line drawing. Background dark areas washed in burnt ink. Style: Chinese Gongbi (工笔) medical illustration — fine brushwork, detailed outlines, layered colors, anatomical precision, meridian diagram accuracy. Chinese gongbi medical meridian illustration with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

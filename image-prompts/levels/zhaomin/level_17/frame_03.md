@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【养生·示意】中国传统养生方式——五禽戏、八段锦、太极拳的动作示意图。背景为终南山瀑布。16:9横幅。工笔写实。
+导引图——模拟马王堆帛画《导引图》风格。画面展示"五禽戏"五式：虎式——双手按地，弓背蓄势，标注"虎戏主肝"；鹿式——四肢伸展，转颈回顾，标注"鹿戏主肾"；熊式——身体浑圆，步履沉稳，标注"熊戏主脾"；猿式——单臂擎天，灵巧敏捷，标注"猿戏主心"；鸟式——双臂舒展如翼，单脚站立，标注"鸟戏主肺"。每个人形以墨色剪影绘制，动作姿态流畅夸张。画面周边以帛书古隶字体标注。背景为终南山云雾——以写意留白表现"道"的虚无。16:9。水墨帛画风格。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+五禽戏五个人形剪影横向排列，各占画面15%共75%。排列顺序（左→右）：虎→鹿→熊→猿→鸟，形成从猛勇到灵动的视觉节奏。每个剪影下以古隶标注脏腑——朱砂小字。终南山云雾背景占25%。人形以流畅墨线勾勒，有马王堆帛书的古拙感——线条粗犷有力，转折处有顿挫。云雾以大面积留白+淡墨渲染——云雾从画面底部升腾，在五禽剪影间穿插流动。"鸟戏主肺"的人形可最高（单脚站立双手舒展），"虎戏主肝"的人形最低（弓背按地），形成高低起伏的视觉韵律。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+中国画传统平光——无明确方向性光源。人形剪影以墨色浓淡表现层次——距离观者近的以浓墨（重），远的以淡墨（轻）。云雾以留白表现——虚无飘渺，暗示"道"的存在。不需要西方绘画的明暗对比——以墨色五阶（焦浓重淡清）的渐变表现空间深度。帛书底色的做旧感以淡赭石均匀染底——无方向性，平面均匀敷色。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+帛书古色系——人形剪影以焦墨浓墨绘制。脏腑标注以朱砂小字——在墨色剪影下用鲜亮朱砂写小字，以浅绛法敷色。帛书底色以淡赭石做旧效果——整体罩染，模拟千年帛书氧化后的暖黄褐底色。云雾以留白+淡墨——云雾以留白为主，局部以淡墨渲染层叠感。终南山远山以淡墨+花青写意渲染。整体古朴沉着色调——焦墨为主调，朱砂与淡赭为暖色点缀，留白为气韵贯通。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-中国传统养生方式——五禽戏、八段锦、太极拳的动作示意图、背景为终南山瀑布、
+五禽戏五式人形剪影（虎鹿熊猿鸟）、各自主脏腑标注（肝主虎、肾主鹿、脾主熊、心主猿、肺主鸟）、马王堆帛画古拙风格、古隶字标注、终南山云雾留白、帛书做旧底色
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+ancient wisdom, Taoist tranquility, embodied cosmology
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第十七拍终南问道 · 帧3（医学特写）。【养生·示意】中国传统养生方式——五禽戏、八段锦、太极拳的动作示意图。背景为终南山瀑布。16:9横幅。工笔写实。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第十七拍终南问道 · 帧3（医学特写）。导引图——模拟马王堆帛画《导引图》风格。画面展示"五禽戏"五式：虎式——双手按地，弓背蓄势，标注"虎戏主肝"；鹿式——四肢伸展，转颈回顾，标注"鹿戏主肾"；熊式——身体浑圆，步履沉稳，标注"熊戏主脾"；猿式——单臂擎天，灵巧敏捷，标注"猿戏主心"；鸟式——双臂舒展如翼，单脚站立，标注"鸟戏主肺"。每个人形以墨色剪影绘制，动作姿态流畅夸张。画面周边以帛书古隶字体标注。背景为终南山云雾——以写意留白表现"道"的虚无。16:9。水墨帛画风格。 构图：五禽戏五个人形剪影横向排列，各占画面15%共75%。虎→鹿→熊→猿→鸟从左至右排列。每个剪影下以古隶朱砂小字标注脏腑。终南山云雾背景占25%。人形以流畅墨线勾勒，有马王堆帛书古拙感。云雾以大面积留白+淡墨渲染。鸟式最高虎式最低形成高低韵律。 光影：中国画传统平光——无明确方向性光源。人形剪影以墨色浓淡表现层次。云雾以留白表现。帛书底色淡赭石均匀染底做旧。 色彩：帛书古色系——人形剪影以焦墨浓墨绘制。脏腑标注以朱砂小字。帛书底色以淡赭石做旧效果。云雾以留白+淡墨。终南山以淡墨+花青写意渲染。整体古朴沉着色调。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图，马王堆帛画古拙风格。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第十七拍终南问道 - Frame 3: 【养生·示意】中国传统养生方式——五禽戏、八段锦、太极拳的动作示意图。背景为终南山瀑布。16:9横幅。工笔写实。. 【养生·示意】中国传统养生方式——五禽戏、八段锦、太极拳的动作示意图。背景为终南山瀑布。16:9横幅。工笔写实。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 17 Zhongnan Seeking the Dao - Frame 3 (Medical Close-up). Daoyin diagram — simulating the style of the Mawangdui silk manuscript "Daoyin Tu." The composition displays the "Five Animal Frolics" (Wuqin Xi) five postures: Tiger form — both hands pressing on ground, arched back storing power, labeled "Tiger Frolic Governs the Liver"; Deer form — limbs extended, neck turned looking back, labeled "Deer Frolic Governs the Kidneys"; Bear form — body rounded and heavy, steps沉稳 steady, labeled "Bear Frolic Governs the Spleen"; Monkey form — single arm raised to heaven, nimble and agile, labeled "Monkey Frolic Governs the Heart"; Bird form — both arms extended like wings, standing on one leg, labeled "Bird Frolic Governs the Lungs." Each figure rendered as an ink silhouette, postures fluid and exaggerated. Periphery labeled in ancient clerical script (guli) calligraphy. Background of Zhongnan Mountain mist — expressing the emptiness of "Dao" through xieyi negative space. 16:9. Ink painting on silk manuscript style. Composition: Five animal frolic figure silhouettes arranged horizontally, each occupying 15%, totaling 75%. Arranged left to right: Tiger → Deer → Bear → Monkey → Bird. Each silhouette labeled below with cinnabar small characters in guli script indicating organ correspondence. Zhongnan Mountain mist background at 25%. Figures outlined with fluid ink lines in the archaic Mawangdui silk painting style. Mist rendered with large areas of reserved white + light ink wash. Bird form tallest, Tiger form lowest creating visual rhythm. Lighting: Traditional Chinese painting flat lighting — no directional light source. Figure silhouettes using ink density (dark to light) to express depth. Mist expressed through reserved white. Silk manuscript base color evenly washed with light burnt sienna for aged effect. Color palette: Ancient silk manuscript palette — figure silhouettes in burnt ink and dark ink. Organ labels in cinnabar small characters. Silk base with light burnt sienna aging effect. Mist in reserved white + light ink. Zhongnan distant peaks in light ink + indigo blue xieyi rendering. Overall archaic subdued tone. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, medical illustration precision. Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition. Mawangdui silk manuscript archaic style.
 ```
 
 ---

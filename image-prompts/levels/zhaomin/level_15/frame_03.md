@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【小昭·诊病】小昭用波斯流传的"体液学说"为病人诊病——观察面色和体液特征。旁边有中医生正在记录。16:9。工笔人物。
+丝绸之路医药交流——波斯药材与中药对照陈列。上排：番红花（藏红花，暗红色细长柱头三裂，波斯产）vs 红花（橙红色管状花冠，国产）；乳香（Boswellia树脂，浅黄色泪滴状，波斯产）vs 乳香（国产同种，色略深）；没药（Commiphora树脂，红褐色不规则颗粒，波斯产，香气浓烈）vs 没药（国产）；阿魏（Ferula树脂，棕黑色块状，蒜臭味，波斯产）vs 国产阿魏。每味药下用汉字与波斯文（阿拉伯字母）标注名称。器物对比——波斯蓝色玻璃瓶与中国白瓷青花瓶并置。背景为丝路商队骆驼剪影。16:9。工笔静物+跨文化医学。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+四组对照药材分四行排列，每行占约15%，共60%。每组左为波斯产（蓝底），右为国产（白底）。玻璃瓶与瓷瓶居中占15%。丝路商队背景虚化占15%。工笔精确描绘各药材形态差异——藏红花柱头三裂细长、红花管状花冠、乳香泪滴状树脂、没药不规则颗粒、阿魏块状树脂。波斯文以阿拉伯字母精细书写于药材下方。蓝底白底对比增强视觉区分。蓝玻璃瓶以透明质感表现半透光效果，青花瓷瓶以白底石青青花描绘纹饰。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+沙漠日光——强烈但经过帐篷布料过滤的散射光。光从上方均匀漫射，药材有柔和的立体阴影——树脂颗粒的圆润体积感、花柱头的细长纹理。玻璃瓶有蓝宝石般的透光效果——光线穿透瓶身呈现深浅变化的蓝色调，瓶底有聚光亮点。瓷瓶有柔和的釉面反光——高光温润不刺目。帐篷外丝路商队骆驼以逆光剪影表现。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+跨文化色谱——番红花暗红（深胭脂），红花橙红（朱砂+藤黄）。乳香波斯浅黄（藤黄），国产深黄（赭石+藤黄）。没药红褐（焦茶+胭脂）。阿魏棕黑（焦墨）。波斯玻璃瓶以石青透明渲染——由浅至深多层罩染表现玻璃的透光与折射。中国瓷瓶白底石青青花——青花以石青层层渲染，白底以留白+淡赭微暖。背景以淡赭+淡墨沙漠色。波斯文标签以焦墨细笔书写。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-小昭用波斯流传的"体液学说"为病人诊病——观察面色和体液特征、旁边有中医生正在记录、
+四组波斯vs国产药材对照（番红花/红花、乳香/乳香、没药/没药、阿魏/阿魏）、波斯文（阿拉伯字母）与汉字双标、波斯蓝玻璃瓶与中国青花瓷瓶并置、丝路商队骆驼背景虚化、药材形态差异工笔精确描绘
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+cross-cultural exchange, medicinal globalization, Silk Road wonder
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第十五拍波斯异术 · 帧3（医学特写）。【小昭·诊病】小昭用波斯流传的"体液学说"为病人诊病——观察面色和体液特征。旁边有中医生正在记录。16:9。工笔人物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第十五拍波斯异术 · 帧3（医学特写）。丝绸之路医药交流——波斯药材与中药对照陈列。上排：番红花（藏红花，暗红色细长柱头三裂，波斯产）vs 红花（橙红色管状花冠，国产）；乳香（Boswellia树脂，浅黄色泪滴状，波斯产）vs 乳香（国产同种，色略深）；没药（Commiphora树脂，红褐色不规则颗粒，波斯产，香气浓烈）vs 没药（国产）；阿魏（Ferula树脂，棕黑色块状，蒜臭味，波斯产）vs 国产阿魏。每味药下用汉字与波斯文（阿拉伯字母）标注名称。器物对比——波斯蓝色玻璃瓶与中国白瓷青花瓶并置。背景为丝路商队骆驼剪影。16:9。工笔静物+跨文化医学。 构图：四组对照药材分四行排列，每行占约15%，共60%。每组左为波斯产（蓝底），右为国产（白底）。玻璃瓶与瓷瓶居中占15%。丝路商队背景虚化占15%。工笔精确描绘各药材形态差异。波斯文阿拉伯字母精细书写。 光影：沙漠日光——强烈但经过帐篷布料过滤的散射光。玻璃瓶有蓝宝石般透光效果。瓷瓶有柔和釉面反光。帐篷外丝路骆驼以逆光剪影表现。 色彩：跨文化色谱——番红花暗红（深胭脂），红花橙红（朱砂+藤黄）。乳香波斯浅黄（藤黄），国产深黄（赭石+藤黄）。没药红褐（焦茶+胭脂）。阿魏棕黑（焦墨）。波斯玻璃瓶以石青透明渲染。中国瓷瓶白底石青青花。背景以淡赭+淡墨沙漠色。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第十五拍波斯异术 - Frame 3: 【小昭·诊病】小昭用波斯流传的"体液学说"为病人诊病——观察面色和体液特征。旁边有中医生正在记录。16:9。工笔人物。. 【小昭·诊病】小昭用波斯流传的"体液学说"为病人诊病——观察面色和体液特征。旁边有中医生正在记录。16:9。工笔人物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 15 Persian Foreign Arts - Frame 3 (Medical Close-up). Silk Road medicinal exchange — side-by-side comparison of Persian materia medica and Chinese herbs. Top row: Saffron (Crocus sativus, dark red slender trifid stigmas, Persian origin) vs Safflower (Carthamus tinctorius, orange-red tubular corolla, Chinese origin); Frankincense (Boswellia resin, pale yellow teardrop-shaped, Persian origin) vs Chinese frankincense (same species, slightly darker color); Myrrh (Commiphora resin, reddish-brown irregular granules, Persian origin with strong aroma) vs Chinese myrrh; Asafoetida (Ferula resin, brownish-black lumps, garlic odor, Persian origin) vs Chinese asafoetida. Each herb labeled with Chinese characters and Persian script (Arabic alphabet) below. Artifact comparison — Persian blue glass bottle juxtaposed with Chinese white porcelain blue-and-white vase. Background shows blurred Silk Road caravan with camel silhouettes. 16:9. Gongbi still life + cross-cultural medicine. Composition: Four comparison rows arranged vertically, each row ~15%, totaling 60%. Each row: Persian origin on left (blue base), Chinese origin on right (white base). Glass bottle and porcelain vase centered occupying 15%. Silk Road caravan background blurred at 15%. Gongbi precision in depicting morphological differences of each herb. Persian labels in finely written Arabic script. Lighting: Desert sunlight — intense but filtered through tent fabric as soft diffused light. Glass bottle showing sapphire-like translucency. Porcelain vase with soft glaze reflection. Camel caravan outside tent rendered as backlit silhouettes. Color palette: Cross-cultural palette — deep rouge for saffron dark red, cinnabar + gamboge for safflower orange-red. Gamboge for light yellow Persian frankincense, burnt sienna + gamboge for deeper Chinese frankincense. Burnt tea brown + rouge for myrrh reddish-brown. Burnt ink for asafoetida brown-black. Azurite blue transparent rendering for Persian glass bottle. White porcelain with azurite blue-and-white decoration for Chinese vase. Light burnt sienna + light ink for desert background. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, medical illustration precision. Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition.
 ```
 
 ---

@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【运动损伤·示意】人体经络图上标注常见运动损伤部位——肩（肩井穴）、腰（命门穴）、膝（膝眼穴）、腕（阳池穴）。附肌肉解剖图。16:9。工笔写实。
+治疗剑伤的工作台——古代战场急救站。画面分四层展示急救流程：左上角——清洗伤口（酒坛/盐水瓷碗，麻布浸湿）；右上角——敷药（金疮药粉末：血竭深红、乳香浅黄泪滴状、没药红褐色树脂粒、穿山甲片刮粉）；左下角——缝合（桑皮线——桑树皮纤维制成的淡黄色细线，弯针）；右下角——包扎（本色麻布条）。血迹斑斑的兵器（剑刃有血渍、刀身反光）虚化在背景中。16:9。工笔静物。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+四格急救流程占画面80%，左上→右上→左下→右下按时间顺序排列。每格内物品以工笔超精细描绘——酒坛釉面反光、金疮药四种粉末的形态质地差异、桑皮线纤维纹理、麻布经纬交织。背景血迹兵器以写意虚化。各格之间以绢帛分隔线暗示——细线以淡墨勾出绢纹。金疮药粉末须精确表现四种药材的形态特征：血竭为深红色不规则碎粒、乳香为浅黄色泪滴状树脂、没药为红褐色颗粒、穿山甲粉为灰白色细粉。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+山顶日光——光明顶高海拔的强烈日光，但被战场烟尘柔化。光从左上角斜射，在药粉表面形成细微纹理阴影——粉末颗粒有微小的明暗对比。金属兵器有锐利高光——剑刃反光细长刺目。桑皮线的纤维纹理在侧光下清晰可见。瓷碗釉面有柔和高光。整体光是强烈的但经过烟尘散射后略显柔和，暗部保有细节。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+战场急救色谱——血竭以胭脂深红，乳香以淡藤黄，没药以赭石红褐。桑皮线以淡赭象牙白。麻布以本色淡褐。酒/盐水以留白透明。兵器血渍以深胭脂。背景以焦墨+花青表现烟尘——战场上空的硝烟灰蓝调。酒坛釉面以淡花青+留白表现反光。整体暖战场色调——血与药的红褐暖调主导，烟尘灰蓝为冷调对比。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-人体经络图上标注常见运动损伤部位——肩（肩井穴）、腰（命门穴）、膝（膝眼穴）、腕（阳池穴）、附肌肉解剖图、
+四格急救流程（清洗→敷药→缝合→包扎）、金疮药四味（血竭乳香没药穿山甲）、桑皮线缝合工具（弯针+桑树皮纤维线）、麻布条包扎、背景血迹兵器虚化、战场烟尘氛围
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+battlefield urgency, lifesaving precision, warrior's vulnerability
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第十四拍光明顶上 · 帧3（医学特写）。【运动损伤·示意】人体经络图上标注常见运动损伤部位——肩（肩井穴）、腰（命门穴）、膝（膝眼穴）、腕（阳池穴）。附肌肉解剖图。16:9。工笔写实。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第十四拍光明顶上 · 帧3（医学特写）。治疗剑伤的工作台——古代战场急救站。画面分四层展示急救流程：左上角——清洗伤口（酒坛/盐水瓷碗，麻布浸湿）；右上角——敷药（金疮药粉末：血竭深红、乳香浅黄泪滴状、没药红褐色树脂粒、穿山甲片刮粉）；左下角——缝合（桑皮线——桑树皮纤维制成的淡黄色细线，弯针）；右下角——包扎（本色麻布条）。血迹斑斑的兵器（剑刃有血渍、刀身反光）虚化在背景中。16:9。工笔静物。 构图：四格急救流程占画面80%，左上→右上→左下→右下按时间顺序排列。每格内物品以工笔超精细描绘。背景血迹兵器以写意虚化。各格之间以绢帛分隔线暗示。金疮药粉末精确表现四种药材形态差异。 光影：山顶日光——光明顶高海拔强烈日光，被战场烟尘柔化。药粉有细微纹理阴影。金属兵器有锐利高光。桑皮线纤维纹理在侧光下可见。 色彩：战场急救色谱——血竭以胭脂深红，乳香以淡藤黄，没药以赭石红褐。桑皮线以淡赭象牙白。麻布以本色淡褐。酒/盐水以留白透明。兵器血渍以深胭脂。背景以焦墨+花青表现烟尘。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第十四拍光明顶上 - Frame 3: 【运动损伤·示意】人体经络图上标注常见运动损伤部位——肩（肩井穴）、腰（命门穴）、膝（膝眼穴）、腕（阳池穴）。附肌肉解剖图。16:9。工笔写实。. 【运动损伤·示意】人体经络图上标注常见运动损伤部位——肩（肩井穴）、腰（命门穴）、膝（膝眼穴）、腕（阳池穴）。附肌肉解剖图。16:9。工笔写实。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 14 Bright Summit - Frame 3 (Medical Close-up). Battlefield first-aid workbench — ancient military field dressing station. The scene is divided into four panels showing the emergency treatment sequence: Top-left — wound cleansing (wine jar / salt-water porcelain bowl, soaked hemp cloth); Top-right — applying powdered medicine (Jinchuang powder: deep red dragon's blood resin, light yellow frankincense teardrop-shaped resin, reddish-brown myrrh resin granules, scraped pangolin scale powder); Bottom-left — suturing (sangpi thread — pale yellow fiber thread made from mulberry bark, curved needle); Bottom-right — bandaging (natural-color hemp cloth strips). Bloodstained weapons (sword blade with blood smears, saber body reflecting light) blurred in the background. 16:9. Gongbi still life. Composition: Four-panel first-aid sequence occupies 80% of frame, arranged chronologically top-left → top-right → bottom-left → bottom-right. Each panel's items rendered in ultra-fine gongbi detail. Background bloodstained weapons in xieyi blur. Silk-gauze dividing lines between panels. Jinchuang powder precisely depicting the four ingredients' morphological differences. Lighting: Summit sunlight — Bright Summit high-altitude intense sunlight softened by battlefield smoke and dust. Fine textural shadows on powder granules. Sharp highlights on metal weapons. Sangpi thread fiber texture visible in raking light. Color palette: Battlefield first-aid palette — rouge deep red for dragon's blood, light gamboge for frankincense, burnt sienna reddish-brown for myrrh. Light burnt sienna ivory-white for sangpi thread. Natural light brown for hemp cloth. Reserved white transparency for wine/salt-water. Deep rouge for bloodstains on weapons. Background smoke rendering in burnt ink + indigo blue. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, medical illustration precision. Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition.
 ```
 
 ---

@@ -10,19 +10,19 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【手部·特写】周芷若的双手——指尖有血迹，指甲变形。过度训练后骨骼和关节的损伤清晰可见。16:9。工笔写实。
+【手部·特写】周芷若的双手置于月光下——十指指尖布满厚茧与暗紫瘀斑，指甲因长期叩击硬物而磨损变形、边缘粗糙。指间关节轻微肿胀，皮肤表面可见反复摩擦留下的粗糙纹理。这不是受伤，而是苦练九阴白骨爪留下的痕迹——一双习武之人的手诉说着无声的代价。背景虚化为峨眉山石与清冷月色。16:9。工笔写实。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-中景双人或多人互动。表现角色之间的交流——对话、动作、情感传递。人物占画面40-50%。使用三角形构图（人物之间形成稳定的三角关系）或对角线构图（表现动态关系）。人物视线和手势形成画面内部的引导线。环境退居次要——但仍需清晰交代地点。画面重心在黄金分割点附近。
+双手特写。画面聚焦于周芷若的双手——手指占画面60-70%。双手自然伸展置于月光下，手掌朝上。采用对角线构图——左手从画面左下角向右上延伸，右手略低。工笔精细描绘指尖厚茧、瘀斑色泽、指甲磨损细节。背景以写意淡墨渲染峨眉山石，焦墨勾勒轮廓后大面积虚化。月光从左上角洒入，手部受光面与暗面形成柔和过渡。整体以中国画"虚实相生"手法——手部工笔实写，背景写意虚化。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+cold moonlight from upper-left, soft silver-blue illumination, gentle shadow transitions, muted nocturnal palette
 
 ---
 
@@ -34,13 +34,13 @@ bright overhead sun, strong contrast, vivid colors, sharp shadows
 
 ## 🔑 关键元素 (Key Elements)
 
-周芷若的双手——指尖有血迹，指甲变形、过度训练后骨骼和关节的损伤清晰可见、
+周芷若双手特写、指尖厚茧与暗紫瘀斑、指甲磨损变形、指间关节轻微肿胀、峨眉山石背景虚化、清冷月色
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+quiet sacrifice, physical toll, martial dedication, moonlit solitude
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第七拍九阴白骨 · 帧2（情节互动）。【手部·特写】周芷若的双手——指尖有血迹，指甲变形。过度训练后骨骼和关节的损伤清晰可见。16:9。工笔写实。 构图：中景双人或多人互动。表现角色之间的交流——对话、动作、情感传递。人物占画面40-50%。使用三角形构图（人物之间形成稳定的三角关系）或对角线构图（表现动态关系）。人物视线和手势形成画面内部的引导线。环境退居次要——但仍需清晰交代地点。画面重心在黄金分割点附近。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns with Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction background，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第七拍九阴白骨 · 帧2（情节互动）。【手部·特写】周芷若的双手置于月光下——十指指尖布满厚茧与暗紫瘀斑，指甲因长期叩击硬物而磨损变形、边缘粗糙。指间关节轻微肿胀，皮肤表面可见反复摩擦留下的粗糙纹理。这不是受伤，而是苦练九阴白骨爪留下的痕迹——一双习武之人的手诉说着无声的代价。背景虚化为峨眉山石与清冷月色。16:9。工笔写实。 构图：双手特写。画面聚焦于周芷若的双手——手指占画面60-70%。双手自然伸展置于月光下，手掌朝上。采用对角线构图——左手从画面左下角向右上延伸，右手略低。工笔精细描绘指尖厚茧、瘀斑色泽、指甲磨损细节。背景以写意淡墨渲染峨眉山石，焦墨勾勒轮廓后大面积虚化。月光从左上角洒入，手部受光面与暗面形成柔和过渡。整体以中国画"虚实相生"手法——手部工笔实写，背景写意虚化。 光影：cold moonlight from upper-left, soft silver-blue illumination, gentle shadow transitions, muted nocturnal palette 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns with Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction background，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第七拍九阴白骨 - Frame 2: 【手部·特写】周芷若的双手——指尖有血迹，指甲变形。过度训练后骨骼和关节的损伤清晰可见。16:9。工笔写实。. 【手部·特写】周芷若的双手——指尖有血迹，指甲变形。过度训练后骨骼和关节的损伤清晰可见。16:9。工笔写实。 Composition: 中景双人或多人互动。表现角色之间的交流——对话、动作、情感传递。人物占画面40-50%。使用三角形构图（人物之间形成稳定的三角关系）或对角线构图（表现动态关系）。人物视线和手势形成画面内部的引导线。环境退居次要——但仍需清晰交代地点。画面重心在黄金分割点附近。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns with Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction background, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第七拍九阴白骨 - Frame 2: 【手部·特写】周芷若的双手置于月光下——十指指尖布满厚茧与暗紫瘀斑，指甲因长期叩击硬物而磨损变形、边缘粗糙。指间关节轻微肿胀，皮肤表面可见反复摩擦留下的粗糙纹理。这不是受伤，而是苦练九阴白骨爪留下的痕迹——一双习武之人的手诉说着无声的代价。背景虚化为峨眉山石与清冷月色。16:9。工笔写实。. 【手部·特写】周芷若的双手置于月光下——十指指尖布满厚茧与暗紫瘀斑，指甲因长期叩击硬物而磨损变形、边缘粗糙。指间关节轻微肿胀，皮肤表面可见反复摩擦留下的粗糙纹理。这不是受伤，而是苦练九阴白骨爪留下的痕迹——一双习武之人的手诉说着无声的代价。背景虚化为峨眉山石与清冷月色。16:9。工笔写实。 Composition: 双手特写。画面聚焦于周芷若的双手——手指占画面60-70%。双手自然伸展置于月光下，手掌朝上。采用对角线构图——左手从画面左下角向右上延伸，右手略低。工笔精细描绘指尖厚茧、瘀斑色泽、指甲磨损细节。背景以写意淡墨渲染峨眉山石，焦墨勾勒轮廓后大面积虚化。月光从左上角洒入，手部受光面与暗面形成柔和过渡。整体以中国画"虚实相生"手法——手部工笔实写，背景写意虚化。 Lighting: cold moonlight from upper-left, soft silver-blue illumination, gentle shadow transitions, muted nocturnal palette Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns with Chinese Xieyi (写意) ink painting — freehand brushwork, expressive washes, atmospheric, poetic suggestion over literal depiction background, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

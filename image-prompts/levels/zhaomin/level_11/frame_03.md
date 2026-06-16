@@ -4,43 +4,43 @@
 > **Level**: 第十一拍玄冥寒掌
 > **Frame**: 帧3 / 5 —— 医学特写
 > **Aspect Ratio**: 16:9
-> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision
+> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise anatomical detail, medical illustration precision
 
 ---
 
 ## 📖 场景描述 (Scene Description)
 
-【寒热辨证·示意】左侧为寒证患者——面色㿠白、蜷缩畏寒；右侧为热证患者——面红目赤、烦躁不安。中医八纲辨证直观展示。16:9横幅。工笔写实。
+背部督脉灸法特写——从大椎穴（第7颈椎棘突下）至命门穴（第2腰椎棘突下）的脊柱区域。沿督脉线铺陈生姜薄片（鲜黄色多汁，排列整齐），姜片上放置圆锥形艾炷（艾绒制成的金黄圆锥体）。数炷艾炷正在燃烧——顶端暗红、烟雾袅袅上升。展示"寒毒入络"的病理——寒毒以蓝色调冰晶状丝线侵入皮下经络，艾灸热力（暖橙色调）以波纹状向外扩散驱散寒毒。旁边陈列温经散寒药——附子（黑褐色不规则块根）、肉桂（棕红色卷筒状树皮）、干姜（浅黄色不规则块茎）、细辛（灰绿色细根）。16:9。工笔医学特写。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+背部脊柱区域占画面65%居中。艾炷燃烧的烟雾上升占上方15%。四种温经散寒药陈列于右下角占15%。工笔精细描绘姜片纹理、艾炷绒质、药材形态。寒毒（蓝丝）与热力（橙波）的对抗以细腻的渐变表现。背景以写意暗调渲染。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+艾灸火光——主要光源来自燃烧的艾炷（暖橙色）。背部皮肤受火光照射呈温暖肤色。烟雾使光线柔和散射。背景暗部以深墨色表现。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+艾灸色谱——皮肤以淡赭石+暖藤黄表现火光反射。姜片鲜黄。艾炷金黄→顶端暗红→烟雾灰白。寒毒以花青+石青表现冰晶蓝丝。热力以朱砂+藤黄表现橙波。附子焦黑，肉桂棕红，干姜浅黄，细辛灰绿。背景以焦墨。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-左侧为寒证患者——面色㿠白、蜷缩畏寒；右侧为热证患者——面红目赤、烦躁不安、中医八纲辨证直观展示、
+督脉大椎至命门灸法、姜片与艾炷燃烧、寒毒（蓝冰丝）与艾灸热力（橙波）对抗、四种温经散寒药（附子肉桂干姜细辛）
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+therapeutic intensity, ancient healing power, elemental struggle
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第十一拍玄冥寒掌 · 帧3（医学特写）。【寒热辨证·示意】左侧为寒证患者——面色㿠白、蜷缩畏寒；右侧为热证患者——面红目赤、烦躁不安。中医八纲辨证直观展示。16:9横幅。工笔写实。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第十一拍玄冥寒掌 · 帧3（医学特写）。背部督脉灸法特写——从大椎穴（第7颈椎棘突下）至命门穴（第2腰椎棘突下）的脊柱区域。沿督脉线铺陈生姜薄片（鲜黄色多汁，排列整齐），姜片上放置圆锥形艾炷（艾绒制成的金黄圆锥体）。数炷艾炷正在燃烧——顶端暗红、烟雾袅袅上升。展示"寒毒入络"的病理——寒毒以蓝色调冰晶状丝线侵入皮下经络，艾灸热力（暖橙色调）以波纹状向外扩散驱散寒毒。旁边陈列温经散寒药——附子（黑褐色不规则块根）、肉桂（棕红色卷筒状树皮）、干姜（浅黄色不规则块茎）、细辛（灰绿色细根）。16:9。工笔医学特写。 构图：背部脊柱区域占画面65%居中。艾炷燃烧的烟雾上升占上方15%。四种温经散寒药陈列于右下角占15%。工笔精细描绘姜片纹理、艾炷绒质、药材形态。寒毒（蓝丝）与热力（橙波）的对抗以细腻的渐变表现。背景以写意暗调渲染。 光影：艾灸火光——主要光源来自燃烧的艾炷（暖橙色）。背部皮肤受火光照射呈温暖肤色。烟雾使光线柔和散射。背景暗部以深墨色表现。 色彩：艾灸色谱——皮肤以淡赭石+暖藤黄表现火光反射。姜片鲜黄。艾炷金黄→顶端暗红→烟雾灰白。寒毒以花青+石青表现冰晶蓝丝。热力以朱砂+藤黄表现橙波。附子焦黑，肉桂棕红，干姜浅黄，细辛灰绿。背景以焦墨。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise anatomical detail, medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第十一拍玄冥寒掌 - Frame 3: 【寒热辨证·示意】左侧为寒证患者——面色㿠白、蜷缩畏寒；右侧为热证患者——面红目赤、烦躁不安。中医八纲辨证直观展示。16:9横幅。工笔写实。. 【寒热辨证·示意】左侧为寒证患者——面色㿠白、蜷缩畏寒；右侧为热证患者——面红目赤、烦躁不安。中医八纲辨证直观展示。16:9横幅。工笔写实。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 11 Xuanming Cold Palm - Frame 3 (Medical Close-up). Close-up of Du Meridian moxibustion therapy on the back — the spinal region from Dazhui (GV-14, below the spinous process of the 7th cervical vertebra) to Mingmen (GV-4, below the spinous process of the 2nd lumbar vertebra). Along the Du Meridian line, thin slices of fresh ginger (bright yellow and juicy, arranged neatly) are laid, with cone-shaped moxa cones (golden-yellow cones made of moxa wool) placed on top of each ginger slice. Several moxa cones are actively burning — dark red at the tips, with wisps of smoke curling upward. Demonstrating the pathology of "cold toxin invading the collaterals" (寒毒入络) — the cold toxin visualized as blue-tinted ice-crystal-like threads penetrating the subcutaneous meridians, while moxibustion heat (warm orange tones) radiates outward in wave-like patterns to dispel the cold toxin. Alongside, four warming and cold-dispersing herbs are displayed — Fuzi (Aconite — blackish-brown irregular tuberous root), Rougui (Cinnamon bark — reddish-brown curled bark rolls), Ganjiang (Dried Ginger — pale yellow irregular rhizome), Xixin (Asarum — grayish-green fine roots). 16:9. Gongbi medical close-up. Composition: Spinal region occupies 65% of frame centered. Moxa cone burning smoke rises in upper 15%. Four warming herbs displayed in lower right 15%. Gongbi fine-line precision for ginger slice texture, moxa wool fiber quality, and herb morphology. The struggle between cold toxin (blue threads) and heat energy (orange waves) rendered with subtle gradients. Background rendered in xieyi dark tonal washes. Lighting: Moxibustion firelight — primary illumination from the burning moxa cones (warm orange). Dorsal skin lit by fire glow showing warm flesh tones. Smoke softens and diffuses the light. Background darkness rendered in deep ink tones. Color palette: Moxibustion color spectrum — skin in light burnt sienna + warm gamboge yellow for firelight reflection. Ginger slices in bright yellow. Moxa cones in golden yellow → dark red at tips → grayish-white smoke. Cold toxin in indigo blue + azurite blue depicting ice-crystal blue threads. Heat energy in cinnabar red + gamboge yellow depicting orange waves. Aconite in burnt black, cinnamon bark in brown-red, dried ginger in pale yellow, asarum in gray-green. Background in burnt ink. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise anatomical detail, medical illustration precision. Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

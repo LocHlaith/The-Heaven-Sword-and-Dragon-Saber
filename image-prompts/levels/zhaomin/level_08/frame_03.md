@@ -4,43 +4,43 @@
 > **Level**: 第八拍朔漠风霜
 > **Frame**: 帧3 / 5 —— 医学特写
 > **Aspect Ratio**: 16:9
-> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision
+> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise anatomical detail, medical illustration precision
 
 ---
 
 ## 📖 场景描述 (Scene Description)
 
-【蒙古包·内景】蒙古包内，炉火温暖。赵敏以马奶和草药制作护肤膏——羊脂、沙棘油、红花等材料散落。16:9。工笔静物。
+赵敏面部特写——恶寒发热的体征：面色潮红（两颧部红晕）、额头微汗（细小汗珠）、嘴唇干裂起皮。她身着蒙古皮袍（领口貂皮毛边），背景虚化为草原风雪——雪花飞旋。旁边画面右下角陈列麻黄汤四味药材：麻黄（细圆柱形草质茎，断面黄绿色）、桂枝（棕色嫩枝薄片，有特异香气）、杏仁（扁心形，黄棕色）、炙甘草（蜜炙后表面金黄有光泽）。16:9。工笔人物+医学特写。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+赵敏面部特写占画面60%居中。药材陈列右下角占25%。风雪背景虚化左上角15%。工笔精细描绘面部体征——颧红、汗珠、唇裂。药材以工笔精确绘制形态。风雪以写意飞白法表现。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-orange-red conflagration, dramatic backlighting, smoke diffusion, emergency atmosphere
+阴天散射光——草原冬日漫射光，面部受光均匀但有冷调偏色。额汗有微弱反光点。整体偏冷色温，暗示风寒侵袭。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+冷调设色——赵敏面部以淡赭石+胭脂（颧红）渲染。汗珠以留白+淡花青反光。唇裂以深胭脂。皮袍以焦茶+浓墨。麻黄以灰绿，桂枝以赭石，杏仁以淡赭+白，炙甘草以藤黄。风雪以花青+淡墨。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-蒙古包内，炉火温暖、赵敏以马奶和草药制作护肤膏——羊脂、沙棘油、红花等材料散落、
+赵敏面部恶寒发热体征（颧红汗珠唇裂）、麻黄汤四味药材、草原风雪虚化背景、蒙古皮袍貂皮毛领
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-dramatic confrontation, high stakes, emotional intensity
+harsh wilderness, physical vulnerability, resilience
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ dramatic confrontation, high stakes, emotional intensity
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第八拍朔漠风霜 · 帧3（医学特写）。【蒙古包·内景】蒙古包内，炉火温暖。赵敏以马奶和草药制作护肤膏——羊脂、沙棘油、红花等材料散落。16:9。工笔静物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：orange-red conflagration, dramatic backlighting, smoke diffusion, emergency atmosphere 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第八拍朔漠风霜 · 帧3（医学特写）。赵敏面部特写——恶寒发热的体征：面色潮红（两颧部红晕）、额头微汗（细小汗珠）、嘴唇干裂起皮。她身着蒙古皮袍（领口貂皮毛边），背景虚化为草原风雪——雪花飞旋。旁边画面右下角陈列麻黄汤四味药材：麻黄（细圆柱形草质茎，断面黄绿色）、桂枝（棕色嫩枝薄片，有特异香气）、杏仁（扁心形，黄棕色）、炙甘草（蜜炙后表面金黄有光泽）。16:9。工笔人物+医学特写。 构图：赵敏面部特写占画面60%居中。药材陈列右下角占25%。风雪背景虚化左上角15%。工笔精细描绘面部体征——颧红、汗珠、唇裂。药材以工笔精确绘制形态。风雪以写意飞白法表现。 光影：阴天散射光——草原冬日漫射光，面部受光均匀但有冷调偏色。额汗有微弱反光点。整体偏冷色温，暗示风寒侵袭。 色彩：冷调设色——赵敏面部以淡赭石+胭脂（颧红）渲染。汗珠以留白+淡花青反光。唇裂以深胭脂。皮袍以焦茶+浓墨。麻黄以灰绿，桂枝以赭石，杏仁以淡赭+白，炙甘草以藤黄。风雪以花青+淡墨。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise anatomical detail, medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第八拍朔漠风霜 - Frame 3: 【蒙古包·内景】蒙古包内，炉火温暖。赵敏以马奶和草药制作护肤膏——羊脂、沙棘油、红花等材料散落。16:9。工笔静物。. 【蒙古包·内景】蒙古包内，炉火温暖。赵敏以马奶和草药制作护肤膏——羊脂、沙棘油、红花等材料散落。16:9。工笔静物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: orange-red conflagration, dramatic backlighting, smoke diffusion, emergency atmosphere Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 08 Northern Desert Wind and Frost - Frame 3 (Medical Close-up). Zhao Min facial close-up — signs of aversion to cold with fever (恶寒发热): flushed complexion with malar redness on both cheeks, fine sweat beads on the forehead, dry cracked peeling lips. She wears a Mongolian leather robe with sable fur-trimmed collar. Background blurred into steppe blizzard — swirling snowflakes. In the lower right corner, the four herbs of Mahuang Decoction (Ephedra Decoction) are displayed: Mahuang (Ephedra — slender cylindrical herbaceous stems, yellowish-green cross-section), Guizhi (Cinnamon twig — thin slices of brown young branches, distinctive aromatic fragrance), Xingren (Apricot kernel — flattened heart-shaped, yellowish-brown), Zhigancao (Honey-fried Licorice root — golden lustrous surface after honey-processing). 16:9. Gongbi figure painting + medical close-up. Composition: Zhao Min's facial close-up occupies 60% of frame centered. Herbs displayed in lower right 25%. Blizzard background blurred in upper left 15%. Gongbi fine-line precision rendering facial signs — malar flushing, sweat beads, lip cracks. Herbs depicted with botanical precision in gongbi technique. Blizzard rendered with xieyi "flying white" (飞白) dry-brush technique. Lighting: Overcast diffuse light — winter steppe scattered illumination, face evenly lit but with cool color shift. Faint reflective highlights on forehead sweat beads. Overall cool color temperature suggesting wind-cold invasion. Color palette: Cool-tone coloring — Zhao Min's face rendered with light burnt sienna + rouge (malar flush). Sweat beads with reserved white + light indigo blue reflections. Lip cracks in deep rouge. Leather robe in burnt tea brown + dark ink. Ephedra in gray-green, cinnamon twig in burnt sienna, apricot kernel in light burnt sienna + white, honey-fried licorice in gamboge yellow. Blizzard in indigo blue + light ink. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise anatomical detail, medical illustration precision. Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

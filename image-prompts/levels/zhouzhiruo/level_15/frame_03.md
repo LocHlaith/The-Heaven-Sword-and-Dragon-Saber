@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【义诊·场景】周芷若在襄阳城中开设义诊，为妇女触诊把脉。周围聚集了许多前来求医的普通妇女。16:9。工笔人物。
+乳腺自查手法示意——工笔医学教育插画风格。画面展示三种触诊手法：左上——平触法（手指平放，用指腹以画小圆圈的方式顺时针触摸乳腺组织）；右上——螺旋法（从乳头向外以螺旋状路径逐步触诊，覆盖整个乳房）；下方——放射状法（从乳头向周边呈放射状线条逐条触诊）。每个手法以女性上半身正面图示展示手部位置与运动方向（虚线箭头指示）。附正常乳腺解剖图——乳腺小叶、乳腺导管、脂肪组织的层次示意。整体以柔和粉色为主调。背景以襄阳古城墙石纹质感虚化——古代女性健康守护的象征。16:9。工笔医学教育。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+三种手法图示呈三角形排列占画面70%。解剖示意小图占10%。城墙背景虚化占20%。工笔精确描绘手部与乳腺的解剖关系。虚线箭头清晰指示触诊方向。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+医学教育柔和光——均匀散射光，无阴影干扰。皮肤以柔和的粉色调渲染。城墙背景有侧光表现砖石纹理。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+乳腺健康色谱——皮肤以淡赭+粉白。乳腺组织以淡胭脂粉红。导管以淡胭脂细线。乳腺小叶以淡粉圆点。三种手法的手以淡赭。箭头以朱砂虚线。城墙以焦茶+焦墨石纹。整体暖粉主调。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-周芷若在襄阳城中开设义诊，为妇女触诊把脉、周围聚集了许多前来求医的普通妇女、
+三种乳腺自查手法（平触/螺旋/放射状）、正常乳腺解剖示意、襄阳古城墙砖石背景、柔和粉色医学教育风格
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+empowering knowledge, self-care dignity, preventive wisdom
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第十五拍襄阳城墙 · 帧3（医学特写）。【义诊·场景】周芷若在襄阳城中开设义诊，为妇女触诊把脉。周围聚集了许多前来求医的普通妇女。16:9。工笔人物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第十五拍襄阳城墙 · 帧3（医学特写）。乳腺自查手法示意——工笔医学教育插画风格。画面展示三种触诊手法：左上——平触法（手指平放，用指腹以画小圆圈的方式顺时针触摸乳腺组织）；右上——螺旋法（从乳头向外以螺旋状路径逐步触诊，覆盖整个乳房）；下方——放射状法（从乳头向周边呈放射状线条逐条触诊）。每个手法以女性上半身正面图示展示手部位置与运动方向（虚线箭头指示）。附正常乳腺解剖图——乳腺小叶、乳腺导管、脂肪组织的层次示意。整体以柔和粉色为主调。背景以襄阳古城墙石纹质感虚化——古代女性健康守护的象征。16:9。工笔医学教育。 构图：三种手法图示呈三角形排列占画面70%。解剖示意小图占10%。城墙背景虚化占20%。工笔精确描绘手部与乳腺的解剖关系。虚线箭头清晰指示触诊方向。 光影：医学教育柔和光——均匀散射光，无阴影干扰。皮肤以柔和的粉色调渲染。城墙背景有侧光表现砖石纹理。 色彩：乳腺健康色谱——皮肤以淡赭+粉白。乳腺组织以淡胭脂粉红。导管以淡胭脂细线。乳腺小叶以淡粉圆点。三种手法的手以淡赭。箭头以朱砂虚线。城墙以焦茶+焦墨石纹。整体暖粉主调。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第十五拍襄阳城墙 - Frame 3: 【义诊·场景】周芷若在襄阳城中开设义诊，为妇女触诊把脉。周围聚集了许多前来求医的普通妇女。16:9。工笔人物。. 【义诊·场景】周芷若在襄阳城中开设义诊，为妇女触诊把脉。周围聚集了许多前来求医的普通妇女。16:9。工笔人物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第十五拍襄阳城墙 - Frame 3 (Medical Close-up). Breast self-examination technique demonstration — gongbi medical education illustration style. The image displays three palpation techniques: upper left — flat palpation method (fingers laid flat, using finger pads to palpate breast tissue in small clockwise circular motions); upper right — spiral method (starting from the nipple, palpating outward in a spiral path, covering the entire breast); lower — radial method (palpating from the nipple outward in radial lines, one by one). Each technique is shown on a frontal illustration of the female upper body, indicating hand position and direction of movement (dashed arrow indicators). An accompanying normal breast anatomy diagram shows the layered structure of mammary lobules, lactiferous ducts, and adipose tissue. Overall soft pink as the dominant tone. Background softly blurred to reveal the stone texture of Xiangyang ancient city wall — a symbol of women's health guardianship in ancient times. 16:9. Gongbi medical education. Composition: Three technique illustrations arranged in a triangular formation occupying 70% of the frame. Anatomy inset diagram occupying 10%. City wall background blurred at 20%. Gongbi fine brushwork precisely depicting the anatomical relationship between hands and breast. Dashed arrows clearly indicating palpation direction. Lighting: Medical education soft light — even diffused illumination, no shadow interference. Skin rendered in soft pink tones. City wall background with side lighting to express stone brick texture. Color palette: Breast health chromatography — skin in light burnt sienna + pink-white. Breast tissue in light rouge pink. Ducts in light rouge fine lines. Mammary lobules in light pink dots. Hands for the three techniques in light burnt sienna. Arrows in cinnabar dashed lines. City wall in burnt ink brown + burnt ink stone texture. Overall warm pink dominant tone. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

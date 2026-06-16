@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【练功·后遗症】周芷若独自揉搓酸痛的指关节，表情痛苦。旁边放着一本翻开的《九阴真经》。16:9。工笔人物。
+双手关节劳损医学特写——仿X线风格工笔图。双手掌面向上平放，展示过度训练后的病理性改变：指间关节呈"天鹅颈样"畸形（近端指间关节过伸、远端指间关节屈曲——类风湿性关节炎典型体征）；指甲根部甲下瘀血（暗紫红色半月形血斑）；掌指关节肿胀（软组织膨隆，皮肤表面发红）。旁边陈列外伤药酒——广口玻璃瓶中浸泡川乌（黑褐色不规则块根）、草乌（类似川乌但更细长）、红花（橙红色散开）、乳香（浅黄树脂粒）、没药（红褐色颗粒），酒液呈琥珀色。正骨手法示意图——以虚线箭头表示关节复位方向。16:9。工笔医学诊断图。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+双手占画面55%居中。药酒瓶与药材占25%。正骨手法示意占10%。背景虚化占10%。工笔精确描绘关节变形角度、瘀血范围、肿胀程度。药酒以透明质感表现玻璃瓶。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination
+诊室散射光——均匀柔和的前方光。手指关节有轻微立体阴影以凸显变形。玻璃瓶有柔和高光。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+诊断色谱——手掌以淡赭石肤色。瘀血以暗紫胭脂。关节肿胀以胭脂淡红。药酒琥珀色（藤黄+赭石透明）。川乌草乌焦墨黑褐。红花橙红。乳香淡黄。没药红褐。正骨箭头以朱砂虚线。背景以淡墨。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-周芷若独自揉搓酸痛的指关节，表情痛苦、旁边放着一本翻开的《九阴真经》、
+双手天鹅颈样关节畸形、甲下瘀血、掌指关节肿胀、外伤药酒（川乌草乌红花乳香没药）、正骨手法示意
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+physical sacrifice, chronic damage, martial cost
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第七拍九阴白骨 · 帧3（医学特写）。【练功·后遗症】周芷若独自揉搓酸痛的指关节，表情痛苦。旁边放着一本翻开的《九阴真经》。16:9。工笔人物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第七拍九阴白骨 · 帧3（医学特写）。双手关节劳损医学特写——仿X线风格工笔图。双手掌面向上平放，展示过度训练后的病理性改变：指间关节呈"天鹅颈样"畸形（近端指间关节过伸、远端指间关节屈曲——类风湿性关节炎典型体征）；指甲根部甲下瘀血（暗紫红色半月形血斑）；掌指关节肿胀（软组织膨隆，皮肤表面发红）。旁边陈列外伤药酒——广口玻璃瓶中浸泡川乌（黑褐色不规则块根）、草乌（类似川乌但更细长）、红花（橙红色散开）、乳香（浅黄树脂粒）、没药（红褐色颗粒），酒液呈琥珀色。正骨手法示意图——以虚线箭头表示关节复位方向。16:9。工笔医学诊断图。 构图：双手占画面55%居中。药酒瓶与药材占25%。正骨手法示意占10%。背景虚化占10%。工笔精确描绘关节变形角度、瘀血范围、肿胀程度。药酒以透明质感表现玻璃瓶。 光影：诊室散射光——均匀柔和的前方光。手指关节有轻微立体阴影以凸显变形。玻璃瓶有柔和高光。 色彩：诊断色谱——手掌以淡赭石肤色。瘀血以暗紫胭脂。关节肿胀以胭脂淡红。药酒琥珀色（藤黄+赭石透明）。川乌草乌焦墨黑褐。红花橙红。乳香淡黄。没药红褐。正骨箭头以朱砂虚线。背景以淡墨。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图，高度细节，古典中国画技法。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第七拍九阴白骨 - Frame 3: 【练功·后遗症】周芷若独自揉搓酸痛的指关节，表情痛苦。旁边放着一本翻开的《九阴真经》。16:9。工笔人物。. 【练功·后遗症】周芷若独自揉搓酸痛的指关节，表情痛苦。旁边放着一本翻开的《九阴真经》。16:9。工笔人物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第七拍九阴白骨 - Frame 3 (Medical Close-up). Medical close-up of bilateral hand joint overuse injury — X-ray-style gongbi illustration. Both hands placed palm-up, displaying pathological changes from excessive training: finger joints exhibiting "swan-neck deformity" (hyperextension of proximal interphalangeal joints, flexion of distal interphalangeal joints — classic sign of rheumatoid arthritis); subungual hematoma at nail roots (dark purplish-red crescent-shaped blood spots); metacarpophalangeal joint swelling (soft tissue bulging, skin surface redness). Beside them, trauma medicinal liquor displayed — a wide-mouth glass jar steeping prepared aconite (chuanwu, dark brown irregular tuberous roots), wild aconite (caowu, similar to chuanwu but more slender), safflower (honghua, orange-red loose strands), frankincense (ruxiang, pale yellow resin granules), myrrh (moyao, reddish-brown granules), the liquor amber in color. Bone-setting manipulation diagram — dashed arrows indicating joint reduction directions. 16:9. Gongbi medical diagnostic illustration. Composition: Both hands occupy 55% of the frame, centered. Medicinal liquor jar and herbs occupy 25%. Bone-setting diagram occupies 10%. Background blurred at 10%. Gongbi precision in rendering joint deformation angles, hematoma extent, swelling severity. Medicinal liquor with translucent glass texture rendering. Lighting: Clinic diffuse light — even, soft frontal illumination. Subtle three-dimensional shadows on finger joints to emphasize deformation. Soft highlight on glass jar. Color palette: Diagnostic palette — palms in light burnt sienna flesh tone. Hematoma in dark purple rouge. Joint swelling in rouge light red. Medicinal liquor amber (gamboge + burnt sienna, translucent). Chuanwu and caowu in burnt ink dark brown. Safflower orange-red. Frankincense pale yellow. Myrrh reddish-brown. Bone-setting arrows in cinnabar dashed lines. Background in light ink. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

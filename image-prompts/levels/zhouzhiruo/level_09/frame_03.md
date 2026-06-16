@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【失眠·示意】深夜，周芷若辗转反侧。窗外月明，屋内烛灭。脑海中浮现各种画面——师父的遗言、赵敏的脸、张无忌的离开。16:9。水墨写意。
+胸部经络示意图——奇经八脉之任脉与冲脉走行。任脉：前正中线自会阴→腹→胸→咽喉→下颏（红线标示），重点标注膻中穴（前正中线平第4肋间隙，两乳头连线中点——"气会膻中"）和气海穴（前正中线脐下1.5寸——"气之海"）。冲脉：自小腹→沿脊柱上行→胸部散于胸中（蓝线标示）。展示"内力反噬"与"调息导引"的对比——红色紊乱气流（短促旋转箭头）从膻中向外扩散表示内力反噬；蓝色有序气流（平稳流线箭头）沿任脉下行归于气海表示调息导引。背景为屠狮大会的刀光剑影虚化。16:9。工笔经络图+动态示意。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+人体躯干经络图占画面65%居中。任脉红线+冲脉蓝线交织。膻中穴与气海穴以朱砂圆点标注。红蓝气流对比在画面上下方分别展示。刀剑背景虚化占15%。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-silver-blue lunar illumination, ethereal glow, deep indigo shadows, star-speckled sky
+经络图标准光——均匀前光照亮。红蓝气流有自发光效果。背景暗部用深墨渲染。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。
+经络图谱——任脉以朱砂红线。冲脉以石青蓝线。膻中气海以朱砂大圆点。红色紊乱气流以胭脂+朱砂。蓝色有序气流以花青+石青。人体轮廓以淡墨线描。背景以焦墨+花青暗部。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-深夜，周芷若辗转反侧、窗外月明，屋内烛灭、脑海中浮现各种画面——师父的遗言、赵敏的脸、张无忌的离开、
+任脉与冲脉走行图、膻中穴气海穴标注、内力反噬（红乱气流）vs调息导引（蓝平气流）、屠狮大会刀光背景
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-bittersweet longing, nostalgic sorrow, poetic melancholy
+inner turmoil, energetic understanding, martial balance
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ bittersweet longing, nostalgic sorrow, poetic melancholy
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第九拍屠狮之会 · 帧3（医学特写）。【失眠·示意】深夜，周芷若辗转反侧。窗外月明，屋内烛灭。脑海中浮现各种画面——师父的遗言、赵敏的脸、张无忌的离开。16:9。水墨写意。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：silver-blue lunar illumination, ethereal glow, deep indigo shadows, star-speckled sky 色彩：水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第九拍屠狮之会 · 帧3（医学特写）。胸部经络示意图——奇经八脉之任脉与冲脉走行。任脉：前正中线自会阴→腹→胸→咽喉→下颏（红线标示），重点标注膻中穴（前正中线平第4肋间隙，两乳头连线中点——"气会膻中"）和气海穴（前正中线脐下1.5寸——"气之海"）。冲脉：自小腹→沿脊柱上行→胸部散于胸中（蓝线标示）。展示"内力反噬"与"调息导引"的对比——红色紊乱气流（短促旋转箭头）从膻中向外扩散表示内力反噬；蓝色有序气流（平稳流线箭头）沿任脉下行归于气海表示调息导引。背景为屠狮大会的刀光剑影虚化。16:9。工笔经络图+动态示意。 构图：人体躯干经络图占画面65%居中。任脉红线+冲脉蓝线交织。膻中穴与气海穴以朱砂圆点标注。红蓝气流对比在画面上下方分别展示。刀剑背景虚化占15%。 光影：经络图标准光——均匀前光照亮。红蓝气流有自发光效果。背景暗部用深墨渲染。 色彩：经络图谱——任脉以朱砂红线。冲脉以石青蓝线。膻中气海以朱砂大圆点。红色紊乱气流以胭脂+朱砂。蓝色有序气流以花青+石青。人体轮廓以淡墨线描。背景以焦墨+花青暗部。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图，高度细节，古典中国画技法。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第九拍屠狮之会 - Frame 3: 【失眠·示意】深夜，周芷若辗转反侧。窗外月明，屋内烛灭。脑海中浮现各种画面——师父的遗言、赵敏的脸、张无忌的离开。16:9。水墨写意。. 【失眠·示意】深夜，周芷若辗转反侧。窗外月明，屋内烛灭。脑海中浮现各种画面——师父的遗言、赵敏的脸、张无忌的离开。16:9。水墨写意。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: silver-blue lunar illumination, ethereal glow, deep indigo shadows, star-speckled sky Color palette: 水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第九拍屠狮之会 - Frame 3 (Medical Close-up). Thoracic meridian diagram — pathways of the Ren (Conception Vessel) and Chong (Penetrating Vessel) among the Eight Extraordinary Meridians. Ren Vessel: from the perineum along the anterior midline → abdomen → chest → throat → chin (marked in red line), with key acupoints highlighted: Danzhong (CV-17, on anterior midline at level of 4th intercostal space, midpoint between nipples — "Meeting Point of Qi") and Qihai (CV-6, on anterior midline 1.5 cun below umbilicus — "Sea of Qi"). Chong Vessel: from lower abdomen → ascending along spine → dispersing into the chest (marked in blue line). Demonstrating the contrast between "internal energy backlash" and "breath-guided meditation": red chaotic qi flow (short swirling arrows) diffusing outward from Danzhong representing internal energy backlash; blue orderly qi flow (smooth streamline arrows) descending along Ren Vessel returning to Qihai representing regulated breathing and guidance. Background softly blurred into the flashing blades and sword shadows of the Lion-Slaying Assembly. 16:9. Gongbi meridian chart + dynamic diagram. Composition: Torso meridian diagram occupies 65% of the frame, centered. Ren Vessel red line + Chong Vessel blue line interweaving. Danzhong and Qihai points marked with cinnabar dot annotations. Red vs blue qi flow contrast displayed above and below respectively. Blade light background blurred at 15%. Lighting: Meridian chart standard light — even frontal illumination. Red and blue qi flows with self-illuminating glow effect. Background dark areas rendered in deep ink. Color palette: Meridian chart palette — Ren Vessel in cinnabar red line. Chong Vessel in azurite blue line. Danzhong and Qihai in large cinnabar dots. Red chaotic qi flow in rouge + cinnabar. Blue orderly qi flow in indigo + azurite. Body outline in light ink line drawing. Background in burnt ink + indigo dark regions. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

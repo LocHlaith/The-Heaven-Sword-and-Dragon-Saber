@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【峨眉·义诊】周芷若组织峨眉弟子为周边村民义诊——她虽练邪功，却初心未泯。老妇人感激地握着她的手。16:9。工笔人物。
+面部望诊特写——中医"望而知之谓之神"。周芷若面容特写：面色萎黄（脾胃虚弱之征，皮肤呈淡黄无华）、唇色淡白（血虚之征，嘴唇颜色苍白缺乏血色）、眼睑结膜苍白（血虚之征，下眼睑内侧黏膜呈淡白色而非正常的红润）。案上陈列归脾汤十味药材完整方——白术（不规则块片，表面土黄色）、当归（全归片，断面黄白）、茯神（白色粉质块，中抱松根）、黄芪（圆柱形片，断面纤维性黄白色，有豆腥气）、龙眼肉（棕褐色半透明假种皮，肉质柔软）、酸枣仁（扁圆种仁，紫红色有光泽）、人参（细根须齐全）、木香（圆柱形片，有放射状裂隙，香气浓烈）、远志（细圆柱形根，有横皱纹）、炙甘草（蜜炙金黄色片）。16:9。工笔人物+方剂学。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+面部望诊占画面50%居左。归脾汤十味药材占40%居右。两者以无形分割线分开。面部以工笔精细描绘皮肤色调与光泽差异。药材以工笔描绘鉴别特征——颜色、纹理、断面。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+诊室柔和光——模拟中医诊室的自然光，面部受光均匀以准确表现"面色萎黄"的色泽。药材以散射光照亮。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+望诊色谱——萎黄以淡赭石+淡藤黄（无光泽）。唇白以淡赭+留白。眼睑苍白以象牙白。白术土黄。当归淡黄白。茯神象牙白。黄芪黄白纤维。龙眼肉棕褐半透明（焦茶+淡赭）。酸枣仁紫红（胭脂）。人参淡黄白。木香棕褐。远志灰黄。炙草金黄（藤黄）。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-周芷若组织峨眉弟子为周边村民义诊——她虽练邪功，却初心未泯、老妇人感激地握着她的手、
+面部望诊三征（面色萎黄、唇色淡白、眼睑苍白）、归脾汤十味药材完整方、中医望诊诊断学
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+diagnostic revelation, hidden exhaustion, compassionate observation
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第八拍峨眉掌门 · 帧3（医学特写）。【峨眉·义诊】周芷若组织峨眉弟子为周边村民义诊——她虽练邪功，却初心未泯。老妇人感激地握着她的手。16:9。工笔人物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第八拍峨眉掌门 · 帧3（医学特写）。面部望诊特写——中医"望而知之谓之神"。周芷若面容特写：面色萎黄（脾胃虚弱之征，皮肤呈淡黄无华）、唇色淡白（血虚之征，嘴唇颜色苍白缺乏血色）、眼睑结膜苍白（血虚之征，下眼睑内侧黏膜呈淡白色而非正常的红润）。案上陈列归脾汤十味药材完整方——白术（不规则块片，表面土黄色）、当归（全归片，断面黄白）、茯神（白色粉质块，中抱松根）、黄芪（圆柱形片，断面纤维性黄白色，有豆腥气）、龙眼肉（棕褐色半透明假种皮，肉质柔软）、酸枣仁（扁圆种仁，紫红色有光泽）、人参（细根须齐全）、木香（圆柱形片，有放射状裂隙，香气浓烈）、远志（细圆柱形根，有横皱纹）、炙甘草（蜜炙金黄色片）。16:9。工笔人物+方剂学。 构图：面部望诊占画面50%居左。归脾汤十味药材占40%居右。两者以无形分割线分开。面部以工笔精细描绘皮肤色调与光泽差异。药材以工笔描绘鉴别特征——颜色、纹理、断面。 光影：诊室柔和光——模拟中医诊室的自然光，面部受光均匀以准确表现"面色萎黄"的色泽。药材以散射光照亮。 色彩：望诊色谱——萎黄以淡赭石+淡藤黄（无光泽）。唇白以淡赭+留白。眼睑苍白以象牙白。白术土黄。当归淡黄白。茯神象牙白。黄芪黄白纤维。龙眼肉棕褐半透明（焦茶+淡赭）。酸枣仁紫红（胭脂）。人参淡黄白。木香棕褐。远志灰黄。炙草金黄（藤黄）。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图，高度细节，古典中国画技法。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第八拍峨眉掌门 - Frame 3: 【峨眉·义诊】周芷若组织峨眉弟子为周边村民义诊——她虽练邪功，却初心未泯。老妇人感激地握着她的手。16:9。工笔人物。. 【峨眉·义诊】周芷若组织峨眉弟子为周边村民义诊——她虽练邪功，却初心未泯。老妇人感激地握着她的手。16:9。工笔人物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第八拍峨眉掌门 - Frame 3 (Medical Close-up). Facial inspection close-up — "Observation skill reaching the divine level" in Chinese medicine. Close-up of Zhou Zhiruo's face: sallow complexion (mianse weihuang, sign of spleen-stomach weakness, skin appearing pale yellow and lusterless); pale lips (sign of blood deficiency, lip color pallid lacking red); pale conjunctiva (sign of blood deficiency, inner lower eyelid mucosa appearing pale white rather than normally ruddy). On the table, the complete ten-herb Gui Pi Tang (Restore the Spleen Decoction) formula displayed: white atractylodes (baizhu, irregular block slices, surface earthy yellow), Chinese angelica root (danggui, whole-root slices, cross-section yellow-white), poria with pine root (fushen, white starchy block embracing pine root), astragalus root (huangqi, cylindrical slices, fibrous yellow-white cross-section with beany odor), longan fruit (longyanrou, brown semi-translucent aril, soft fleshy texture), sour jujube seed (suanzaoren, flattened-round seed kernel, purplish-red glossy), ginseng root (renshen, fine rootlets intact), costus root (muxiang, cylindrical slices with radial fissures, strongly aromatic), polygala root (yuanzhi, slender cylindrical root with transverse wrinkles), honey-fried licorice (zhigancao, honey-baked golden-yellow slices). 16:9. Gongbi figure painting + herbal formulary. Composition: Facial inspection occupies 50% of the frame on the left. Gui Pi Tang ten herbs occupy 40% on the right. The two separated by an invisible dividing line. Gongbi fine brushwork precisely rendering skin tone and luster differences on the face. Herbs rendered with gongbi precision showing distinguishing characteristics — color, texture, cross-section. Lighting: Consulting room soft light — simulating natural light in a TCM clinic, face evenly illuminated to accurately show "sallow complexion" coloring. Herbs illuminated with diffuse light. Color palette: Inspection diagnostic palette — sallow yellow in light burnt sienna + pale gamboge (matte). Pale lips in light ochre + negative space. Pale conjunctiva in ivory white. Atractylodes in earthy yellow. Angelica in pale yellow-white. Poria with pine in ivory white. Astragalus in yellow-white fibrous tone. Longan flesh in brown semi-translucent (burnt tea + light ochre). Sour jujube seed in purplish-red (rouge). Ginseng in pale yellow-white. Costus in brown. Polygala in grayish-yellow. Honey-fried licorice in golden yellow (gamboge). Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

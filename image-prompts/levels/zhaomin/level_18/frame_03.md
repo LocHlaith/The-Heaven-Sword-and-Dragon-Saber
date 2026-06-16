@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【张无忌·练功】张无忌在海边礁石上练太极——动作圆融，以柔克刚。远处海天相接，极光飘舞。16:9。水墨写意。
+生化汤药材特写——产后经典方剂。五味药材以工笔超精细描绘：当归（全归片，断面黄白色有裂隙，有浓郁香气）、川芎（不规则片状，断面黄白色有棕色油室，蝴蝶片状）、桃仁（扁长卵形，表面黄棕色有细密颗粒状突起）、炮姜（干姜砂烫炮制后表面焦黑色，内部棕褐色）、炙甘草（蜜炙后表面金黄色有光泽，断面纤维性）。药材旁陈列产妇补品——阿胶块（黑褐色长方形块，断面有光泽）、红枣（暗红色饱满果实）、桂圆（棕褐色果壳+半透明果肉）、红糖（棕红色不规则结晶）。画面前景为赵敏怀抱新生儿的虚化剪影——母亲与孩子沐浴在金色晨光中。16:9。工笔静物+人文。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+生化汤五味药材居中偏左，占画面50%。五味药材自左下向右上呈阶梯排列：当归（左下）→川芎→桃仁（中）→炮姜→炙甘草（中右），形成药材的视觉叙述线。产妇补品右上角占20%——阿胶块、红枣、桂圆、红糖以扇形聚拢。母子剪影在画面下方前景虚化占15%——以焦墨剪影+藤黄金边轮廓光表现逆光效果。金色晨光从右上角45°斜射入画面，光束贯穿整个画面——从母子剪影→药材→补品形成统一的光线连接。工笔精细描绘药材鉴别特征——当归断面裂隙、川芎棕色油室、桃仁表面颗粒、炮姜焦黑外层与棕褐内部的对比、炙甘草蜜炙金泽。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+金色晨光——日出时分的温暖阳光从右上角45°射入。药材受光面呈金色调——当归的裂隙中有金光渗透，川芎油室泛温暖光泽，桃仁颗粒有微小的金色高光，炙甘草的金黄色蜜炙表面有柔和反光。阿胶表面有光泽反光——黑褐色块体中有一道金色高光。母子剪影呈逆光效果——以焦墨暗调为主，但轮廓边缘有藤黄金边（rim light），表现日出新生的寓意。晨光以泥金在画面中渲染——光束中有微粒浮动感，但不过度夸张。暗部保持在暖棕调中，不冷。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。
+暖金设色——当归以淡黄白+赭石。川芎以黄白+棕褐油室。桃仁以赭石黄棕。炮姜以焦墨+焦茶。炙草以藤黄金泽。阿胶以焦墨黑褐+光泽留白。红枣暗红胭脂。桂圆棕褐焦茶+半透明淡赭。红糖棕红。母子剪影以焦墨暗调+藤黄金边。晨光以泥金渲染——金色光束中保留工笔药材的清晰度。整体暖金+棕色调——泥金的辉煌与药材的素朴形成对比，寓意平凡中的神圣（新生命）。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-张无忌在海边礁石上练太极——动作圆融，以柔克刚、远处海天相接，极光飘舞、
+生化汤五味（当归川芎桃仁炮姜炙甘草）、产妇补品（阿胶红枣桂圆红糖）、母子金色晨光剪影（赵敏怀抱新生儿）、日出新生寓意——金边轮廓光、工笔药材鉴别特征（当归裂隙川芎油室桃仁颗粒炮姜焦黑炙草金泽）
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-peaceful tranquility, meditative calm, natural harmony
+new life tenderness, maternal warmth, hope and renewal
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ peaceful tranquility, meditative calm, natural harmony
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第十八拍天下归心 · 帧3（医学特写）。【张无忌·练功】张无忌在海边礁石上练太极——动作圆融，以柔克刚。远处海天相接，极光飘舞。16:9。水墨写意。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第十八拍天下归心 · 帧3（医学特写）。生化汤药材特写——产后经典方剂。五味药材以工笔超精细描绘：当归（全归片，断面黄白色有裂隙，有浓郁香气）、川芎（不规则片状，断面黄白色有棕色油室，蝴蝶片状）、桃仁（扁长卵形，表面黄棕色有细密颗粒状突起）、炮姜（干姜砂烫炮制后表面焦黑色，内部棕褐色）、炙甘草（蜜炙后表面金黄色有光泽，断面纤维性）。药材旁陈列产妇补品——阿胶块（黑褐色长方形块，断面有光泽）、红枣（暗红色饱满果实）、桂圆（棕褐色果壳+半透明果肉）、红糖（棕红色不规则结晶）。画面前景为赵敏怀抱新生儿的虚化剪影——母亲与孩子沐浴在金色晨光中。16:9。工笔静物+人文。 构图：生化汤五味药材居中偏左占画面50%，自左下向右上阶梯排列。产妇补品右上角占20%。母子剪影在画面下方前景虚化占15%，以焦墨剪影+藤黄金边轮廓光表现逆光。金色晨光从右上角45°斜射，光束贯穿画面。工笔精细描绘药材鉴别特征。 光影：金色晨光——日出时分温暖阳光从右上角45°射入。药材受光面呈金色调。阿胶表面有光泽反光。母子剪影呈逆光效果——暗调剪影+金边轮廓光。晨光以泥金渲染。 色彩：暖金设色——当归以淡黄白+赭石。川芎以黄白+棕褐油室。桃仁以赭石黄棕。炮姜以焦墨+焦茶。炙草以藤黄金泽。阿胶以焦墨黑褐+光泽留白。红枣暗红胭脂。桂圆棕褐焦茶+半透明淡赭。红糖棕红。母子剪影以焦墨暗调+藤黄金边。晨光以泥金渲染。整体暖金+棕色调。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第十八拍天下归心 - Frame 3: 【张无忌·练功】张无忌在海边礁石上练太极——动作圆融，以柔克刚。远处海天相接，极光飘舞。16:9。水墨写意。. 【张无忌·练功】张无忌在海边礁石上练太极——动作圆融，以柔克刚。远处海天相接，极光飘舞。16:9。水墨写意。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 水墨设色——以墨色五阶（焦、浓、重、淡、清）为主，辅以少量矿物颜料（赭石、花青、藤黄）。画面以灰度层次为主导，局部设色以点睛。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 18 All Under Heaven United - Frame 3 (Medical Close-up). Shenghua Decoction herbal close-up — classic postpartum formula. Five herbs rendered in ultra-fine gongbi detail: Danggui (Angelica sinensis, whole root slices, yellowish-white cross-section with fissures, rich aroma); Chuanxiong (Ligusticum chuanxiong, irregular slices, yellowish-white cross-section with brown oil cavities, butterfly-slice form); Taoren (Persicae semen, flat elongated ovate, yellowish-brown surface with fine granular protrusions); Paojiang (Zingiberis rhizoma preparata, dry ginger sand-scorched until surface is scorched black, interior brownish-tan); Zhigancao (Glycyrrhizae radix preparata, honey-fried until surface golden-yellow with luster, fibrous cross-section). Beside herbs, postpartum tonics displayed — Ejiao (donkey-hide gelatin, blackish-brown rectangular block, lustrous cross-section); Hongzao (red dates, dark red plump fruits); Longan (brown husk + translucent flesh); Hongtang (brown sugar, brownish-red irregular crystals). Foreground: blurred silhouette of Zhao Min cradling her newborn — mother and child bathed in golden morning light. 16:9. Gongbi still life + humanistic warmth. Composition: Shenghua Decoction five herbs center-left occupying 50%, arranged in ascending diagonal from lower-left to mid-right. Postpartum tonics upper-right at 20%. Mother-child silhouette in lower foreground blurred at 15% — burnt ink silhouette + gamboge gold rim light for backlit effect. Golden morning light angled from upper right at 45°, beam cutting through entire composition. Fine gongbi rendering of herb identification features. Lighting: Golden morning light — warm sunrise light entering from upper right at 45°. Herb surfaces catching golden tones. Ejiao surface with lustrous reflection. Mother-child silhouette in backlight effect — dark silhouette + gold rim light. Morning light rendered in gold paint (nijin). Color palette: Warm gold palette — light yellowish-white + burnt sienna for Danggui. Yellowish-white + brown oil cavities for Chuanxiong. Burnt sienna yellowish-brown for Taoren. Burnt ink + burnt tea brown for Paojiang. Gamboge gold luster for Zhigancao. Burnt ink blackish-brown + reserved white luster for Ejiao. Dark red rouge for Hongzao. Brown burnt tea + translucent light burnt sienna for Longan. Brownish-red for Hongtang. Mother-child silhouette in burnt ink dark tone + gamboge gold rim. Morning light in gold paint rendering. Overall warm gold + brown palette. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, medical illustration precision. Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition.
 ```
 
 ---

@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【战地救护·示意】战争场景中的救护——担架、绷带、夹板。一位女医者为伤兵包扎。画面强调急救四要素：止血、包扎、固定、搬运。16:9。工笔写实。
+安神中药特写——酸枣仁：破碎后的种仁，扁圆形，表面紫红色有光泽，一面较平坦（显示破碎面）；远志：圆柱形根段，表面灰黄色有横皱纹，断面皮部棕黄色；茯神：茯苓菌核中抱有松根的白色块状物，切面白色粉质；合欢皮：卷曲的树皮片，外表面灰绿色有椭圆形皮孔，内表面黄白色。药材以柔和暖光照亮。旁边一只香炉，青烟袅袅。背景虚化为襄阳古城墙砖石纹理。16:9。工笔静物。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+四味安神药材以扇形排列，酸枣仁居中（最重要），共占画面65%。药材从左至右依次为远志→茯神→酸枣仁→合欢皮，形成扇面展开。酸枣仁作为焦点居中偏下——其紫红色光泽在暖光下最引人注目。香炉在右上角占10%。城墙背景虚化占20%。工笔精细描绘酸枣仁表面光泽——以留白表现高光，胭脂赭石表现紫红底色。远志横皱纹以细密线条表现。茯神粉质切面以留白表现白色粉质感。合欢皮卷曲纹理以赭墨勾勒。香炉青烟以淡花青细曲线条表现袅袅上升。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+柔和暖光——模拟夕阳光线。光从右上方斜射（约45度），药材有温暖的立体感。酸枣仁表面有柔和反光——紫红色种皮上出现椭圆形高光。远志横皱纹在侧光下有凹凸阴影。茯神粉质切面以漫反射表现——无明显高光，但整体明亮温暖。合欢皮卷曲的内表面受光，外表面在暗部。香炉青烟在光束中可见——光束路径中有淡淡的藤黄色暖光。城墙背景整体为暗暖调。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+暖调设色——酸枣仁以胭脂+赭石表现紫红光泽。远志以灰黄赭石。茯神以象牙白+淡赭。合欢皮以灰绿+淡黄。香炉铜质以赭石+藤黄。城墙以焦茶+焦墨。整体暖棕色调——夕阳光的藤黄+赭石为基调。香炉青烟以淡花青细线勾勒，在暖光中有冷色对比之美。暗部以焦墨+焦茶调和保持暖意。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-战争场景中的救护——担架、绷带、夹板、一位女医者为伤兵包扎、画面强调急救四要素：止血、包扎、固定、搬运、
+酸枣仁（紫红光泽扁圆种仁）、远志（灰黄根段横皱纹）、茯神（白粉质抱松根）、合欢皮（灰绿卷曲树皮）、香炉青烟、襄阳古城墙背景砖石纹理
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-dramatic confrontation, high stakes, emotional intensity
+quiet solace, historical memory, healing calm
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ dramatic confrontation, high stakes, emotional intensity
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第十六拍襄阳遗梦 · 帧3（医学特写）。【战地救护·示意】战争场景中的救护——担架、绷带、夹板。一位女医者为伤兵包扎。画面强调急救四要素：止血、包扎、固定、搬运。16:9。工笔写实。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第十六拍襄阳遗梦 · 帧3（医学特写）。安神中药特写——酸枣仁：破碎后的种仁，扁圆形，表面紫红色有光泽，一面较平坦（显示破碎面）；远志：圆柱形根段，表面灰黄色有横皱纹，断面皮部棕黄色；茯神：茯苓菌核中抱有松根的白色块状物，切面白色粉质；合欢皮：卷曲的树皮片，外表面灰绿色有椭圆形皮孔，内表面黄白色。药材以柔和暖光照亮。旁边一只香炉，青烟袅袅。背景虚化为襄阳古城墙砖石纹理。16:9。工笔静物。 构图：四味安神药材以扇形排列，酸枣仁居中（最重要），共占画面65%。香炉在右上角占10%。城墙背景虚化占20%。工笔精细描绘酸枣仁表面光泽、远志横皱纹、茯神粉质切面、合欢皮卷曲纹理。酸枣仁紫红色光泽以留白表现高光。 光影：柔和暖光——模拟夕阳光线。光从右上方45°斜射，药材有温暖的立体感。酸枣仁表面有柔和反光。远志横皱纹有凹凸阴影。香炉青烟在光束中可见。 色彩：暖调设色——酸枣仁以胭脂+赭石表现紫红光泽。远志以灰黄赭石。茯神以象牙白+淡赭。合欢皮以灰绿+淡黄。香炉铜质以赭石+藤黄。青烟以淡花青细线。城墙以焦茶+焦墨。整体暖棕色调。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第十六拍襄阳遗梦 - Frame 3: 【战地救护·示意】战争场景中的救护——担架、绷带、夹板。一位女医者为伤兵包扎。画面强调急救四要素：止血、包扎、固定、搬运。16:9。工笔写实。. 【战地救护·示意】战争场景中的救护——担架、绷带、夹板。一位女医者为伤兵包扎。画面强调急救四要素：止血、包扎、固定、搬运。16:9。工笔写实。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 16 Xiangyang Dreams - Frame 3 (Medical Close-up). Calming Chinese herbs close-up — Suanzaoren (Ziziphus spinosa): broken kernel, oblate-round, purple-red lustrous surface, one side flatter showing fracture surface; Yuanzhi (Polygala tenuifolia): cylindrical root segment, grayish-yellow surface with transverse wrinkles, cross-section shows brownish-yellow cortex; Fushen (Poria cocos with pine root): white mass from Poria sclerotium embracing pine root, cut surface white and starchy; Hehuanpi (Albizia julibrissin bark): curled bark pieces, outer surface grayish-green with elliptical lenticels, inner surface yellowish-white. Herbs illuminated by soft warm light. An incense burner beside them, blue smoke curling upward. Background blurred to Xiangyang ancient city wall brick texture. 16:9. Gongbi still life. Composition: Four calming herbs arranged in a fan shape, Suanzaoren at center (most important), collectively occupying 65% of frame. Incense burner in upper right at 10%. City wall background blurred at 20%. Fine gongbi rendering of Suanzaoren surface luster, Yuanzhi transverse wrinkles, Fushen starchy cut surface, Hehuanpi curled bark texture. Suanzaoren purple-red luster with reserved white highlights. Lighting: Soft warm light — simulating sunset glow. Light angled from upper right at 45°, herbs with warm three-dimensionality. Suanzaoren surface with soft reflection. Yuanzhi transverse wrinkles with relief shadows. Incense smoke visible in the light beam. Color palette: Warm-tone palette — rouge + burnt sienna for Suanzaoren purple-red luster. Grayish-yellow burnt sienna for Yuanzhi. Ivory white + light burnt sienna for Fushen. Grayish-green + light yellow for Hehuanpi. Burnt sienna + gamboge for bronze incense burner. Light indigo blue fine lines for blue smoke. Burnt tea brown + burnt ink for city wall. Overall warm brown ambiance. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, medical illustration precision. Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition.
 ```
 
 ---

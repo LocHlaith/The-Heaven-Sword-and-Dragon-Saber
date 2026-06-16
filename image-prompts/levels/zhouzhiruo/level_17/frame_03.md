@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【HPV疫苗·意象】象征性画面——一把"倚天剑"斩向代表HPV病毒的阴影。剑刃上刻有"治未病"三字。16:9。工笔写意。
+人体主要关节运动损伤示意——工笔解剖图风格。展示五大关节：肩关节（球窝关节，标注肩袖肌腱——冈上肌、冈下肌、小圆肌、肩胛下肌）、肘关节（屈戍关节，标注网球肘/高尔夫球肘损伤位置——肱骨外上髁/内上髁）、腕关节（标注腕管——正中神经走行，月骨脱位常见位置）、膝关节（标注半月板前后角、前交叉韧带、后交叉韧带、髌骨软骨）、踝关节（标注跖屈/背屈/内翻/外翻运动轴与常见扭伤方向——内翻损伤外侧副韧带）。每个关节以独立小图展示，标注常见武术损伤名称。陈列跌打损伤外敷药：栀子粉（棕黄色细粉，清热消肿）、大黄粉（棕褐色粉末，活血化瘀）、黄柏粉（鲜黄色粉末，清热燥湿）、泽兰鲜叶（绿色叶片揉碎，活血消肿）。16:9。工笔运动医学教育图。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+五大关节以从上到下排列——肩→肘→腕→膝→踝，共占画面65%。每个关节旁标注损伤名称。药材陈列右下角占20%。华山险峰虚化背景占15%。工笔精确描绘关节骨性结构与韧带。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination
+解剖图标准光——均匀前光照亮。关节软骨有微弱反光。韧带以淡赭半透明表现。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+运动医学色谱——骨骼以象牙白+淡赭。软骨以淡蓝白半透明。韧带与肌腱以淡赭白纤维。损伤标注以朱砂文字。栀子粉棕黄（藤黄+赭石）。大黄粉棕褐（焦茶）。黄柏粉鲜黄（藤黄）。泽兰叶墨绿。华山以淡墨+花青远山。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-象征性画面——一把"倚天剑"斩向代表HPV病毒的阴影、剑刃上刻有"治未病"三字、
+五大关节解剖图（肩肘腕膝踝）、武术损伤标注、跌打外敷四味（栀子黄大黄黄柏泽兰）、华山险峰背景
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+athletic precision, injury awareness, martial body wisdom
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第十七拍华山论剑 · 帧3（医学特写）。【HPV疫苗·意象】象征性画面——一把"倚天剑"斩向代表HPV病毒的阴影。剑刃上刻有"治未病"三字。16:9。工笔写意。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第十七拍华山论剑 · 帧3（医学特写）。人体主要关节运动损伤示意——工笔解剖图风格。展示五大关节：肩关节（球窝关节，标注肩袖肌腱——冈上肌、冈下肌、小圆肌、肩胛下肌）、肘关节（屈戍关节，标注网球肘/高尔夫球肘损伤位置——肱骨外上髁/内上髁）、腕关节（标注腕管——正中神经走行，月骨脱位常见位置）、膝关节（标注半月板前后角、前交叉韧带、后交叉韧带、髌骨软骨）、踝关节（标注跖屈/背屈/内翻/外翻运动轴与常见扭伤方向——内翻损伤外侧副韧带）。每个关节以独立小图展示，标注常见武术损伤名称。陈列跌打损伤外敷药：栀子粉（棕黄色细粉，清热消肿）、大黄粉（棕褐色粉末，活血化瘀）、黄柏粉（鲜黄色粉末，清热燥湿）、泽兰鲜叶（绿色叶片揉碎，活血消肿）。16:9。工笔运动医学教育图。 构图：五大关节以从上到下排列——肩→肘→腕→膝→踝，共占画面65%。每个关节旁标注损伤名称。药材陈列右下角占20%。华山险峰虚化背景占15%。工笔精确描绘关节骨性结构与韧带。 光影：解剖图标准光——均匀前光照亮。关节软骨有微弱反光。韧带以淡赭半透明表现。 色彩：运动医学色谱——骨骼以象牙白+淡赭。软骨以淡蓝白半透明。韧带与肌腱以淡赭白纤维。损伤标注以朱砂文字。栀子粉棕黄（藤黄+赭石）。大黄粉棕褐（焦茶）。黄柏粉鲜黄（藤黄）。泽兰叶墨绿。华山以淡墨+花青远山。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第十七拍华山论剑 - Frame 3: 【HPV疫苗·意象】象征性画面——一把"倚天剑"斩向代表HPV病毒的阴影。剑刃上刻有"治未病"三字。16:9。工笔写意。. 【HPV疫苗·意象】象征性画面——一把"倚天剑"斩向代表HPV病毒的阴影。剑刃上刻有"治未病"三字。16:9。工笔写意。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第十七拍华山论剑 - Frame 3 (Medical Close-up). Major human joint sports injury illustration — gongbi anatomical diagram style. Five major joints displayed: Shoulder joint (ball-and-socket joint, rotator cuff tendons labeled — supraspinatus, infraspinatus, teres minor, subscapularis); Elbow joint (hinge joint, tennis elbow/golfer's elbow injury sites labeled — lateral epicondyle/medial epicondyle of humerus); Wrist joint (carpal tunnel labeled — median nerve pathway, common lunate dislocation site); Knee joint (meniscus anterior and posterior horns, anterior cruciate ligament, posterior cruciate ligament, patellar cartilage labeled); Ankle joint (plantarflexion/dorsiflexion/inversion/eversion movement axes and common sprain directions labeled — inversion injury to lateral collateral ligament). Each joint shown in a separate small panel, with common martial arts injury names annotated. Trauma and injury topical medicines displayed: Gardenia fruit powder (zhizifen, brown-yellow fine powder, clears heat and reduces swelling), Rhubarb root powder (dahuangfen, brown powder, invigorates blood and resolves stasis), Phellodendron bark powder (huangbofen, bright yellow powder, clears heat and dries dampness), Hempwort fresh leaves (zelan, green leaves crushed, invigorates blood and reduces swelling). 16:9. Gongbi sports medicine education illustration. Composition: Five major joints arranged from top to bottom — shoulder to elbow to wrist to knee to ankle, together occupying 65% of frame. Injury names annotated beside each joint. Medicinal herbs displayed in lower right corner occupying 20%. Huashan perilous peaks softly blurred in background occupying 15%. Gongbi fine brushwork precisely depicting joint bony structures and ligaments. Lighting: Anatomical diagram standard light — even frontal illumination. Articular cartilage with faint reflective highlights. Ligaments rendered in semi-translucent light burnt sienna. Color palette: Sports medicine chromatography — bones in ivory white + light burnt sienna. Cartilage in pale blue-white semi-translucent. Ligaments and tendons in light burnt sienna white fibers. Injury annotations in cinnabar red characters. Gardenia powder brown-yellow (gamboge + burnt sienna). Rhubarb powder brown (burnt ink). Phellodendron powder bright yellow (gamboge). Hempwort leaves dark ink green. Huashan in light ink + indigo distant peaks. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

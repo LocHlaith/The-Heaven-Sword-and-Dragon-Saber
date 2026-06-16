@@ -10,7 +10,7 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【周芷若·苦肉计】周芷若割掉自己半边头发，削去左耳一块——血流满面。她在月光下对镜自伤，表情扭曲而决绝。16:9。工笔人物。
+【周芷若·苦肉计】周芷若端坐镜前，左手执剪刀——一缕青丝已断落于梳妆台上。左耳以白布轻裹，隐约可见淡淡血迹渗出。她凝视镜中自己的面容，眼神凌厉而决绝——嘴角紧抿，眉宇间是不顾一切的狠意。月光从窗外洒入，照亮她半边面庞，另一半隐于深邃暗影中。镜中倒影与真人形成虚实对照。16:9。工笔人物。
 
 ---
 
@@ -34,13 +34,13 @@ silver-blue lunar illumination, ethereal glow, deep indigo shadows, star-speckle
 
 ## 🔑 关键元素 (Key Elements)
 
-周芷若割掉自己半边头发，削去左耳一块——血流满面、她在月光下对镜自伤，表情扭曲而决绝、
+周芷若执剪刀端坐镜前、梳妆台上断落青丝、左耳白布轻裹隐见血迹、眼神凌厉决绝、月光半边照亮面庞、镜中倒影虚实对照、
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-otherworldly atmosphere, spiritual presence, transcendent beauty
+determined anguish, cold resolve, sacrificial defiance, moonlit solitude
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ otherworldly atmosphere, spiritual presence, transcendent beauty
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第五拍灵蛇毒计 · 帧4（人物表情）。【周芷若·苦肉计】周芷若割掉自己半边头发，削去左耳一块——血流满面。她在月光下对镜自伤，表情扭曲而决绝。16:9。工笔人物。 构图：面部特写或上半身肖像。聚焦于角色的情感反应——表情、眼神、微妙的肌肉变化。面部占画面50-60%。眼睛必须在画面上三分之一线附近（黄金分割）。使用柔和的光影塑造面部体量感——避免平板照明。背景大幅虚化或极简——让表情成为唯一的焦点。注意：中国工笔人物画的表情以含蓄为美——情感通过眉梢眼角唇角的微小变化传达，而非大幅度的扭曲。 光影：silver-blue lunar illumination, ethereal glow, deep indigo shadows, star-speckled sky 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns intimate portrait，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第五拍灵蛇毒计 · 帧4（人物表情）。【周芷若·苦肉计】周芷若端坐镜前，左手执剪刀——一缕青丝已断落于梳妆台上。左耳以白布轻裹，隐约可见淡淡血迹渗出。她凝视镜中自己的面容，眼神凌厉而决绝——嘴角紧抿，眉宇间是不顾一切的狠意。月光从窗外洒入，照亮她半边面庞，另一半隐于深邃暗影中。镜中倒影与真人形成虚实对照。16:9。工笔人物。 构图：面部特写或上半身肖像。聚焦于角色的情感反应——表情、眼神、微妙的肌肉变化。面部占画面50-60%。眼睛必须在画面上三分之一线附近（黄金分割）。使用柔和的光影塑造面部体量感——避免平板照明。背景大幅虚化或极简——让表情成为唯一的焦点。注意：中国工笔人物画的表情以含蓄为美——情感通过眉梢眼角唇角的微小变化传达，而非大幅度的扭曲。 光影：silver-blue lunar illumination, ethereal glow, deep indigo shadows, star-speckled sky 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns intimate portrait，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第五拍灵蛇毒计 - Frame 4: 【周芷若·苦肉计】周芷若割掉自己半边头发，削去左耳一块——血流满面。她在月光下对镜自伤，表情扭曲而决绝。16:9。工笔人物。. 【周芷若·苦肉计】周芷若割掉自己半边头发，削去左耳一块——血流满面。她在月光下对镜自伤，表情扭曲而决绝。16:9。工笔人物。 Composition: 面部特写或上半身肖像。聚焦于角色的情感反应——表情、眼神、微妙的肌肉变化。面部占画面50-60%。眼睛必须在画面上三分之一线附近（黄金分割）。使用柔和的光影塑造面部体量感——避免平板照明。背景大幅虚化或极简——让表情成为唯一的焦点。注意：中国工笔人物画的表情以含蓄为美——情感通过眉梢眼角唇角的微小变化传达，而非大幅度的扭曲。 Lighting: silver-blue lunar illumination, ethereal glow, deep indigo shadows, star-speckled sky Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns intimate portrait, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第五拍灵蛇毒计 - Frame 4: 【周芷若·苦肉计】周芷若端坐镜前，左手执剪刀——一缕青丝已断落于梳妆台上。左耳以白布轻裹，隐约可见淡淡血迹渗出。她凝视镜中自己的面容，眼神凌厉而决绝——嘴角紧抿，眉宇间是不顾一切的狠意。月光从窗外洒入，照亮她半边面庞，另一半隐于深邃暗影中。镜中倒影与真人形成虚实对照。16:9。工笔人物。. 【周芷若·苦肉计】周芷若端坐镜前，左手执剪刀——一缕青丝已断落于梳妆台上。左耳以白布轻裹，隐约可见淡淡血迹渗出。她凝视镜中自己的面容，眼神凌厉而决绝——嘴角紧抿，眉宇间是不顾一切的狠意。月光从窗外洒入，照亮她半边面庞，另一半隐于深邃暗影中。镜中倒影与真人形成虚实对照。16:9。工笔人物。 Composition: 面部特写或上半身肖像。聚焦于角色的情感反应——表情、眼神、微妙的肌肉变化。面部占画面50-60%。眼睛必须在画面上三分之一线附近（黄金分割）。使用柔和的光影塑造面部体量感——避免平板照明。背景大幅虚化或极简——让表情成为唯一的焦点。注意：中国工笔人物画的表情以含蓄为美——情感通过眉梢眼角唇角的微小变化传达，而非大幅度的扭曲。 Lighting: silver-blue lunar illumination, ethereal glow, deep indigo shadows, star-speckled sky Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns intimate portrait, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

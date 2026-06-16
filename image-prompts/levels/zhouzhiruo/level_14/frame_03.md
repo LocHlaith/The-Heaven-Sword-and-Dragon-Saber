@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【妇科常用药·集锦】妇科常用中药展示——当归（补血调经）、白芍（柔肝止痛）、川芎（活血行气）、熟地（滋阴补血）、丹参（活血祛瘀）、益母草（调经利水）。每种药材标注性味归经。16:9。工笔静物。
+本草四气五味辨识图——八种草药按中医理论体系分类陈列。画面以2×4网格排列，每格一种药，旁注性味。上行四味（温热）：桂枝（辛甘温——棕色嫩枝薄片，有特异香气）、当归（甘辛温——全归片断面黄白）、人参（甘微温——细根须完整）、附子（辛甘大热——黑褐色块根，有毒标示）。下行四味（寒凉平）：黄连（苦寒——黄色根茎断面，味极苦）、大黄（苦寒——不规则块片，断面黄棕色有星点）、薄荷（辛凉——绿色茎叶，有清凉香气）、茯苓（甘淡平——白色粉质方块）。药王谷阳光透过树叶洒在草药上形成斑驳光影。16:9。工笔药学教育图。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+八味药2×4网格排列占画面75%。每格约8×6cm大小。药名与性味以小楷书写在每格下方。斑驳阳光效果占画面整体。工笔超精细描绘每味药的鉴别特征——黄连断面星点、大黄断面锦纹、附子毒性标识。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination
+林间斑驳光——阳光透过树叶形成的光斑洒在药材上。部分药材呈明亮暖调（光斑下），部分在阴影中（冷调）。有自然森林气息。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+药典色谱——桂枝棕红赭石。当归淡黄白。人参淡黄。附子焦墨黑褐+朱砂"毒"字。黄连鲜黄（藤黄）苦寒。大黄棕褐焦茶有锦纹。薄荷翠绿石绿。茯苓象牙白粉质。光斑以暖藤黄。阴影以淡花青。药名以墨色小楷。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-妇科常用中药展示——当归（补血调经）、白芍（柔肝止痛）、川芎（活血行气）、熟地（滋阴补血）、丹参（活血祛瘀）、益母草（调经利水）、每种药材标注性味归经、
+八味药材2×4网格排列、四气（寒热温凉）五味（酸苦甘辛咸）标注、林间斑驳阳光、药典级鉴别特征
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-bittersweet longing, nostalgic sorrow, poetic melancholy
+botanical wisdom, taxonomic clarity, nature's pharmacy
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ bittersweet longing, nostalgic sorrow, poetic melancholy
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第十四拍药王谷中 · 帧3（医学特写）。【妇科常用药·集锦】妇科常用中药展示——当归（补血调经）、白芍（柔肝止痛）、川芎（活血行气）、熟地（滋阴补血）、丹参（活血祛瘀）、益母草（调经利水）。每种药材标注性味归经。16:9。工笔静物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第十四拍药王谷中 · 帧3（医学特写）。本草四气五味辨识图——八种草药按中医理论体系分类陈列。画面以2×4网格排列，每格一种药，旁注性味。上行四味（温热）：桂枝（辛甘温——棕色嫩枝薄片，有特异香气）、当归（甘辛温——全归片断面黄白）、人参（甘微温——细根须完整）、附子（辛甘大热——黑褐色块根，有毒标示）。下行四味（寒凉平）：黄连（苦寒——黄色根茎断面，味极苦）、大黄（苦寒——不规则块片，断面黄棕色有星点）、薄荷（辛凉——绿色茎叶，有清凉香气）、茯苓（甘淡平——白色粉质方块）。药王谷阳光透过树叶洒在草药上形成斑驳光影。16:9。工笔药学教育图。 构图：八味药2×4网格排列占画面75%。每格约8×6cm大小。药名与性味以小楷书写在每格下方。斑驳阳光效果占画面整体。工笔超精细描绘每味药的鉴别特征——黄连断面星点、大黄断面锦纹、附子毒性标识。 光影：林间斑驳光——阳光透过树叶形成的光斑洒在药材上。部分药材呈明亮暖调（光斑下），部分在阴影中（冷调）。有自然森林气息。 色彩：药典色谱——桂枝棕红赭石。当归淡黄白。人参淡黄。附子焦墨黑褐+朱砂"毒"字。黄连鲜黄（藤黄）苦寒。大黄棕褐焦茶有锦纹。薄荷翠绿石绿。茯苓象牙白粉质。光斑以暖藤黄。阴影以淡花青。药名以墨色小楷。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第十四拍药王谷中 - Frame 3: 【妇科常用药·集锦】妇科常用中药展示——当归（补血调经）、白芍（柔肝止痛）、川芎（活血行气）、熟地（滋阴补血）、丹参（活血祛瘀）、益母草（调经利水）。每种药材标注性味归经。16:9。工笔静物。. 【妇科常用药·集锦】妇科常用中药展示——当归（补血调经）、白芍（柔肝止痛）、川芎（活血行气）、熟地（滋阴补血）、丹参（活血祛瘀）、益母草（调经利水）。每种药材标注性味归经。16:9。工笔静物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: diffuse soft light, muted tones, atmospheric haze, gentle shadowless illumination Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第十四拍药王谷中 - Frame 3 (Medical Close-up). Chinese materia medica four qi and five flavors identification chart — eight medicinal herbs classified and displayed according to TCM theoretical system. Image arranged in a 2x4 grid, one herb per cell, with nature and flavor annotations beside each. Upper row four herbs (warm/hot): Cinnamon twig (guizhi, acrid-sweet-warm — brown young twig thin slices, distinctive aromatic fragrance), Chinese Angelica root (danggui, sweet-acrid-warm — whole root slices with yellow-white cross-section), Ginseng root (renshen, sweet-slightly-warm — fine rootlets intact), Aconite (fuzi, acrid-sweet-greatly hot — black-brown tuberous root, toxicity warning marked). Lower row four herbs (cold/cool/neutral): Coptis rhizome (huanglian, bitter-cold — yellow rhizome cross-section, extremely bitter taste), Rhubarb root (dahuang, bitter-cold — irregular block pieces, cross-section yellow-brown with star-spot markings), Field Mint (bohe, acrid-cool — green stems and leaves, cooling fragrant aroma), Poria mushroom (fuling, sweet-bland-neutral — white powdery square blocks). In the Medicine King Valley, sunlight filters through tree leaves casting dappled light and shadow onto the herbs. 16:9. Gongbi pharmaceutical education illustration. Composition: Eight herbs in 2x4 grid arrangement occupying 75% of the frame. Each cell approximately 8x6cm in size. Herb names and nature/flavor written in small regular script (xiaokai) beneath each cell. Dappled sunlight effect over the entire image. Gongbi ultra-fine brushwork depicting each herb's identifying characteristics — Coptis cross-section star spots, Rhubarb cross-section brocade striations, Aconite toxicity warning mark. Lighting: Forest dappled light — spots of sunlight filtering through leaves falling onto the medicinal herbs. Some herbs appear bright and warm-toned (under light spots), others in shadow (cool tones). Natural forest atmosphere. Color palette: Pharmacopoeia chromatography — Cinnamon twig brown-red ochre. Chinese Angelica pale yellow-white. Ginseng pale yellow. Aconite burnt ink black-brown + cinnabar "poison" character. Coptis bright yellow (gamboge) bitter-cold. Rhubarb brown burnt ink with brocade striations. Mint emerald green malachite. Poria ivory white powdery. Light spots in warm gamboge. Shadows in pale indigo. Herb names in ink black small regular script. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

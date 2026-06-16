@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【中医情志疗法·意象】古代中医情志疗法示意——以情胜情（悲胜怒、恐胜喜、怒胜思、喜胜忧、思胜恐）的五行相克图。16:9。工笔写实。
+咽喉部解剖示意——"梅核气"病症图。画面展示喉与食管矢状面示意：咽部（鼻咽→口咽→喉咽）、喉（甲状软骨隆起）、食管上端。在咽部食管交界处（约第6颈椎水平）以红色虚线圆圈标注"梅核气"异物感位置——中医描述为"咽中如有炙脔，吞之不下，吐之不出"。案上陈列半夏厚朴汤五味药材：半夏（类球形块茎，表面白色或淡黄色，顶端有凹陷茎痕）、厚朴（卷筒状干皮，内表面紫棕色有细密纵纹）、茯苓（白色粉质方块）、生姜（鲜切片黄色多汁）、紫苏叶（紫色卵形叶片，边缘有锯齿）。背景虚化为周芷若低首含泪的剪影。16:9。工笔医学解剖+病症图。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+咽喉解剖矢状图占画面55%居中。标注红圈占10%。五味药材陈列于右下角占25%。人物剪影虚化占10%。解剖图以工笔精确描绘组织层次——黏膜、软骨、肌肉。药材以工笔描绘鉴别特征。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+解剖图标准光——均匀柔和无阴影。药材以散射光照亮。背景人物剪影逆光处理。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+解剖色谱——咽黏膜以淡胭脂。喉软骨以象牙白+淡赭。食管以淡赭。标注红圈以朱砂虚线。半夏以白+淡黄。厚朴以紫棕焦茶。茯苓以白粉质。生姜以鲜黄。紫苏叶以紫色（胭脂+花青）。背景以焦墨剪影。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-古代中医情志疗法示意——以情胜情（悲胜怒、恐胜喜、怒胜思、喜胜忧、思胜恐）的五行相克图、
+咽喉食管矢状面解剖图、梅核气异物感位置红圈标注、半夏厚朴汤五味药材、周芷若低首含泪剪影
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+suffocating emotion, somatic grief, diagnostic precision
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-周芷若 · 第十一拍问心有愧 · 帧3（医学特写）。【中医情志疗法·意象】古代中医情志疗法示意——以情胜情（悲胜怒、恐胜喜、怒胜思、喜胜忧、思胜恐）的五行相克图。16:9。工笔写实。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+周芷若 · 第十一拍问心有愧 · 帧3（医学特写）。咽喉部解剖示意——"梅核气"病症图。画面展示喉与食管矢状面示意：咽部（鼻咽→口咽→喉咽）、喉（甲状软骨隆起）、食管上端。在咽部食管交界处（约第6颈椎水平）以红色虚线圆圈标注"梅核气"异物感位置——中医描述为"咽中如有炙脔，吞之不下，吐之不出"。案上陈列半夏厚朴汤五味药材：半夏（类球形块茎，表面白色或淡黄色，顶端有凹陷茎痕）、厚朴（卷筒状干皮，内表面紫棕色有细密纵纹）、茯苓（白色粉质方块）、生姜（鲜切片黄色多汁）、紫苏叶（紫色卵形叶片，边缘有锯齿）。背景虚化为周芷若低首含泪的剪影。16:9。工笔医学解剖+病症图。 构图：咽喉解剖矢状图占画面55%居中。标注红圈占10%。五味药材陈列于右下角占25%。人物剪影虚化占10%。解剖图以工笔精确描绘组织层次——黏膜、软骨、肌肉。药材以工笔描绘鉴别特征。 光影：解剖图标准光——均匀柔和无阴影。药材以散射光照亮。背景人物剪影逆光处理。 色彩：解剖色谱——咽黏膜以淡胭脂。喉软骨以象牙白+淡赭。食管以淡赭。标注红圈以朱砂虚线。半夏以白+淡黄。厚朴以紫棕焦茶。茯苓以白粉质。生姜以鲜黄。紫苏叶以紫色（胭脂+花青）。背景以焦墨剪影。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图，高度细节，古典中国画技法。
 ```
 
 ### English Prompt
 ```
-Zhou Zhiruo - 第十一拍问心有愧 - Frame 3: 【中医情志疗法·意象】古代中医情志疗法示意——以情胜情（悲胜怒、恐胜喜、怒胜思、喜胜忧、思胜恐）的五行相克图。16:9。工笔写实。. 【中医情志疗法·意象】古代中医情志疗法示意——以情胜情（悲胜怒、恐胜喜、怒胜思、喜胜忧、思胜恐）的五行相克图。16:9。工笔写实。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhou Zhiruo - 第十一拍问心有愧 - Frame 3 (Medical Close-up). Throat and larynx anatomical diagram — "plum-stone qi" (globus hystericus) disease illustration. The image displays a sagittal-section diagram of the throat and esophagus: pharynx (nasopharynx → oropharynx → laryngopharynx), larynx (thyroid cartilage prominence), upper esophagus. At the pharyngoesophageal junction (approximately C6 vertebral level), a red dashed circle marks the "plum-stone qi" foreign body sensation location — Chinese medicine describes it as "as if a piece of roasted meat is stuck in the throat, unable to be swallowed down or spat out." On the table, the five herbs of Ban Xia Hou Po Tang (Pinellia and Magnolia Bark Decoction) displayed: pinellia (banxia, roughly spherical tuber, surface white or pale yellow, depressed stem scar at apex), magnolia bark (houpo, tube-rolled dry bark, inner surface purplish-brown with fine dense longitudinal striations), poria (fuling, white starchy blocks), fresh ginger (shengjiang, freshly sliced yellow and juicy), perilla leaf (zisuye, purple ovate leaves with serrated margins). Background softly blurred into the silhouette of Zhou Zhiruo with head bowed and tears in her eyes. 16:9. Gongbi medical anatomical + disease illustration. Composition: Throat and esophagus sagittal anatomical diagram occupies 55% of the frame, centered. Annotation red circle occupies 10%. Five herbs arranged in lower right corner occupying 25%. Character silhouette blurred at 10%. Anatomical diagram rendered with gongbi precision in tissue layers — mucosa, cartilage, muscle. Herbs rendered with gongbi precision showing distinguishing characteristics. Lighting: Anatomical diagram standard light — even, soft, shadowless. Herbs illuminated with diffuse light. Background character silhouette handled with backlighting. Color palette: Anatomical spectrum — pharyngeal mucosa in light rouge. Laryngeal cartilage in ivory white + light ochre. Esophagus in light ochre. Annotation red circle in cinnabar dashed line. Pinellia in white + pale yellow. Magnolia bark in purplish-brown burnt tea. Poria in white starchy tone. Fresh ginger in fresh yellow. Perilla leaf in purple (rouge + indigo). Background in burnt ink silhouette. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---

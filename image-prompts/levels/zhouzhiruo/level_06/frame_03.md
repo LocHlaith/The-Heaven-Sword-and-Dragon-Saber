@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【周芷若·撕红裳】周芷若双手扯脱嫁衣红裳，碎片如花瓣在空中飘散。她眼中含泪，嘴角却挂着惨笑。手指被衣料擦伤，滴落。16:9。工笔重彩。
+肝经穴位特写与怒容体征。画面左侧——面部怒容的细微体征变化：眉紧蹙（眉心纵向皱纹加深）、目赤（眼白充血呈红色）、唇紧抿（嘴唇肌肉紧绷、唇色暗红）。画面右侧——肝经足部穴位示意：标注太冲穴（足背第1-2跖骨结合部前方凹陷处）、行间穴（足背第1-2趾间趾蹼缘后方赤白肉际处）、期门穴（胸部乳头直下第6肋间隙）。展示"怒伤肝→肝气上逆→面红目赤→头痛眩晕"的病理连锁示意。背景红色喜堂碎片虚化——红色绸缎撕裂、喜字纸片飞散。16:9。工笔医学+情绪图谱。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+左侧怒容体征占40%，右侧肝经穴位占35%，病理连锁文字/箭头占15%，喜堂碎片背景虚化占10%。面部以工笔精细描绘皮肤纹理与血管。穴位以朱砂精确标注。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+戏剧性侧光——从右侧射入的冷白色光与背景的红色暖光形成对比。面部一半受光一半阴影，强化愤怒情绪的张力。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-重彩设色——矿物颜料为主：石青（azurite blue）、石绿（malachite green）、朱砂（cinnabar red）、泥金（gold paint）。色彩饱和度高，具有装饰性的辉煌感。
+情绪色谱——怒容面部以淡赭+胭脂颧红+目赤深红。太冲行间以朱砂标注。病理箭头以胭脂红→暗紫。喜堂碎片以胭脂+朱砂热烈红色。暗面以花青冷调。整体冷暖对比强烈。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-周芷若双手扯脱嫁衣红裳，碎片如花瓣在空中飘散、她眼中含泪，嘴角却挂着惨笑、手指被衣料擦伤，滴落、
+怒容体征（眉蹙目赤唇紧）、肝经三穴（太冲行间期门）、怒伤肝病理连锁示意、红色喜堂碎片飞散背景
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+emotional devastation, somatic truth, heartbreak physiology
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,19 +104,19 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-古典中国工笔人物画——婚礼悲剧中的新娘特写。周芷若的上半身特写——凤冠霞帔，独自伫立在喜堂中央。她的嫁衣前襟已经自然分开——丝绸经纬线断开，露出内层衬裙。约十片大小不一的红绸碎片如花瓣般从她身畔缓缓飘落。她的面部——这是画面的灵魂：眼眶泛红但干涸无泪（用最后的尊严锁住了泪水），嘴唇轻启无声，眉毛微蹙。双手自然垂落——各持一片脱落的红绸，指尖沾着丝绸染料的颜色。背景大幅虚化——只能隐约看到大红喜字的红色块和宾客的身影轮廓。画面以冷白日光（从左侧门涌入）和暖金灯笼光（右侧）双色照明——她面部左半冷光（告别）、右半暖光（回忆）。金庸武侠美学，元代婚礼考据，16:9横构图，中国工笔人物画精准度，古典戏剧的克制美学。
+周芷若 · 第六拍裂裳之痛 · 帧3（医学特写）。肝经穴位特写与怒容体征。画面左侧——面部怒容的细微体征变化：眉紧蹙（眉心纵向皱纹加深）、目赤（眼白充血呈红色）、唇紧抿（嘴唇肌肉紧绷、唇色暗红）。画面右侧——肝经足部穴位示意：标注太冲穴（足背第1-2跖骨结合部前方凹陷处）、行间穴（足背第1-2趾间趾蹼缘后方赤白肉际处）、期门穴（胸部乳头直下第6肋间隙）。展示"怒伤肝→肝气上逆→面红目赤→头痛眩晕"的病理连锁示意。背景红色喜堂碎片虚化——红色绸缎撕裂、喜字纸片飞散。16:9。工笔医学+情绪图谱。 构图：左侧怒容体征占40%，右侧肝经穴位占35%，病理连锁文字/箭头占15%，喜堂碎片背景虚化占10%。面部以工笔精细描绘皮肤纹理与血管。穴位以朱砂精确标注。 光影：戏剧性侧光——从右侧射入的冷白色光与背景的红色暖光形成对比。面部一半受光一半阴影，强化愤怒情绪的张力。 色彩：情绪色谱——怒容面部以淡赭+胭脂颧红+目赤深红。太冲行间以朱砂标注。病理箭头以胭脂红→暗紫。喜堂碎片以胭脂+朱砂热烈红色。暗面以花青冷调。整体冷暖对比强烈。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Classical Chinese Gongbi figure painting — tragic bride close-up at a wedding ceremony. Upper body portrait of Zhou Zhiruo in her phoenix crown and red wedding robes, standing alone at the center of the ceremony hall. The front lapel of her wedding gown has parted naturally — silk warp and weft threads visible at the separation, revealing a lighter red inner layer. About ten red silk fragments of varying sizes drift slowly downward around her like falling flower petals. Her face — the soul of this painting: her eyes are reddened but completely dry (holding back tears with the last shred of dignity), lips slightly parted in silence, brows gently furrowed. Her hands rest naturally at her sides — each holding a detached piece of red silk, her fingertips bearing traces of natural red dye from the fabric. Background heavily blurred — only the red smudge of the double-happiness character and silhouettes of guests are distinguishable. Dual lighting: cool white daylight entering from the left doorway and warm golden lantern light from the right — her face is split between cool light (farewell) on the left and warm light (memory) on the right. Jin Yong wuxia aesthetic, Yuan Dynasty wedding accuracy, 16:9 horizontal, Chinese Gongbi portrait precision, classical theatrical restraint.
+Zhou Zhiruo - 第六拍裂裳之痛 - Frame 3 (Medical Close-up). Liver meridian acupoint close-up and anger facial signs. Left side of the image — subtle facial signs of anger: furrowed brows (deepening vertical wrinkles at the glabella), red eyes (conjunctival injection appearing red), tightly pressed lips (lip muscles tense, lip color dark red). Right side of the image — liver meridian foot acupoint illustration: marked Taichong acupoint (LV-3, in the depression anterior to the junction of the 1st and 2nd metatarsal bones on the dorsum of the foot), Xingjian acupoint (LV-2, posterior to the web margin between the 1st and 2nd toes at the border of the red and white flesh), Qimen acupoint (LV-14, directly below the nipple in the 6th intercostal space on the chest). Displaying the pathological chain illustration: "Anger damages the liver → Liver qi rebels upward → Face reddens and eyes congest → Headache and dizziness." Background: red wedding hall fragments softly blurred — torn red silk fabric, flying fragments of paper with the character "喜" (double happiness). 16:9. Gongbi medicine + emotion mapping. Composition: Left anger facial signs occupy 40%, right liver meridian acupoints occupy 35%, pathological chain text/arrows occupy 15%, wedding hall fragment background blur occupies 10%. Face rendered with gongbi fine brushwork detailing skin texture and blood vessels. Acupoints precisely marked in cinnabar. Lighting: Dramatic side lighting — cool white light entering from the right contrasts with the warm red light of the background. Face half-lit, half-shadowed to intensify the tension of angry emotion. Color palette: Emotion color spectrum — angry face in pale ochre + rouge malar red + deep red eye congestion. Taichong and Xingjian marked in cinnabar. Pathological arrows in rouge red → dark purple. Wedding hall fragments in rouge + cinnabar passionate red. Shadow side in indigo cool tones. Overall strong warm-cool contrast. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-blood, wound, gore, injury, violence, stabbing, cutting, bleeding, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
+modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 
 ```
 

@@ -10,37 +10,37 @@
 
 ## 📖 场景描述 (Scene Description)
 
-【殷离·被毁容】殷离（蛛儿）脸上被锐器划伤，流淌。她惊恐地捂着脸——但看不清是谁下的手。画面只展示结果。16:9。工笔人物。
+十香软筋散毒药构图——白色粉末在黑色瓷盘上呈小山状堆叠，粉末颗粒在月光下泛出微弱荧光（以淡青色表现）。粉末旁陈列四味解毒中药：甘草（斜切片，断面淡黄色有粉性，味甘——标注"解百药毒"）、绿豆（翠绿色种子，饱满圆润，种脐白色）、金银花（干燥花蕾，黄白色细长棒状，密被绒毛）、防风（圆柱形根切片，断面皮部棕黄色木部浅黄色，有裂隙）。工笔描绘毒理示意——以淡青色虚线箭头从粉末延伸向手腕经络，表示毒素入络路径。背景虚化为灵蛇岛月光下的诡异植物剪影。16:9。工笔静物+药理学。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+毒药粉末居中占30%。解毒四味围绕排列占35%。毒理示意虚线箭头串联占15%。月光背景虚化占20%。工笔精细描绘粉末晶体感、药材鉴别特征。毒性以冷色调（青）暗示，解毒以暖色调（黄绿）暗示。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+月光——单光源从上方照射，冷白色调。粉末有荧光效果（淡青色微光）。药材在月光下呈现银色调。整体偏冷色温，暗示险恶。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+毒理冷调——白色粉末以留白+淡花青荧光。黑瓷盘以焦墨。甘草以淡黄白。绿豆以石绿翠绿。金银花以淡黄白+绒毛留白。防风以棕黄+浅黄。毒理箭头以淡花青虚线。月光以花青+淡墨。背景植物以焦墨剪影。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-殷离（蛛儿）脸上被锐器划伤，流淌、她惊恐地捂着脸——但看不清是谁下的手、画面只展示结果、
+十香软筋散白色荧光粉末、解毒四味（甘草绿豆金银花防风）、毒理入络路径示意箭头、灵蛇岛月光背景
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-bittersweet longing, nostalgic sorrow, poetic melancholy
+sinister pharmacology, toxicological insight, antidote wisdom
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,19 +104,19 @@ bittersweet longing, nostalgic sorrow, poetic melancholy
 
 ### 中文提示词 (Chinese Prompt)
 ```
-古典中国工笔静物画——药物与工具的近距离特写。灵蛇岛月夜下的药包特写。一包十香软筋散（虚构药物）——纸包打开，浅灰白色极细粉末在月光下泛着微弱的荧光。旁边摆放着：倚天剑和屠龙刀在稍远处（月光在刀刃上反射冷光）。画面以工笔静物的精准度描绘药粉的质地——如面粉般细腻，在纸面上形成微小起伏。纸包为粗桑皮纸——纤维纹理可见。背景虚化为月光下的沙滩和海面——银色月光碎片在海面上闪烁。这包药粉是即将改变所有人命运的关键物品——画面以静物画的形式赋予这包药一种不祥的美感。金庸武侠美学，元代考据，16:9横构图，中国工笔静物画精准度。
+周芷若 · 第五拍灵蛇毒计 · 帧3（医学特写）。十香软筋散毒药构图——白色粉末在黑色瓷盘上呈小山状堆叠，粉末颗粒在月光下泛出微弱荧光（以淡青色表现）。粉末旁陈列四味解毒中药：甘草（斜切片，断面淡黄色有粉性，味甘——标注"解百药毒"）、绿豆（翠绿色种子，饱满圆润，种脐白色）、金银花（干燥花蕾，黄白色细长棒状，密被绒毛）、防风（圆柱形根切片，断面皮部棕黄色木部浅黄色，有裂隙）。工笔描绘毒理示意——以淡青色虚线箭头从粉末延伸向手腕经络，表示毒素入络路径。背景虚化为灵蛇岛月光下的诡异植物剪影。16:9。工笔静物+药理学。 构图：毒药粉末居中占30%。解毒四味围绕排列占35%。毒理示意虚线箭头串联占15%。月光背景虚化占20%。工笔精细描绘粉末晶体感、药材鉴别特征。毒性以冷色调（青）暗示，解毒以暖色调（黄绿）暗示。 光影：月光——单光源从上方照射，冷白色调。粉末有荧光效果（淡青色微光）。药材在月光下呈现银色调。整体偏冷色温，暗示险恶。 色彩：毒理冷调——白色粉末以留白+淡花青荧光。黑瓷盘以焦墨。甘草以淡黄白。绿豆以石绿翠绿。金银花以淡黄白+绒毛留白。防风以棕黄+浅黄。毒理箭头以淡花青虚线。月光以花青+淡墨。背景植物以焦墨剪影。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Classical Chinese Gongbi still life painting — close-up of medicinal powder under moonlight. On Ling蛇 Island at night. A packet of fictional powder — the paper is opened, revealing extremely fine pale grey-white powder that glimmers faintly under the moonlight. Nearby but at a distance: the Yitian Sword and Tulong Saber rest against a rock — moonlight glints coldly on their blades. The powder texture is rendered with Gongbi precision — fine as flour, forming tiny undulations on the paper surface. The paper is coarse mulberry paper — its fiber texture visible. Background blurred into moonlit beach and sea — silver moonlight fragments shimmering on the water surface. This packet of powder is the key object that will change everyone's fate — the still life composition gives it an ominous beauty. Jin Yong wuxia aesthetic, Yuan Dynasty accuracy, 16:9 horizontal, Chinese Gongbi still life precision.
+Zhou Zhiruo - 第五拍灵蛇毒计 - Frame 3 (Medical Close-up). Ten-Perfume Soft-Tendon Powder (Shixiang Ruanjin San) poison composition — white powder piled in a small mound on a black porcelain dish, powder particles emitting faint fluorescence under moonlight (rendered in pale cyan). Displayed beside the powder are four detoxifying Chinese herbs: licorice root (gancao, oblique-cut slices with pale yellow cross-section, starchy texture, sweet taste — labeled "resolves the hundred poisons"), mung bean (lvdou, jade-green seeds, plump and round, white hilum), honeysuckle flower (jinyinhua, dried flower buds, yellow-white slender rod-shaped, densely covered with fine hairs), saposhnikovia root (fangfeng, cylindrical root slices, cross-section shows brownish-yellow cortex and pale yellow xylem with fissures). Gongbi brushwork depicts a toxicological diagram — pale cyan dashed arrows extending from the powder toward the wrist meridians, indicating the path of toxin entering the collaterals. Background softly blurred into eerie plant silhouettes under moonlight on Spirit Snake Island. 16:9. Gongbi still life + pharmacology. Composition: Poison powder centered occupying 30%. Four detoxifying herbs arranged around it occupying 35%. Toxicological pathway dashed arrows connecting elements occupying 15%. Moonlit background blur occupying 20%. Gongbi fine brushwork precisely rendering powder crystalline texture and herbal distinguishing characteristics. Toxicity suggested through cool tones (cyan), antidote through warm tones (yellow-green). Lighting: Moonlight — single light source from above, cool white tone. Powder has fluorescent effect (pale cyan faint glow). Herbs take on silvery tones under moonlight. Overall cool color temperature to imply sinister atmosphere. Color palette: Toxicology cold palette — white powder rendered with negative space + pale indigo fluorescence. Black porcelain dish in burnt ink. Licorice in pale yellow-white. Mung bean in malachite green. Honeysuckle in pale yellow-white + fine hair negative space. Saposhnikovia in brown-yellow + pale yellow. Toxicology arrows in pale indigo dashed lines. Moonlight in indigo + light ink. Background plants in burnt ink silhouette. Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns, medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---
 
 ## 🚫 负面提示词 (Negative Prompt)
 ```
-blood, wound, gore, injury, violence, stabbing, cutting, bleeding, modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
+modern clothing, modern technology, smartphones, cars, airplanes, western architecture, european castles, anime style, manga style, cartoon, cel shading, large eyes, photorealistic, 3D render, photograph, text overlay, watermark, signature, excessive gore, graphic violence, neon colors, synthetic palette, abstract, minimalist, blurry, low resolution, distorted faces, extra limbs, bad anatomy
 
 ```
 

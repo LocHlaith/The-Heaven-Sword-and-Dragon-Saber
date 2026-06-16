@@ -4,43 +4,43 @@
 > **Level**: 第十二拍大都宫闱
 > **Frame**: 帧3 / 5 —— 医学特写
 > **Aspect Ratio**: 16:9
-> **Art Style**: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision
+> **Art Style**: Chinese Gongbi (工笔) still-life painting — fine brushwork, detailed outlines, layered colors, botanical precision, medical illustration accuracy
 
 ---
 
 ## 📖 场景描述 (Scene Description)
 
-【毒药辨识】案上陈列多种有毒药材——乌头（附子）、马钱子、砒霜（砒石）、朱砂。旁边有银针试毒工具。标注每味药材的拉丁名和毒性。16:9。工笔静物。
+元宫御药房案上陈列名贵中药——人参：全须全尾的完整根茎，芦头、芦碗、主根、侧根、须根齐全，表皮黄褐色有细密横纹；鹿茸：梅花鹿茸横切片，显示外围茸皮（棕红色）和内部海绵状骨质（淡粉色带血斑）；麝香：暗褐色颗粒状，装入白瓷青花小瓶中；灵芝：紫芝完整子实体，菌盖肾形半圆形，表面紫黑色有漆样光泽，菌柄侧生。药柜背景满墙蒙汉双语药名标签。16:9。工笔静物。
 
 ---
 
 ## 🖼️ 构图指南 (Composition Guide)
 
-静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。
+人参居中占画面30%，鹿茸片、麝香瓶、灵芝围绕陈列各占约10%。药柜背景虚化占40%。每味药材的鉴别特征须清晰可辨——人参芦头与须根、鹿茸血斑、麝香颗粒、灵芝漆样光泽。工笔超精细描绘药材表面纹理。
 
 ---
 
 ## 💡 光影设计 (Lighting Design)
 
-bright overhead sun, strong contrast, vivid colors, sharp shadows
+御药房窗光——高窗射入的日光，经纸窗柔化。名贵药材有柔和的立体阴影。灵芝表面有漆样高光反射。
 
 ---
 
 ## 🎨 色彩方案 (Color Palette)
 
-浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。
+重彩设色——人参以赭石+焦茶表现黄褐色表皮与细纹。鹿茸以胭脂+淡赭表现棕红茸皮与粉红骨质。麝香以焦茶暗褐颗粒。灵芝以焦墨+花青表现紫黑漆面。药柜木纹以焦茶。瓷瓶以白底青花（石青）。
 
 ---
 
 ## 🔑 关键元素 (Key Elements)
 
-案上陈列多种有毒药材——乌头（附子）、马钱子、砒霜（砒石）、朱砂、旁边有银针试毒工具、标注每味药材的拉丁名和毒性、
+全须全尾人参（芦头芦碗须根完整）、梅花鹿茸横切片（血斑）、白瓷青花麝香瓶、紫芝完整子实体（漆样光泽）、蒙汉双语药柜背景
 
 ---
 
 ## 😌 情绪氛围 (Mood & Atmosphere)
 
-cinematic grandeur, sweeping scale, dramatic tension
+imperial opulence, connoisseur precision, medicinal treasure
 
 
 ## 🎨 通用风格指南 (Universal Style Guide)
@@ -104,12 +104,12 @@ cinematic grandeur, sweeping scale, dramatic tension
 
 ### 中文提示词 (Chinese Prompt)
 ```
-赵敏 · 第十二拍大都宫闱 · 帧3（医学特写）。【毒药辨识】案上陈列多种有毒药材——乌头（附子）、马钱子、砒霜（砒石）、朱砂。旁边有银针试毒工具。标注每味药材的拉丁名和毒性。16:9。工笔静物。 构图：静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 光影：bright overhead sun, strong contrast, vivid colors, sharp shadows 色彩：浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 风格：Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision，中国工笔人物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
+赵敏 · 第十二拍大都宫闱 · 帧3（医学特写）。元宫御药房案上陈列名贵中药——人参：全须全尾的完整根茎，芦头、芦碗、主根、侧根、须根齐全，表皮黄褐色有细密横纹；鹿茸：梅花鹿茸横切片，显示外围茸皮（棕红色）和内部海绵状骨质（淡粉色带血斑）；麝香：暗褐色颗粒状，装入白瓷青花小瓶中；灵芝：紫芝完整子实体，菌盖肾形半圆形，表面紫黑色有漆样光泽，菌柄侧生。药柜背景满墙蒙汉双语药名标签。16:9。工笔静物。 构图：人参居中占画面30%，鹿茸片、麝香瓶、灵芝围绕陈列各占约10%。药柜背景虚化占40%。每味药材的鉴别特征须清晰可辨——人参芦头与须根、鹿茸血斑、麝香颗粒、灵芝漆样光泽。工笔超精细描绘药材表面纹理。 光影：御药房窗光——高窗射入的日光，经纸窗柔化。名贵药材有柔和的立体阴影。灵芝表面有漆样高光反射。 色彩：重彩设色——人参以赭石+焦茶表现黄褐色表皮与细纹。鹿茸以胭脂+淡赭表现棕红茸皮与粉红骨质。麝香以焦茶暗褐颗粒。灵芝以焦墨+花青表现紫黑漆面。药柜木纹以焦茶。瓷瓶以白底青花（石青）。 风格：Chinese Gongbi (工笔) still-life painting — fine brushwork, detailed outlines, layered colors, botanical precision, medical illustration accuracy，中国工笔静物画结合写意山水背景，金庸武侠美学，元代历史考据，博物馆级精细度，16:9横构图。
 ```
 
 ### English Prompt
 ```
-Zhao Min - 第十二拍大都宫闱 - Frame 3: 【毒药辨识】案上陈列多种有毒药材——乌头（附子）、马钱子、砒霜（砒石）、朱砂。旁边有银针试毒工具。标注每味药材的拉丁名和毒性。16:9。工笔静物。. 【毒药辨识】案上陈列多种有毒药材——乌头（附子）、马钱子、砒霜（砒石）、朱砂。旁边有银针试毒工具。标注每味药材的拉丁名和毒性。16:9。工笔静物。 Composition: 静物/道具特写。聚焦于医学相关的物品——药材、医具、人体局部（如把脉的手、针灸的穴位、舌象等）。物品占画面60-70%。使用浅景深效果（焦点清晰、背景虚化）——以中国画"虚实相生"的方式实现（工笔精确描绘主体，写意虚化背景）。画面需要达到医学插画级别的准确性——所有医学细节（经络、穴位、药材形态）必须正确。 Lighting: bright overhead sun, strong contrast, vivid colors, sharp shadows Color palette: 浅绛设色——以水墨为骨，淡赭石和花青渲染。色彩淡雅含蓄，注重"色不碍墨"——颜色不压过墨线的表现力。赭石暖调为主，花青冷调为辅。 Style: Chinese Gongbi (工笔) figure painting — fine brushwork, detailed outlines, layered colors, precise facial features and clothing patterns medical illustration precision, Chinese gongbi figure painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
+Zhao Min - Level 12 Imperial Palace of Dadu - Frame 3 (Medical Close-up). Precious Chinese medicinal herbs displayed on the imperial pharmacy workbench — Renshen (Ginseng): a complete root with intact rhizome head (lutou), stem scars (luwan), main root, lateral roots, and fibrous rootlets all present, epidermis yellowish-brown with fine transverse striations; Lurong (Deer Antler): transverse slices of sika deer velvet antler, showing outer antler velvet skin (brownish-red) and inner spongy bony tissue (pale pink with blood spots); Shexiang (Musk): dark brown granular form, contained in a white porcelain blue-and-white (qinghua) small bottle; Lingzhi (Reishi/Ganoderma): a complete fruiting body of purple Ganoderma (Zizhi), cap kidney-shaped and semicircular, surface purplish-black with lacquer-like gloss, stipe laterally attached. Background: full-wall herbal cabinet with Mongolian-Chinese bilingual drug name labels. 16:9. Gongbi still-life. Composition: Ginseng centered occupying 30% of frame, deer antler slices, musk bottle, and Ganoderma arranged around it each occupying approximately 10%. Background herbal cabinet blurred 40%. Each herb's identifying characteristics must be clearly discernible — ginseng's rhizome head and fibrous roots, deer antler blood spots, musk granules, Ganoderma lacquer-like luster. Gongbi ultra-fine precision rendering herb surface textures. Lighting: Imperial pharmacy window light — daylight entering from a high window, softened through paper screens. Precious herbs have soft three-dimensional shadows. Ganoderma surface shows lacquer-like specular highlight reflections. Color palette: Heavy color (重彩) application — ginseng in burnt sienna + burnt tea brown for yellowish-brown epidermis and striations. Deer antler in rouge + light burnt sienna for brownish-red velvet skin and pink bony tissue. Musk in burnt tea dark brown granules. Ganoderma in burnt ink + indigo blue for purplish-black lacquer surface. Cabinet wood grain in burnt tea brown. Porcelain bottle in white ground with blue-and-white underglaze (azurite blue). Style: Chinese Gongbi (工笔) still-life painting — fine brushwork, detailed outlines, layered colors, botanical precision, medical illustration accuracy. Chinese gongbi still-life painting with xieyi landscape background, Jin Yong wuxia aesthetic, Yuan Dynasty historical accuracy, museum-quality fine art, 16:9 horizontal composition, highly detailed, classical Chinese painting technique.
 ```
 
 ---
