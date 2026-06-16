@@ -346,7 +346,7 @@ const GAME = {
     bodyHtml += `
       <div id="answer-result" class="answer-result" style="display:none;">
         <div id="explanation-text" class="explanation"></div>
-        <span id="ref-toggle" class="ref-toggle" onclick="GAME.toggleAnswerRef()">📚 展开参考文献</span>
+        <button type="button" id="ref-toggle" class="ref-toggle" aria-expanded="false">📚 展开参考文献</button>
         <div id="ref-content" class="ref-content"></div>
         <div style="text-align:center;margin-top:1em;">
           <button id="btn-continue" class="btn btn-gold">继续前行 →</button>
@@ -457,6 +457,8 @@ const GAME = {
 
     if (refContent && question.references && question.references.length > 0) {
       refToggle.style.display = 'inline-block';
+      refToggle.textContent = '📚 展开参考文献';
+      refToggle.setAttribute('aria-expanded', 'false');
       refContent.innerHTML = '<ol>' + question.references.map(r =>
         `<li>${r}</li>`
       ).join('') + '</ol>';
@@ -472,7 +474,13 @@ const GAME = {
 
   toggleAnswerRef() {
     const content = document.getElementById('ref-content');
-    if (content) content.classList.toggle('open');
+    const toggle = document.getElementById('ref-toggle');
+    if (!content) return;
+    const isOpen = content.classList.toggle('open');
+    if (toggle) {
+      toggle.textContent = isOpen ? '📚 收起参考文献' : '📚 展开参考文献';
+      toggle.setAttribute('aria-expanded', String(isOpen));
+    }
   },
 
   continueAfterQuestion() {
