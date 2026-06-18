@@ -459,9 +459,9 @@ const GAME = {
       refToggle.style.display = 'inline-block';
       refToggle.textContent = '📚 展开参考文献';
       refToggle.setAttribute('aria-expanded', 'false');
-      refContent.innerHTML = '<ol>' + question.references.map(r =>
-        `<li>${r}</li>`
-      ).join('') + '</ol>';
+      refContent.innerHTML = '<div class="gb-reference-list">' + question.references.map(r =>
+        `<p>${r}</p>`
+      ).join('') + '</div>';
       refContent.classList.remove('open');
     } else if (refToggle) {
       refToggle.style.display = 'none';
@@ -647,7 +647,7 @@ const GAME = {
     if (refs.length === 0) {
       content.innerHTML = '<p style="color:#4f3a2d;">当前关卡暂无参考文献。</p>';
     } else {
-      content.innerHTML = '<ol>' + refs.map(r => `<li style="margin-bottom:0.5em;">${r}</li>`).join('') + '</ol>';
+      content.innerHTML = '<div class="gb-reference-list">' + refs.map(r => `<p>${r}</p>`).join('') + '</div>';
     }
   },
 };

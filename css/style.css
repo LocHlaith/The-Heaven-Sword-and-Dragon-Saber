@@ -396,8 +396,10 @@ body {
   border-radius: 6px;
 }
 .ref-content.open { display: block; }
-.ref-content ol { padding-left: 1.5em; }
-.ref-content li { margin-bottom: 0.3em; }
+.gb-reference-list p {
+  margin: 0 0 0.55em;
+  overflow-wrap: anywhere;
+}
 
 /* --- Ending Screen --- */
 #ending-screen {
