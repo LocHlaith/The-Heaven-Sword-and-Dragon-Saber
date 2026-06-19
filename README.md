@@ -29,18 +29,23 @@
 
 ### 环境要求
 
+- Node.js 18 或更高版本
 - 现代浏览器（Chrome / Edge / Firefox）
-- 如需简答题AI对话功能：DeepSeek API Key（已配置于 `.env`）
+- 如需简答题 AI 对话功能：DeepSeek API Key
 
 ### 运行方式
 
-1. 直接在浏览器中打开 `index.html`
-2. 或使用本地服务器：
+1. 将 `.env.example` 复制为 `.env`，填入新建的 DeepSeek API Key：
    ```bash
-   # Python 3
-   python -m http.server 8080
-   # 然后访问 http://localhost:8080
+   DEEPSEEK_API_KEY=你的API密钥
    ```
+2. 在项目根目录启动：
+   ```bash
+   npm start
+   ```
+3. 浏览器访问 `http://127.0.0.1:8080`。
+
+请勿把 `.env` 上传、转发或截图。API Key 仅由本地服务端读取，不会发送到浏览器。
 
 ### 文件结构
 
@@ -53,9 +58,11 @@ The-Heaven-Sword-and-Dragon-Saber/
 │   ├── game-engine.js      # 游戏引擎（状态管理、对话系统、API调用）
 │   ├── game-data.js        # 游戏数据（前10关：赵敏1-10 + 周芷若1-6）
 │   └── game-data-part2.js  # 游戏数据（后8关：赵敏11-18 + 周芷若7-18）
+├── server.js               # 本地静态服务器与 DeepSeek 安全代理
+├── package.json            # npm start 启动命令
 ├── images/                 # 插图文件夹（占位符）
 ├── image-prompts.md        # AI插图生成提示词（GPT-4o / DALL·E 3）
-├── .env                    # DeepSeek API Key
+├── .env.example            # 环境变量示例（请复制为不入库的 .env）
 ├── 期末大作业要求.md        # 课程作业要求
 └── Codex与deepseek必读.md  # 项目设计说明
 ```

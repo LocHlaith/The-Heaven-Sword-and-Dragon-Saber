@@ -1,0 +1,12 @@
+{
+  "name": "the-heaven-sword-and-dragon-saber",
+  "private": true,
+  "version": "1.0.0",
+  "description": "《倚天屠龙记·胡笳十八拍》女性健康科普互动游戏",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

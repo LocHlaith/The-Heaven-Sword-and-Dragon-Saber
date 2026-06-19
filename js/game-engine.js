@@ -13,6 +13,7 @@ const GAME = {
     questionAnswered: false,
     totalCorrect: 0,
     currentQuestion: null,
+    chatHistory: [],
   },
 
   // DOM cache
@@ -158,6 +159,7 @@ const GAME = {
     this.state.dialogueIndex = 0;
     this.state.questionAnswered = false;
     this.state.currentQuestion = null;
+    this.state.chatHistory = [];
 
     // Update UI
     this.updateProgressDots();
@@ -325,6 +327,7 @@ const GAME = {
   // --- Question System ---
   showQuestion(question) {
     this.state.currentQuestion = question;
+    this.state.chatHistory = [];
     this.dom.questionPanel.classList.remove('hidden');
 
     const card = this.dom['question-card'];
@@ -448,9 +451,14 @@ const GAME = {
     resultDiv.classList.add('animate-in');
 
     if (explainEl) {
-      let text = isCorrect
-        ? '✅ <strong>回答正确！</strong>'
-        : `❌ <strong>回答错误。</strong>正确答案是<strong>${question.options ? question.options[question.correctIndex] : ''}</strong>。`;
+      let text;
+      if (question.type === 'short_answer') {
+        text = '✅ <strong>已完成本轮讨论。</strong>';
+      } else {
+        text = isCorrect
+          ? '✅ <strong>回答正确！</strong>'
+          : `❌ <strong>回答错误。</strong>正确答案是<strong>${question.options ? question.options[question.correctIndex] : ''}</strong>。`;
+      }
       text += `<br><br>${question.explanation || ''}`;
       explainEl.innerHTML = text;
     }
@@ -501,14 +509,17 @@ const GAME = {
     input.value = '';
 
     this.appendChatMsg('user', userMsg);
+    this.state.chatHistory.push({ role: 'user', content: userMsg });
 
-    const container = document.getElementById('chat-container');
-    const loadingMsg = this.appendChatMsg('ai', '<span class="spinner"></span> 思考中……');
+    const loadingMsg = this.appendChatMsg('ai', '思考中……');
 
     try {
-      const response = await this.callDeepSeek(userMsg);
+      const response = await this.callDeepSeek();
       if (loadingMsg) loadingMsg.remove();
       this.appendChatMsg('ai', response);
+      this.state.chatHistory.push({ role: 'assistant', content: response });
+      const finishButton = document.getElementById('btn-skip-sa');
+      if (finishButton) finishButton.textContent = '结束对话并查看解析 ▸';
     } catch (err) {
       if (loadingMsg) loadingMsg.remove();
       this.appendChatMsg('ai', '（与医仙的联络暂时中断，请稍后再试，或跳过此题继续前行。）');
@@ -520,36 +531,26 @@ const GAME = {
     if (!container) return null;
     const div = document.createElement('div');
     div.className = `chat-msg ${role}`;
-    div.innerHTML = text;
+    div.textContent = text;
     container.appendChild(div);
     container.scrollTop = container.scrollHeight;
     return div;
   },
 
-  async callDeepSeek(userMessage) {
+  async callDeepSeek() {
     const question = this.state.currentQuestion;
     const systemPrompt = question?.deepseekPrompt || '你是一位精通中医与西医的医者，请用半文半白的语言风格，回答关于女性健康的问题。';
 
-    const apiKey = DEEPSEEK_CONFIG.apiKey;
-    if (!apiKey || apiKey === 'YOUR_API_KEY_HERE') {
-      // Simulated response for development
-      return this.simulateResponse(userMessage);
-    }
-
-    const response = await fetch(DEEPSEEK_CONFIG.apiUrl, {
+    const response = await fetch('/api/deepseek', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${apiKey}`,
       },
       body: JSON.stringify({
-        model: DEEPSEEK_CONFIG.model,
         messages: [
           { role: 'system', content: systemPrompt },
-          { role: 'user', content: userMessage },
+          ...this.state.chatHistory,
         ],
-        temperature: 0.7,
-        max_tokens: 500,
       }),
     });
 
@@ -558,7 +559,7 @@ const GAME = {
     }
 
     const data = await response.json();
-    return data.choices?.[0]?.message?.content || '（医仙沉吟片刻，未发一言。）';
+    return data.content || '（医仙沉吟片刻，未发一言。）';
   },
 
   simulateResponse(userMessage) {
@@ -573,6 +574,17 @@ const GAME = {
   },
 
   skipShortAnswer() {
+    const hasAnswered = this.state.chatHistory.some(message => message.role === 'user');
+    if (hasAnswered) {
+      this.state.branch.push({ level: this.state.levelIndex, shortAnswerCompleted: true });
+      this.showAnswerResult(this.state.currentQuestion, true);
+      const inputRow = document.querySelector('.chat-input-row');
+      if (inputRow) inputRow.style.display = 'none';
+      const skipButton = document.getElementById('btn-skip-sa');
+      if (skipButton) skipButton.style.display = 'none';
+      return;
+    }
+
     // Mark as answered (skipped)
     this.state.questionAnswered = true;
     this.state.branch.push({ level: this.state.levelIndex, skipped: true });
@@ -601,9 +613,10 @@ const GAME = {
     // Calculate score
     const totalMC = this.state.branch.filter(b => b.correct !== undefined).length;
     const correctMC = this.state.branch.filter(b => b.correct === true).length;
+    const completedSA = this.state.branch.filter(b => b.shortAnswerCompleted).length;
     const skipped = this.state.branch.filter(b => b.skipped).length;
     document.getElementById('ending-score').textContent =
-      `选择题：${correctMC}/${totalMC} 正确 · 简答题：${skipped} 题跳过（不计分）`;
+      `选择题：${correctMC}/${totalMC} 正确 · 简答题：${completedSA} 题完成，${skipped} 题跳过（不计分）`;
 
     this.showScreen('ending');
   },
@@ -616,6 +629,7 @@ const GAME = {
     this.state.totalCorrect = 0;
     this.state.questionAnswered = false;
     this.state.currentQuestion = null;
+    this.state.chatHistory = [];
     this.state.selectedOption = undefined;
     this.dom.questionPanel.classList.add('hidden');
     this.showScreen('title');
@@ -650,13 +664,6 @@ const GAME = {
       content.innerHTML = '<div class="gb-reference-list">' + refs.map(r => `<p>${r}</p>`).join('') + '</div>';
     }
   },
-};
-
-// --- DeepSeek Configuration ---
-const DEEPSEEK_CONFIG = {
-  apiKey: 'sk-c5697b4a61a748bdb66dbfb198d97dc8',
-  apiUrl: 'https://api.deepseek.com/v1/chat/completions',
-  model: 'deepseek-chat',
 };
 
 // --- Initialize on load ---

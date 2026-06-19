@@ -23,6 +23,15 @@ venv/
 # Build output
 dist/
 build/
+*.aux
+*.bcf
+*.blg
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.bbl
+/paper/main.pdf
 
 # Temp files
 *.tmp
