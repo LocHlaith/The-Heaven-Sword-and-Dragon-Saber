@@ -3,7 +3,26 @@
 \documentclass[lang=cn,a4paper,11pt,citestyle=gb7714-2015,bibstyle=gb7714-2015]{elegantpaper}
 
 \title{科普作品说明文档\\———以女性健康为主题的交互式小游戏}
-\author{张天羽\\College of CSE}
+\newfontfamily\collegefont{texgyretermes}[
+  UprightFont = *-regular,
+  BoldFont = *-bold,
+  ItalicFont = *-italic,
+  BoldItalicFont = *-bolditalic,
+  Extension = .otf,
+  LetterSpace = 1.2
+]
+\newcommand{\collegewordmark}{{%
+  \collegefont\color{winered}%
+  \raisebox{-1.2pt}{\fontsize{24}{24}\selectfont C}%
+  \raisebox{2.1pt}{\fontsize{16}{16}\selectfont ollege}%
+  \hspace{0.18em}%
+  \raisebox{-2.4pt}{\fontsize{11}{11}\selectfont of}%
+  \hspace{0.18em}%
+  \raisebox{1.6pt}{\fontsize{22}{22}\selectfont C}%
+  \raisebox{-2.0pt}{\fontsize{17}{17}\selectfont S}%
+  \raisebox{2.4pt}{\fontsize{23}{23}\selectfont E}%
+}}
+\author{张天羽\\[0.35em]\collegewordmark}
 \institute{《中西医学与美学》课程期末大作业}
 \date{\zhdate{2026/6/20}}
 
@@ -19,15 +38,54 @@
 \usepackage{caption}
 \usepackage{ragged2e}
 \usepackage{needspace}
+\usepackage{fancyhdr}
 \addbibresource[location=local]{reference.bib}
 \graphicspath{{assets/}{../images/}}
 \setlist{nosep}
 \setlength{\emergencystretch}{3em}
 \setcounter{tocdepth}{2}
+\geometry{top=1in,headheight=16pt,headsep=12pt}
+\counterwithin{figure}{section}
+\renewcommand{\thefigure}{\thesection-\arabic{figure}}
+\renewcommand{\theHfigure}{\thesection.\arabic{figure}}
 \IfFontExistsTF{Segoe UI Emoji}
   {\newfontfamily\emojifont{Segoe UI Emoji}}
   {\newfontfamily\emojifont{SimSun}}
 \newcommand{\promptemoji}[1]{{\emojifont #1}}
+\newcommand{\galleryitem}[3]{%
+  \noindent
+  \begin{minipage}[t][0.255\textheight][c]{0.49\linewidth}
+    \centering
+    \includegraphics[width=\linewidth,height=0.185\textheight,keepaspectratio]{#1}
+  \end{minipage}\hfill
+  \begin{minipage}[t][0.255\textheight][c]{0.47\linewidth}
+    \captionsetup{font=footnotesize,skip=0pt,hypcap=false}
+    \captionof{figure}{#2}\label{#3}
+  \end{minipage}\par\vfill
+}
+\newcommand{\plotframe}[5]{%
+  \noindent
+  \begin{minipage}[t][0.255\textheight][c]{0.49\linewidth}
+    \centering
+    \includegraphics[width=\linewidth,height=0.185\textheight,keepaspectratio]{#1}\par
+    \captionsetup{font=scriptsize,skip=1pt,hypcap=false}
+    \captionof{figure}{#2}\label{#3}
+  \end{minipage}\hfill
+  \begin{minipage}[t][0.255\textheight][c]{0.47\linewidth}
+    #4\RaggedRight #5
+  \end{minipage}\par\vfill
+}
+
+\fancypagestyle{paperstyle}{%
+  \fancyhf{}
+  \fancyhead[L]{\scriptsize 张天羽 3240103613}
+  \fancyhead[C]{\scriptsize 中西医学与美学}
+  \fancyhead[R]{\scriptsize \nouppercase{\leftmark}}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0.5pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+\renewcommand{\sectionmark}[1]{\markboth{\thesection\quad #1}{}}
 
 \lstdefinestyle{code}{
   basicstyle=\ttfamily\small,
@@ -41,6 +99,7 @@
 
 \begin{document}
 \maketitle
+\pagestyle{paperstyle}
 
 \begin{abstract}
 本作以金庸小说《倚天屠龙记》的人物关系与历史氛围为叙事资源，借蔡文姬《胡笳十八拍》的章法，将女性全生命周期健康知识组织为一款双路线、三十六关的网页交互游戏。玩家选择赵敏或周芷若，在各自十八拍的生命叙事中完成选择题与可跳过的多轮简答，接触月经、妊娠与产后、围绝经期、骨骼、乳腺与宫颈健康、心理照护、药物安全、运动和急救等议题。作品坚持中西医知识分层表达：传统医学说明其经典来源、辨证方法与适用边界，现代医学优先依据近年指南、系统评价和权威机构资料；关卡依据以页脚注就近呈现，文末另附完整资料总表。视觉系统采用工笔人物与写意山水相结合的生成式图像方案，通过人物连续性表、五帧分镜语法和事实核查流程控制风格与内容。技术上以原生 HTML、CSS、JavaScript 构建状态机，并通过服务端代理支持生成式模型参与可跳过的多轮健康讨论。合规性审查、AI 使用声明及完整工作流程见第\ref{sec:ai-compliance}节。作品试图说明，医学科普可以同时保持事实的硬度、叙事的温度与视觉的余韵。
@@ -48,6 +107,10 @@
 \keywords{女性健康；中西医结合；医学科普；严肃游戏；叙事传播；生成式人工智能}
 \end{abstract}
 
+\clearpage
+\input{usage.tex}
+
+\clearpage
 \tableofcontents
 
 \clearpage
@@ -168,12 +231,9 @@ Adobe Firefly 建议使用直接、描述性的语言并反复迭代，避免把
 
 在全部人物提示词中，我选择周芷若终章《白莲重生》作为完整样本。它不是技术参数最多的一份，却最能体现本项目希望达到的统一：人物命运、植物物候、身体动作、绘画传统与医学人文被组织在同一画面中。图\ref{fig:selected-prompt-result}为提示词对应的人物图。
 
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.92\linewidth,height=0.62\textheight,keepaspectratio]{assets/characters/zhouzhiruo/portrait_18.jpg}
-  \caption{周芷若终章《白莲重生》。不同生长阶段的白莲构成生命循环，赤足掬水与素白麻衣削弱掌门身份的外壳，使重生落实为身体重新接触自然与日常。}
-  \label{fig:selected-prompt-result}
-\end{figure}
+\galleryitem{assets/characters/zhouzhiruo/portrait_18.jpg}
+  {周芷若终章《白莲重生》。不同生长阶段的白莲构成生命循环，赤足掬水与素白麻衣削弱掌门身份的外壳，使重生落实为身体重新接触自然与日常。}
+  {fig:selected-prompt-result}
 
 \subsubsection{提示词全文}
 
@@ -211,14 +271,14 @@ Adobe Firefly 建议使用直接、描述性的语言并反复迭代，避免把
 
 \subsubsection{AI 使用声明}
 
-生成式人工智能参与三类工作：辅助整理图像提示词并生成角色与场景插图；在简答关卡中根据既定角色提示和医学安全规则提供可跳过的多轮回应；协助代码检查、资料整理与文稿修订。人物设定、关卡结构、医学结论、参考文献选择、提示词取舍、生成图筛选、正文论证与最终责任均由作者承担。AI 输出不被视为事实来源，所有医学内容仍须回到可核验文献；对话模型的即时回复不进入固定答案库，也不能替代专业医务人员的判断。
+情节构思与撰写、人物旁白与对白、关卡题目及答案、医学与原著参考文献的检索和逐条验证，均由作者独立完成，未借助人工智能生成或核验。生成式人工智能参与的工作限于：辅助整理图像提示词并生成角色与场景插图；在简答关卡运行时，根据作者预先写定的角色提示和医学安全规则提供可跳过的多轮回应；协助程序调试、版式实现与非实质性的文字校对。AI 不参与医学事实判定，也不作为参考文献来源。所有固定医学内容、证据选择、图像筛选和作品最终责任均由作者承担；对话模型的即时回复不进入固定答案库，更不能替代专业医务人员的判断。
 
 \subsubsection{完整工作流程}
 
 \begin{enumerate}[leftmargin=*]
   \item 阅读课程要求，确定交互式科普作品的目标受众、健康主题与评价边界。
-  \item 梳理原著人物、事件和时代背景，建立赵敏、周芷若两条十八拍叙事路线。
-  \item 为每关选择女性健康议题，检索并核对中医经典、现代指南和近年研究，随后设计题干、干扰项、解析与求医边界。
+  \item 作者独立梳理原著人物、事件和时代背景，完成赵敏、周芷若两条十八拍叙事路线及全部旁白、对白。
+  \item 作者独立选择各关女性健康议题，检索并逐条核对中医经典、现代指南和近年研究，随后完成题干、干扰项、解析、参考文献与求医边界。
   \item 将剧情拆解为五帧分镜，建立人物连续性表与通用美术规范，撰写提示词、生成图像并检查时代器物、人物肢体和医学动作。
   \item 以 HTML、CSS、JavaScript 实现关卡状态、答题反馈、资料展开与路线结局，并通过服务端代理隔离模型接口配置。
   \item 进行功能测试、医学事实复核、素材与隐私审查，再由生成脚本将关卡图、人物图、脚注和资料总表写入论文。
@@ -295,43 +355,33 @@ messages = [
 \input{generated/short-answer.tex}
 
 \clearpage
-\section{使用方式}
-
-\subsection{代码包的移动规则}
-
-评阅者收到的是完整项目文件夹。下载、解压缩、复制、移动或删除时，应始终把最外层文件夹视为一个整体，不单独挪动其中的 \path{js/}、\path{css/}、\path{images/} 等目录；网页通过相对路径加载脚本、样式和图片，内部层级改变后会出现缺图或无法运行。
-
-\subsection{本地运行}
-
-\begin{enumerate}[leftmargin=*]
-  \item 安装 Node.js 18 或更高版本。
-  \item 将项目完整解压到任意位置，进入最外层文件夹。
-  \item 如需体验生成式模型支持的简答对话，可将 \path{.env.example} 复制为本地 \path{.env}，并按文件说明填写个人私有访问凭据。\path{.env} 不应上传、提交或转发。
-  \item 在文件夹空白处打开终端，运行 \texttt{npm start}。
-  \item 浏览器访问 \url{http://127.0.0.1:8080}。
-  \item 结束体验时关闭终端窗口即可。
-\end{enumerate}
-
-不配置模型接口时，剧情、图片、选择题、固定解析和参考资料仍可正常使用，简答讨论可以跳过。若运行出现问题，可通过钉钉或电话联系张天羽：19706101056。
-
-\subsection{在线访问}
-
-\begin{center}
-\url{https://loclhaith.github.io/The-Heaven-Sword-and-Dragon-Saber/}
-\end{center}
-
-该地址由 GitHub Pages 发布仓库中的静态网页。平台默认使用用户名与仓库名组成的路径，也支持另行购买并配置自定义域名\cite{githubpages,githubdomain}。本项目未额外配置域名，因此保留平台默认地址。
-
-中国大陆访问 GitHub 及其静态资源时，速度可能受跨境网络路由、时段、地区与图片体积影响。最稳定的方式是下载完整代码包后本地运行；若所在学校或机构提供依法合规的国际网络访问环境，也可按其规范使用。在线版本适合浏览剧情、图片、选择题和资料，完整的服务端简答体验以本地运行方式为准。
-
-\clearpage
+\stepcounter{section}% “使用方式”为无序号前置章，仍保留后续既定章序。
 \section{总结与展望}
 
-这项作品最重要的收获，不是把三十六道题放进一个武侠外壳，而是逐渐认识到：科普的准确、审美和同理心必须同时被设计。只有准确，作品可能正确却无人愿读；只有故事，作品可能动人却误导行动；只有技术，作品可能新奇却没有立场。真正困难之处，在于让各环节互相校正：情节提出医学问题，文献限制戏剧夸张，交互照顾受众节奏，图像把抽象知识转译为可感经验，结局重新回答为何要讨论女性健康。
+\subsection{总结}
 
-当前版本仍有边界。人物路线只覆盖两种文学人生，尚不能代表更多年龄、职业、地域、残障与照护经验；学习效果主要由答题记录反映，尚未开展前后测、延迟测验和真实受众访谈；生成式模型回复具有不确定性，必须由固定解析和权威来源兜底；生成图像仍需持续检查服饰年代、手部结构、药材形态和医学动作。
+《中西医学与美学》给予我的并不是把中医、西医和艺术并排陈列的任务，而是一种更严格的课程思维：医学决定什么必须真实，美学决定真实如何被感知，人文关怀决定这些知识最终为谁服务。三者缺一，作品都会失去正当性。没有医学核验，美可能成为危险的修辞；没有审美转译，正确知识可能停留在无人愿意接近的墙后；没有对人的尊重，技术越精巧，越可能把身体变成被观察、被评分和被规训的对象。
 
-后续可从四方面推进：邀请医学教师逐题复核并建立修订记录；招募不同专业和健康素养水平的同学开展可用性测试；加入无障碍模式、字幕朗读、低带宽图片和移动端优化；在不把健康游戏变成焦虑机器的前提下，增加错题回顾、个人知识地图与匿名反馈。希望它最终不只是一份期末作业，而是一件可以继续被修正、被分享，也确实对人有一点用的作品。
+本作以十八拍组织知识，不是把古典文学当作包装，而是承认人的身体总在时间、记忆与历史中发生。月经、妊娠、衰老、创伤和疾病从来不是孤立的生理事件；它们与战争、阶层、家庭、劳动、羞耻、权力和选择彼此纠缠。工笔的细察、写意的留白、叙事的回环与文献的脚注，共同训练一种观看伦理：既不回避身体的痛，也不把痛苦变成供人消费的奇观；既承认疾病的客观性，也不让病名夺走一个人的主体性。
+
+中西医结合在这里也不是彼此讨好的辞藻。传统医学提供整体、时序、地域和情志相互作用的观察方式；现代医学提供风险分层、检验标准、干预证据和急救边界。真正的结合不是强行对应，而是在各自可证、可用、可负责的范围内共同回答一个朴素而艰难的问题：面对一个具体的人，怎样的知识能够减少伤害，怎样的表达能够保存尊严，怎样的行动能够把选择权归还给她自己。
+
+因此，这项作品的价值不在三十六道题、二百余幅图或一套网页代码，而在它坚持了一条底线：女性健康不能只在患病时才被看见，女性的疼痛不能因常见而被轻视，女性的身体也不应成为任何传统、技术或审美任意书写的纸张。医学的最高准确，不只是说对一个结论；还包括在需要求助时指出道路，在证据不足时承认边界，在一个人最脆弱时不撤回尊重。
+
+\subsection{展望}
+
+\begin{quote}
+\centering\large\kaishu
+十八拍兮曲虽终，响有余兮思无穷。
+\par\smallskip
+\normalfont\normalsize ——《胡笳十八拍》第十八拍\cite{guo1979yuefu}
+\end{quote}
+
+曲终不是责任的终点，余响才是作品进入现实的开始。下一阶段首先不是继续堆叠功能，而是建立一套能够被追问的医学内容治理机制：邀请妇产科、中医、公共卫生与心理健康专业人员交叉复核；记录每次资料更新、争议判断和修订理由；对急症、筛查、用药与传统疗法设置不同风险等级；让任何一句可能影响健康行动的话都能追溯到证据、作者和版本。
+
+与此同时，作品必须走出赵敏与周芷若的有限生命经验。未来的角色应包括青春期少女、孕产妇、围绝经期女性、残障女性、照护者、基层劳动者以及不同地域和文化背景的人。无障碍朗读、低带宽模式、方言与多语支持，也不是锦上添花，而是决定谁有资格获得知识的公平问题。传播效果亦不能只由点击量证明，应通过前后测、延迟测验、访谈和误解残留分析，判断作品是否真的提升了识别风险、寻求帮助与作出知情选择的能力。
+
+我希望十八拍之后留下的，不是一阵关于 AI、武侠或视觉奇观的热闹，而是一种不肯沉默的公共立场：让被忽略的疼痛得到语言，让被羞耻包围的求助得到回应，让医学的准确与艺术的光共同照向那些最需要被看见的人。曲可以终，技术可以更新，页面可以关闭；但对生命的敬畏、对证据的忠诚、对尊严的守护，不应终场。
 
 \clearpage
 \section{参考文献}

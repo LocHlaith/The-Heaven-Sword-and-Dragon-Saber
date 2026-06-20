@@ -132,6 +132,8 @@ function generatePlots() {
   ];
 
   for (const [routeId, route] of Object.entries(game.routes)) {
+    let frameCount = 0;
+    out.push('\\clearpage');
     out.push(`\\subsection{${routeNames[routeId]}}`);
     out.push('');
 
@@ -139,35 +141,44 @@ function generatePlots() {
       const label = `plot:${routeId}:${index + 1}`;
       const questionLabel = `question:${routeId}:${index + 1}`;
       const no = levelNumber(index);
+      if (frameCount > 0 && frameCount % 3 === 0) {
+        out.push('\\clearpage', '');
+      }
       out.push(`\\subsubsection{${escapeTex(level.paiName)}·${escapeTex(level.title)}}\\label{${label}}`);
       out.push(`本关以${level.question.type === 'short_answer' ? '多轮简答' : '选择判断'}完成叙事向健康知识的转场，题目见\\hyperref[${questionLabel}]{第\\ref*{${questionLabel}}项}。`);
       out.push('');
 
       (level.images || []).forEach((image, frameIndex) => {
+        if (frameIndex > 0 && frameCount > 0 && frameCount % 3 === 0) {
+          out.push('\\clearpage', '');
+        }
         const frameNo = String(frameIndex + 1).padStart(2, '0');
-        out.push('\\Needspace{0.46\\textheight}');
-        out.push('\\begin{figure}[H]');
-        out.push('  \\centering');
-        out.push(`  \\includegraphics[width=0.92\\linewidth,height=0.46\\textheight,keepaspectratio]{assets/levels/${routeId}/level_${no}/frame_${frameNo}.jpg}`);
-        out.push(`  \\caption{${characterNames[routeId]}线${escapeTex(level.paiName)}《${escapeTex(level.title)}》第${frameIndex + 1}帧}`);
-        out.push(`  \\label{fig:level:${routeId}:${index + 1}:${frameIndex + 1}}`);
-        out.push('\\end{figure}');
-
         const dialogues = (level.dialogues || []).filter(
           dialogue => Number(dialogue.frameIdx) === Number(image.frameIdx ?? frameIndex),
         );
-        if (dialogues.length) {
-          out.push('\\begin{quote}\\small');
-          dialogues.forEach(dialogue => {
-            out.push(`\\textbf{${escapeTex(dialogue.speaker)}：}${escapeTex(dialogue.text)}\\par`);
-          });
-          out.push('\\end{quote}');
-        }
+        const dialogueLength = dialogues.reduce(
+          (total, dialogue) => total + stripHtml(dialogue.speaker).length + stripHtml(dialogue.text).length,
+          0,
+        );
+        const dialogueFont = dialogueLength > 155 ? '\\tiny' : '\\scriptsize';
+        const dialogueTex = dialogues.length
+          ? dialogues
+              .map(dialogue => `\\textbf{${escapeTex(dialogue.speaker)}：}${escapeTex(dialogue.text)}\\par`)
+              .join('\n')
+          : '\\mbox{}';
+
+        out.push(`\\plotframe{assets/levels/${routeId}/level_${no}/frame_${frameNo}.jpg}`);
+        out.push(`  {${characterNames[routeId]}线${escapeTex(level.paiName)}《${escapeTex(level.title)}》第${frameIndex + 1}帧}`);
+        out.push(`  {fig:level:${routeId}:${index + 1}:${frameIndex + 1}}`);
+        out.push(`  {${dialogueFont}}`);
+        out.push(`  {${dialogueTex}}`);
         out.push('');
+        frameCount += 1;
       });
     });
 
     const ending = route.ending;
+    out.push('\\clearpage');
     out.push(`\\subsubsection{路线结局：${escapeTex(ending.title)}}`);
     out.push(`\\textbf{结尾诗}\\begin{quote}${escapeTex(ending.poem)}\\end{quote}`);
     out.push(`\\textbf{结局文本}\\begin{quote}${escapeTex(ending.message)}\\end{quote}`);
@@ -234,18 +245,19 @@ function generateCharacterGallery() {
   ];
 
   for (const [routeId, route] of Object.entries(game.routes)) {
+    out.push('\\clearpage');
     out.push(`\\subsubsection{${characterNames[routeId]}人物图录}`);
     out.push('');
     route.levels.forEach((level, index) => {
       const no = levelNumber(index);
-      out.push('\\Needspace{0.72\\textheight}');
-      out.push('\\begin{figure}[H]');
-      out.push('  \\centering');
-      out.push(`  \\includegraphics[width=0.92\\linewidth,height=0.62\\textheight,keepaspectratio]{assets/characters/${routeId}/portrait_${no}.jpg}`);
-      out.push(`  \\caption{${characterNames[routeId]}第${index + 1}拍《${escapeTex(level.title)}》人物图。${escapeTex(portraitNotes[routeId][index])}}`);
-      out.push(`  \\label{fig:portrait:${routeId}:${index + 1}}`);
-      out.push('\\end{figure}');
+      const note = portraitNotes[routeId][index].replace(/^[^。]+。/, '');
+      out.push(`\\galleryitem{assets/characters/${routeId}/portrait_${no}.jpg}`);
+      out.push(`  {${characterNames[routeId]}第${index + 1}拍《${escapeTex(level.title)}》。${escapeTex(note)}}`);
+      out.push(`  {fig:portrait:${routeId}:${index + 1}}`);
       out.push('');
+      if ((index + 1) % 3 === 0 && index + 1 < route.levels.length) {
+        out.push('\\clearpage', '');
+      }
     });
   }
 
@@ -312,23 +324,12 @@ function generateSelectedPrompt() {
     '\\begingroup',
     '\\setlength{\\tabcolsep}{0pt}',
     '\\renewcommand{\\arraystretch}{1.08}',
-    '\\begin{longtable}{@{}>{\\RaggedLeft\\arraybackslash\\scriptsize}p{0.045\\linewidth}@{\\hspace{0.8em}}>{\\RaggedRight\\arraybackslash\\ttfamily\\tiny}p{0.91\\linewidth}@{}}',
+    '\\setlength{\\emergencystretch}{3em}',
+    '\\begin{longtable}{@{}>{\\RaggedLeft\\arraybackslash\\footnotesize}p{0.04\\linewidth}@{\\hspace{0.8em}}>{\\RaggedRight\\arraybackslash\\ttfamily\\scriptsize}p{0.935\\linewidth}@{}}',
   ];
 
   lines.forEach((line, lineIndex) => {
-    const characters = Array.from(line.replace(/\uFE0F/g, ''));
-    const chunks = [];
-    if (!characters.length) {
-      chunks.push('');
-    } else {
-      for (let offset = 0; offset < characters.length; offset += 88) {
-        chunks.push(characters.slice(offset, offset + 88).join(''));
-      }
-    }
-    chunks.forEach((chunk, chunkIndex) => {
-      const number = chunkIndex === 0 ? String(lineIndex + 1) : '';
-      out.push(`${number} & ${escapePromptChunk(chunk)}\\\\`);
-    });
+    out.push(`${lineIndex + 1} & ${escapePromptChunk(line)}\\\\`);
   });
 
   out.push('\\end{longtable}', '\\endgroup');

@@ -32,6 +32,7 @@ build/
 *.toc
 *.bbl
 /paper/main.pdf
+/paper/.miktex-user/
 
 # Temp files
 *.tmp
