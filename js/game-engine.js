@@ -9,11 +9,13 @@ const GAME = {
     character: null,
     levelIndex: 0,
     dialogueIndex: 0,
+    sceneStepIndex: 0,
     branch: [],         // track answers for branching
     questionAnswered: false,
     totalCorrect: 0,
     currentQuestion: null,
     chatHistory: [],
+    transitioning: false,
   },
 
   // DOM cache
@@ -30,7 +32,7 @@ const GAME = {
   cacheDom() {
     const ids = [
       'title-screen', 'char-select-screen', 'level-screen', 'ending-screen',
-      'question-panel', 'ref-panel',
+      'question-panel',
       'dialogue-box', 'dialogue-speaker', 'dialogue-text',
       'scene-image', 'scene-image-frame', 'frame-indicator',
       'level-indicator', 'progress-dots',
@@ -64,16 +66,6 @@ const GAME = {
     // Dialogue advance
     document.getElementById('btn-dialogue-next')?.addEventListener('click', () => this.advanceDialogue());
 
-    // Reference panel
-    document.getElementById('btn-ref-toggle')?.addEventListener('click', () => this.toggleRefPanel());
-    document.getElementById('btn-ref-close')?.addEventListener('click', () => this.toggleRefPanel(false));
-
-    // Question interaction
-    document.getElementById('btn-submit-mc')?.addEventListener('click', () => this.submitMC());
-    document.getElementById('btn-send-chat')?.addEventListener('click', () => this.sendChat());
-    document.getElementById('btn-skip-sa')?.addEventListener('click', () => this.skipShortAnswer());
-    document.getElementById('btn-continue')?.addEventListener('click', () => this.continueAfterQuestion());
-
     // Restart
     document.getElementById('btn-restart')?.addEventListener('click', () => this.restart());
     document.getElementById('btn-restart-ending')?.addEventListener('click', () => this.restart());
@@ -105,9 +97,6 @@ const GAME = {
       el.classList.add('active');
       this.state.screen = name;
     }
-    const refToggle = document.getElementById('btn-ref-toggle');
-    if (refToggle) refToggle.style.display = name === 'level' ? 'block' : 'none';
-    if (name !== 'level') this.toggleRefPanel(false);
   },
 
   getActiveScreen() {
@@ -143,6 +132,7 @@ const GAME = {
     this.state.character = charData;
     this.state.levelIndex = 0;
     this.state.dialogueIndex = 0;
+    this.state.sceneStepIndex = 0;
     this.state.branch = [];
     this.state.totalCorrect = 0;
     this.state.questionAnswered = false;
@@ -157,9 +147,11 @@ const GAME = {
       return;
     }
     this.state.dialogueIndex = 0;
+    this.state.sceneStepIndex = 0;
     this.state.questionAnswered = false;
     this.state.currentQuestion = null;
     this.state.chatHistory = [];
+    this.state.transitioning = false;
 
     // Update UI
     this.updateProgressDots();
@@ -210,6 +202,13 @@ const GAME = {
     return `images/levels/${charId}/level_${levelNo}/frame_${frameNo}.png`;
   },
 
+  getCharacterPortraitSrc(levelIndex = this.state.levelIndex) {
+    const charId = this.state.character?.id;
+    if (!charId) return '';
+    const portraitNo = String(levelIndex + 1).padStart(2, '0');
+    return `images/characters/${charId}/portrait_${portraitNo}.png`;
+  },
+
   updateSceneImage(frameIdx) {
     const level = this.getCurrentLevel();
     const imgEl = this.dom['scene-image'];
@@ -254,12 +253,28 @@ const GAME = {
     }
   },
 
+  getDialogueIndexForFrame(level, frameIndex) {
+    const frameCount = level?.images?.length || 0;
+    const dialogueCount = level?.dialogues?.length || 0;
+    if (dialogueCount <= 1 || frameCount <= 1) return 0;
+
+    // Spread existing dialogue beats across all five visual frames. If a level
+    // has fewer than five dialogue lines, the current line remains on screen
+    // while the image sequence continues forward.
+    return Math.round(frameIndex * (dialogueCount - 1) / (frameCount - 1));
+  },
+
   // --- Dialogue System ---
   renderDialogue() {
     const level = this.getCurrentLevel();
     if (!level) return;
 
-    const dialogue = level.dialogues[this.state.dialogueIndex];
+    const previousDialogueIndex = this.state.dialogueIndex;
+    const frameCount = level.images?.length || level.dialogues.length;
+    const frameIndex = Math.min(this.state.sceneStepIndex, Math.max(frameCount - 1, 0));
+    const dialogueIndex = this.getDialogueIndexForFrame(level, frameIndex);
+    const dialogue = level.dialogues[dialogueIndex];
+    this.state.dialogueIndex = dialogueIndex;
     const speakerEl = this.dom['dialogue-speaker'];
     const textEl = this.dom['dialogue-text'];
     const boxEl = this.dom['dialogue-box'];
@@ -271,8 +286,9 @@ const GAME = {
       return;
     }
 
-    if (speakerEl) speakerEl.textContent = dialogue.speaker || '';
-    if (textEl) {
+    const dialogueChanged = this.state.sceneStepIndex === 0 || dialogueIndex !== previousDialogueIndex;
+    if (speakerEl && dialogueChanged) speakerEl.textContent = dialogue.speaker || '';
+    if (textEl && dialogueChanged) {
       textEl.textContent = dialogue.text;
       textEl.style.animation = 'none';
       textEl.offsetHeight; // trigger reflow
@@ -281,19 +297,18 @@ const GAME = {
     if (boxEl) boxEl.scrollTop = 0;
     if (btnEl) btnEl.style.display = 'inline-block';
 
-    // Update scene image if dialogue specifies frame
-    if (dialogue.frameIdx !== undefined) {
-      this.updateSceneImage(dialogue.frameIdx);
-    }
+    // Every level displays all five images in their file order.
+    this.updateSceneImage(frameIndex);
   },
 
   advanceDialogue() {
     const level = this.getCurrentLevel();
     if (!level) return;
 
-    this.state.dialogueIndex++;
+    const visualStepCount = level.images?.length || level.dialogues.length;
+    this.state.sceneStepIndex++;
 
-    if (this.state.dialogueIndex >= level.dialogues.length) {
+    if (this.state.sceneStepIndex >= visualStepCount) {
       // Dialogue finished - check for question
       document.getElementById('btn-dialogue-next').style.display = 'none';
       this.maybeTriggerQuestion();
@@ -332,6 +347,9 @@ const GAME = {
 
     const card = this.dom['question-card'];
     if (!card) return;
+    const level = this.getCurrentLevel();
+    const charData = this.state.character;
+    const portraitSrc = this.getCharacterPortraitSrc();
 
     const typeBadge = question.type === 'multiple_choice'
       ? '<span class="question-type-badge badge-mc">选择题 · 不可跳过</span>'
@@ -349,7 +367,7 @@ const GAME = {
     bodyHtml += `
       <div id="answer-result" class="answer-result" style="display:none;">
         <div id="explanation-text" class="explanation"></div>
-        <button type="button" id="ref-toggle" class="ref-toggle" aria-expanded="false">📚 展开参考文献</button>
+        <button type="button" id="ref-toggle" class="ref-toggle" aria-expanded="false" style="display:none;">📚 展开参考文献</button>
         <div id="ref-content" class="ref-content"></div>
         <div style="text-align:center;margin-top:1em;">
           <button id="btn-continue" class="btn btn-gold">继续前行 →</button>
@@ -357,17 +375,31 @@ const GAME = {
       </div>
     `;
 
-    card.innerHTML = typeBadge + bodyHtml;
+    card.innerHTML = `
+      <aside class="question-portrait-panel">
+        <img class="question-portrait-image" src="${portraitSrc}"
+          alt="${charData?.name || ''}${level?.paiName || ''}人物画像"
+          onerror="this.parentElement.classList.add('portrait-missing'); this.remove();">
+        <div class="question-portrait-shade"></div>
+        <div class="question-portrait-caption">
+          <span>${level?.paiName || ''}</span>
+          <strong>${level?.title || ''}</strong>
+          <small>${charData?.name || ''} · ${charData?.epithet || ''}</small>
+        </div>
+      </aside>
+      <div class="question-content">
+        ${typeBadge}
+        ${bodyHtml}
+      </div>
+    `;
     card.classList.add('animate-in');
 
-    // Re-bind controls generated inside the question card.
-    setTimeout(() => {
-      document.getElementById('btn-submit-mc')?.addEventListener('click', () => this.submitMC());
-      document.getElementById('btn-send-chat')?.addEventListener('click', () => this.sendChat());
-      document.getElementById('btn-skip-sa')?.addEventListener('click', () => this.skipShortAnswer());
-      document.getElementById('btn-continue')?.addEventListener('click', () => this.continueAfterQuestion());
-      document.getElementById('ref-toggle')?.addEventListener('click', () => this.toggleAnswerRef());
-    }, 100);
+    // Bind controls generated inside the question card exactly once.
+    document.getElementById('btn-submit-mc')?.addEventListener('click', () => this.submitMC());
+    document.getElementById('btn-send-chat')?.addEventListener('click', () => this.sendChat());
+    document.getElementById('btn-skip-sa')?.addEventListener('click', () => this.skipShortAnswer());
+    document.getElementById('btn-continue')?.addEventListener('click', () => this.continueAfterQuestion());
+    document.getElementById('ref-toggle')?.addEventListener('click', () => this.toggleAnswerRef());
   },
 
   renderMC(question) {
@@ -475,8 +507,6 @@ const GAME = {
       refToggle.style.display = 'none';
     }
 
-    document.getElementById('btn-continue')?.addEventListener('click', () => this.continueAfterQuestion());
-
     this.state.questionAnswered = true;
   },
 
@@ -492,6 +522,10 @@ const GAME = {
   },
 
   continueAfterQuestion() {
+    if (this.state.transitioning) return;
+    this.state.transitioning = true;
+    const continueButton = document.getElementById('btn-continue');
+    if (continueButton) continueButton.disabled = true;
     this.dom.questionPanel.classList.add('hidden');
     this.state.currentQuestion = null;
     this.state.selectedOption = undefined;
@@ -574,6 +608,7 @@ const GAME = {
   },
 
   skipShortAnswer() {
+    if (this.state.transitioning) return;
     const hasAnswered = this.state.chatHistory.some(message => message.role === 'user');
     if (hasAnswered) {
       this.state.branch.push({ level: this.state.levelIndex, shortAnswerCompleted: true });
@@ -586,6 +621,7 @@ const GAME = {
     }
 
     // Mark as answered (skipped)
+    this.state.transitioning = true;
     this.state.questionAnswered = true;
     this.state.branch.push({ level: this.state.levelIndex, skipped: true });
     this.dom.questionPanel.classList.add('hidden');
@@ -625,45 +661,18 @@ const GAME = {
     this.state.character = null;
     this.state.levelIndex = 0;
     this.state.dialogueIndex = 0;
+    this.state.sceneStepIndex = 0;
     this.state.branch = [];
     this.state.totalCorrect = 0;
     this.state.questionAnswered = false;
     this.state.currentQuestion = null;
     this.state.chatHistory = [];
     this.state.selectedOption = undefined;
+    this.state.transitioning = false;
     this.dom.questionPanel.classList.add('hidden');
     this.showScreen('title');
   },
 
-  // --- Reference Panel ---
-  toggleRefPanel(force) {
-    const panel = this.dom['ref-panel'];
-    if (!panel) return;
-    const isOpen = panel.classList.contains('open');
-    const shouldOpen = force !== undefined ? force : !isOpen;
-    if (shouldOpen) {
-      panel.classList.add('open');
-      this.updateRefPanel();
-    } else {
-      panel.classList.remove('open');
-    }
-  },
-
-  updateRefPanel() {
-    const content = document.getElementById('ref-panel-content');
-    if (!content) return;
-    const level = this.getCurrentLevel();
-    if (!level || !level.question) {
-      content.innerHTML = '<p style="color:#4f3a2d;">当前关卡暂无参考文献。</p>';
-      return;
-    }
-    const refs = level.question.references || [];
-    if (refs.length === 0) {
-      content.innerHTML = '<p style="color:#4f3a2d;">当前关卡暂无参考文献。</p>';
-    } else {
-      content.innerHTML = '<div class="gb-reference-list">' + refs.map(r => `<p>${r}</p>`).join('') + '</div>';
-    }
-  },
 };
 
 // --- Initialize on load ---

@@ -103,7 +103,7 @@
 
 对于评阅作业的老师，她会收到本仓库的完整代码。告知她代码文件夹应以整体为单位下载、解压缩、移动、删除，不能只动内部文件夹或文件。然后告知如何运行小游戏；如果出了问题，钉钉或电话联系19706101056张天羽。
 
-当然，她也可以选择不下载代码包，选择https://loclhaith.github.io/The-Heaven-Sword-and-Dragon-Saber/
+当然，她也可以选择不下载代码包，选择https://lochlaith.github.io/The-Heaven-Sword-and-Dragon-Saber/
 
 告知她这个是从我Github个人主页中转过去的、为什么Github不支持改网址、为什么Github很卡、为什么推荐翻墙等。
 

@@ -17,22 +17,29 @@
   <!-- ========== Title Screen ========== -->
   <div id="title-screen" class="screen active">
     <div class="title-decoration"></div>
-    <h1 class="game-title">倚天屠龙记</h1>
-    <p class="subtitle">胡 笳 十 八 拍</p>
-    <p class="subtitle-desc">
-      以艺术点亮医学，守护女性健康美<br>
-      融合中医与西医智慧<br>
-      在金庸武侠世界中探寻女性健康之道
-    </p>
-    <button id="btn-start" class="btn-start">踏 入 江 湖</button>
-    <p style="color:#d8c28d;font-size:1rem;margin-top:2em;text-shadow:0 2px 6px rgba(0,0,0,0.75);">
-      浙江大学《中西医学与美学》期末大作业
-    </p>
+    <div class="title-copy">
+      <div class="title-heading">
+        <h1 class="game-title">倚天屠龙记</h1>
+        <p class="subtitle">胡 笳 十 八 拍</p>
+      </div>
+      <p class="subtitle-desc">
+        以艺术点亮医学，守护女性健康美<br>
+        融合中医与西医智慧<br>
+        在金庸武侠世界中探寻女性健康之道
+      </p>
+      <div class="title-actions">
+        <button id="btn-start" class="btn-start">踏 入 江 湖</button>
+        <p class="course-credit">浙江大学《中西医学与美学》期末大作业</p>
+      </div>
+    </div>
   </div>
 
   <!-- ========== Character Selection ========== -->
   <div id="char-select-screen" class="screen">
-    <h2 class="char-select-title">选 择 你 的 江 湖 儿 女</h2>
+    <div class="char-select-heading">
+      <h2 class="char-select-title">选 择 你 的 江 湖 儿 女</h2>
+      <p>草木有生，医道相传；择一人同行，走完她的胡笳十八拍。</p>
+    </div>
     <div id="char-grid" class="char-grid">
       <!-- Dynamically filled by JS -->
     </div>
@@ -77,15 +84,19 @@
       <div class="ending-image-frame">
         <img id="ending-image" src="" alt="结局意象图">
       </div>
-      <div id="ending-title" class="ending-title"></div>
-      <div id="ending-poem" class="ending-poem"></div>
-      <div id="ending-message" class="ending-message"></div>
-      <div id="ending-score" style="color:#d8c28d;margin-bottom:2em;font-size:1rem;"></div>
-      <button id="btn-restart-ending" class="btn btn-gold">重 返 江 湖</button>
-      <p style="color:#d8c28d;font-size:1rem;margin-top:1.5em;">
-        蔡文姬《胡笳十八拍》——叹乱世流离<br>
-        愿天下女子皆得健康，愿世间再无战乱与病痛
-      </p>
+      <div class="ending-content-panel">
+        <div class="ending-summary">
+          <div id="ending-title" class="ending-title"></div>
+          <div id="ending-poem" class="ending-poem"></div>
+          <div id="ending-score" class="ending-score"></div>
+          <button id="btn-restart-ending" class="btn btn-gold">重 返 江 湖</button>
+          <p class="ending-wish">
+            蔡文姬《胡笳十八拍》——叹乱世流离<br>
+            愿天下女子皆得健康，愿世间再无战乱与病痛
+          </p>
+        </div>
+        <div id="ending-message" class="ending-message"></div>
+      </div>
     </div>
   </div>
 
@@ -93,16 +104,6 @@
   <div id="question-panel" class="question-panel hidden">
     <div id="question-card" class="question-card">
       <!-- Dynamically filled -->
-    </div>
-  </div>
-
-  <!-- ========== Reference Panel (Slide-in) ========== -->
-  <button id="btn-ref-toggle" class="ref-panel-toggle" title="参考文献">📚</button>
-  <div id="ref-panel" class="ref-panel">
-    <span id="btn-ref-close" class="ref-panel-close">✕</span>
-    <h3>📚 参考文献</h3>
-    <div id="ref-panel-content">
-      <p style="color:#4f3a2d;">暂无参考文献。</p>
     </div>
   </div>
 

@@ -15,3 +15,5 @@
 ```
 
 脚本会准备论文图片、重新抽取游戏数据，依次执行 XeLaTeX、Biber、XeLaTeX、XeLaTeX，并生成最终 PDF。
+
+直接编译 `main.tex` 只会更新 `main.pdf`；运行 `build.ps1` 才会在编译完成后将 `main.pdf` 覆盖复制为 `科普作品说明文档.pdf`。
